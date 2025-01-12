@@ -1,29 +1,50 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Lesen Sie jetzt „,Lesen Sie jetzt „,MISC,,,de,5
-Lesen Sie jetzt „Schnee,Lesen Sie jetzt „Schnee,MISC,,,de,5
-Deutscher,Deutscher,MISC,,,de,2
-Lesen Sie jetzt „Winterwetter,Lesen Sie jetzt „Winterwetter,MISC,,,de,2
-DWD,DWD,MISC,0.0,0.0,de,2
-Deutscher Wetterdienst,Deutscher Wetterdienst,MISC,,,de,2
+Lesen Sie jetzt „,Lesen Sie jetzt „,MISC,,,de,6
+Lesen Sie jetzt „Schnee,Lesen Sie jetzt „Schnee,MISC,,,de,6
+DWD,DWD,MISC,0.0,0.0,de,5
+Lesen Sie jetzt „Winterwetter,Lesen Sie jetzt „Winterwetter,MISC,,,de,3
+Deutscher,Deutscher,MISC,,,de,3
+Freizeit-Wintersport,Freizeit-Wintersport,MISC,,,de,3
+Weihnachten,Weihnachten,MISC,,,de,2
 Wechselhaftes Wetter,Wechselhaftes Wetter,MISC,,,de,2
+Schweizer,Schweizer,MISC,,,de,2
+Deutscher Wetterdienst,Deutscher Wetterdienst,MISC,,,de,2
+Ein heftiger Wintersturm,Ein heftiger Wintersturm,MISC,,,de,1
+Lesen Sie jetzt „Wochenende,Lesen Sie jetzt „Wochenende,MISC,,,de,1
+Lesen Sie jetzt „Schnee und Eis,Lesen Sie jetzt „Schnee und Eis,MISC,,,de,1
+Deutsche Wetterdienst,Deutsche Wetterdienst,MISC,,,de,1
 Lesen Sie jetzt „Vorsicht auf Sachsens Straßen,Lesen Sie jetzt „Vorsicht auf Sachsens Straßen,MISC,,,de,1
-Lesen Sie jetzt „Ruhiges Winterwetter - nachts Dauerfrost,Lesen Sie jetzt „Ruhiges Winterwetter - nachts Dauerfrost,MISC,,,de,1
-Dauerfrost am Wochenende - Schock-Kälte,Dauerfrost am Wochenende - Schock-Kälte,MISC,,,de,1
-Sa…,Sa…,MISC,,,de,1
-Lesen Sie jetzt „Viele Unfälle wegen Schnee,Lesen Sie jetzt „Viele Unfälle wegen Schnee,MISC,,,de,1
-Lesen Sie jetzt „Fünf Unfälle auf der,Lesen Sie jetzt „Fünf Unfälle auf der,MISC,,,de,1
+Lesen Sie jetzt „Glätte und Frost,Lesen Sie jetzt „Glätte und Frost,MISC,,,de,1
+Lesen Sie jetzt „Wind,Lesen Sie jetzt „Wind,MISC,,,de,1
 Lesen Sie jetzt „Wintereinbruch,Lesen Sie jetzt „Wintereinbruch,MISC,,,de,1
 Lesen Sie jetzt „Graupel,Lesen Sie jetzt „Graupel,MISC,,,de,1
-Lesen Sie jetzt „Wind,Lesen Sie jetzt „Wind,MISC,,,de,1
-Lesen Sie jetzt „Wochenende,Lesen Sie jetzt „Wochenende,MISC,,,de,1
-Lesen Sie jetzt „Glätte und Frost,Lesen Sie jetzt „Glätte und Frost,MISC,,,de,1
-Lesen Sie jetzt „Glätte in ganz Deutschland,Lesen Sie jetzt „Glätte in ganz Deutschland,MISC,,,de,1
+Lesen Sie jetzt „Fraport,Lesen Sie jetzt „Fraport,MISC,,,de,1
+Lesen Sie jetzt „Fünf Unfälle auf der,Lesen Sie jetzt „Fünf Unfälle auf der,MISC,,,de,1
+Lesen Sie jetzt „Schnee und Kälte,Lesen Sie jetzt „Schnee und Kälte,MISC,,,de,1
+Neuschnee und Kälte,Neuschnee und Kälte,MISC,,,de,1
+Lesen Sie jetzt „Viele Unfälle wegen Schnee,Lesen Sie jetzt „Viele Unfälle wegen Schnee,MISC,,,de,1
+Sa…,Sa…,MISC,,,de,1
+Dauerfrost am Wochenende - Schock-Kälte,Dauerfrost am Wochenende - Schock-Kälte,MISC,,,de,1
+Lesen Sie jetzt „Ruhiges Winterwetter - nachts Dauerfrost,Lesen Sie jetzt „Ruhiges Winterwetter - nachts Dauerfrost,MISC,,,de,1
+Deutschen Wetterdienst,Deutschen Wetterdienst,MISC,,,de,1
+Lesen Sie jetzt „Schnee und Glatteis,Lesen Sie jetzt „Schnee und Glatteis,MISC,,,de,1
+Ausgerechnet,Ausgerechnet,MISC,,,de,1
+Lesen Sie jetzt „Schnee und Frost,Lesen Sie jetzt „Schnee und Frost,MISC,,,de,1
+Blondes Doppel im,Blondes Doppel im,MISC,,,de,1
 Lesen Sie jetzt „Streifenwagen,Lesen Sie jetzt „Streifenwagen,MISC,,,de,1
-Deutsche Wette,Deutsche Wette,MISC,,,de,1
-Lesen Sie jetzt „Schneefall,Lesen Sie jetzt „Schneefall,MISC,,,de,1
-Lesen Sie jetzt „Schnee und Glätte,Lesen Sie jetzt „Schnee und Glätte,MISC,,,de,1
-ostdeutscher,ostdeutscher,MISC,,,de,1
-Das neue Jahr 2025,Das neue Jahr 2025,MISC,,,de,1
-deutsches,deutsches,MISC,,,de,1
 Fo…,Fo…,MISC,,,de,1
+deutsches,deutsches,MISC,,,de,1
+Das neue Jahr 2025,Das neue Jahr 2025,MISC,,,de,1
+Lesen Sie jetzt „Glättegefahr,Lesen Sie jetzt „Glättegefahr,MISC,,,de,1
+Tages,Tages,MISC,,,de,1
+ostdeutscher,ostdeutscher,MISC,,,de,1
+Lesen Sie jetzt „Schnee und Glätte,Lesen Sie jetzt „Schnee und Glätte,MISC,,,de,1
+Deutscher Wetterdienst: Schneeschauer,Deutscher Wetterdienst: Schneeschauer,MISC,,,de,1
+Lesen Sie jetzt „Schneeschauer,Lesen Sie jetzt „Schneeschauer,MISC,,,de,1
+Lesen Sie jetzt „Schneefall,Lesen Sie jetzt „Schneefall,MISC,,,de,1
+Deutsche Wette,Deutsche Wette,MISC,,,de,1
+Montag sol…,Montag sol…,MISC,,,de,1
+Lesen Sie jetzt „Glätte in ganz Deutschland,Lesen Sie jetzt „Glätte in ganz Deutschland,MISC,,,de,1
+Lesen Sie jetzt „Wetterdienst,Lesen Sie jetzt „Wetterdienst,MISC,,,de,1
+Deutschen Wetter,Deutschen Wetter,MISC,,,de,1
 Zogen,Zogen,MISC,,,de,1

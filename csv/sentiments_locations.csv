@@ -1,57 +1,97 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Hessen,Hessen,LOC,-0.11666666666666665,0.0,de,12
-Brandenburg,Brandenburg,LOC,-0.042857142857142864,0.0,de,7
-Berlin,Berlin,LOC,-0.042857142857142864,0.0,de,7
-Deutschland,Deutschland,LOC,-0.24285714285714285,0.0,de,7
-NRW,NRW,LOC,0.0,0.4,de,5
+Hessen,Hessen,LOC,-0.09333333333333332,0.0,de,15
+Deutschland,Deutschland,LOC,-0.31666666666666665,0.0,de,12
+Rheinland-Pfalz,Rheinland-Pfalz,LOC,0.030000000000000006,0.0,de,10
+Berlin,Berlin,LOC,-0.030000000000000006,0.0,de,10
+Brandenburg,Brandenburg,LOC,-0.030000000000000006,0.0,de,10
+NRW,NRW,LOC,0.16428571428571428,0.2857142857142857,de,7
+Saarland,Saarland,LOC,-0.09999999999999999,0.0,de,7
+Thüringen,Thüringen,LOC,-0.3499999999999999,0.0,de,6
+Nordrhein-Westfalen,Nordrhein-Westfalen,LOC,0.45,0.0,de,5
 Bayern,Bayern,LOC,-0.13999999999999999,0.0,de,5
-Nordrhein-Westfalen,Nordrhein-Westfalen,LOC,0.35,0.0,de,4
+Sachsen,Sachsen,LOC,0.0,0.0,de,5
+Glättegefahr,Glättegefahr,LOC,0.0,0.0,de,5
 DWD,DWD,LOC,0.0,0.25,de,4
+Deutschlands,Deutschlands,LOC,0.26249999999999996,0.125,de,4
 Europa,Europa,LOC,0.0,0.0,de,4
-Thüringen,Thüringen,LOC,0.0,0.0,de,3
+Frankfurt,Frankfurt,LOC,-0.5249999999999999,0.0,de,4
+Rodelfans,Rodelfans,LOC,0.7875,0.0,de,4
 Offenbach am Main,Offenbach am Main,LOC,0.0,0.0,de,3
+Sauerland,Sauerland,LOC,0.0,1.0,de,3
+Glatteisregen,Glatteisregen,LOC,-0.6999999999999998,0.0,de,3
 Oberfranken,Oberfranken,LOC,0.0,0.0,de,3
-A8,A8,LOC,0.0,0.0,de,2
+Erzgebirge,Erzgebirge,LOC,0.0,0.0,de,3
+USA,USA,LOC,0.0,0.0,de,3
+Südthüringen,Südthüringen,LOC,0.0,0.0,de,3
+Glatteis,Glatteis,LOC,-0.4666666666666666,0.0,de,3
+Sachsen-Anhalt,Sachsen-Anhalt,LOC,0.2333333333333333,0.0,de,3
 Hamburg,Hamburg,LOC,0.0,0.0,de,2
-Europas,Europas,LOC,0.35,0.0,de,2
-Sachsen,Sachsen,LOC,0.35,0.0,de,2
 Landkreis Göppingen,Landkreis Göppingen,LOC,0.0,0.0,de,2
-Russland,Russland,LOC,0.0,0.0,de,2
+Glatteis-Warnung,Glatteis-Warnung,LOC,0.0,0.0,de,2
+Nachtmittagsstunden,Nachtmittagsstunden,LOC,0.0,0.0,de,2
+Baden-Württemberg,Baden-Württemberg,LOC,0.0,0.0,de,2
+Landes,Landes,LOC,0.0,0.0,de,2
+Wetterdienst,Wetterdienst,LOC,-0.7,0.0,de,2
+Europas,Europas,LOC,0.35,0.0,de,2
 Österreich,Österreich,LOC,0.0,0.0,de,2
-Sachsen-Anhalt,Sachsen-Anhalt,LOC,0.35,0.0,de,2
+A8,A8,LOC,0.0,0.0,de,2
+Wintersportgebieten,Wintersportgebieten,LOC,0.0,1.0,de,2
+Winterwetter,Winterwetter,LOC,-0.35,0.0,de,2
+Santa Maria Maggiore,Santa Maria Maggiore,LOC,0.0,0.0,de,2
+Russland,Russland,LOC,0.0,0.0,de,2
 Ukraine,Ukraine,LOC,0.0,0.0,de,2
-Aachen,Aachen,LOC,0.0,0.0,de,1
 Nordrhein-Westfalens,Nordrhein-Westfalens,LOC,0.0,0.0,de,1
 Glätte,Glätte,LOC,0.0,1.0,de,1
-Freitagmorgen,Freitagmorgen,LOC,0.0,0.0,de,1
+Schnee-Walze,Schnee-Walze,LOC,-0.7,0.0,de,1
 Hochsauerlandkreis,Hochsauerlandkreis,LOC,0.0,0.0,de,1
+Stadtreinigung Hamburg,Stadtreinigung Hamburg,LOC,0.0,0.0,de,1
+Freitagmorgen,Freitagmorgen,LOC,0.0,0.0,de,1
+…,…,LOC,0.0,0.0,de,1
+Schnee,Schnee,LOC,0.0,0.0,de,1
+Gewitter,Gewitter,LOC,0.0,0.0,de,1
+Harz,Harz,LOC,-0.7,0.0,de,1
+de…,de…,LOC,0.0,0.0,de,1
+Wien,Wien,LOC,0.0,0.0,de,1
 Bestwig,Bestwig,LOC,0.0,0.0,de,1
-Freistaat,Freistaat,LOC,0.0,0.0,de,1
+Aachen,Aachen,LOC,0.0,0.0,de,1
+Schleudern,Schleudern,LOC,1.0,0.0,de,1
 Köln,Köln,LOC,0.0,0.0,de,1
 Bergischen Land,Bergischen Land,LOC,0.0,0.0,de,1
-Glatteis,Glatteis,LOC,0.0,0.0,de,1
+Freistaat,Freistaat,LOC,0.0,0.0,de,1
+Rocky-Mountains-Romantik,Rocky-Mountains-Romantik,LOC,1.0,0.0,de,1
+Hollywood-Charme,Hollywood-Charme,LOC,1.0,0.0,de,1
 Autobahn 8,Autobahn 8,LOC,0.0,0.0,de,1
 Mühlhausen,Mühlhausen,LOC,0.0,0.0,de,1
 Landkreis Neumarkt in der Oberpfalz,Landkreis Neumarkt in der Oberpfalz,LOC,0.0,0.0,de,1
 München,München,LOC,0.0,0.0,de,1
-Baden-Württemberg,Baden-Württemberg,LOC,0.0,0.0,de,1
-Rheinland-Pfalz,Rheinland-Pfalz,LOC,-0.7,0.0,de,1
-…,…,LOC,0.0,0.0,de,1
-Intercity-Zug,Intercity-Zug,LOC,0.0,0.0,de,1
-Schleudern,Schleudern,LOC,1.0,0.0,de,1
-Autobahn 3,Autobahn 3,LOC,1.0,0.0,de,1
-Bad Camberg,Bad Camberg,LOC,1.0,0.0,de,1
-Limburg,Limburg,LOC,1.0,0.0,de,1
-Winterwetter,Winterwetter,LOC,-0.7,0.0,de,1
-Fichtelgebirge,Fichtelgebirge,LOC,0.0,0.0,de,1
-Bischofsgrün,Bischofsgrün,LOC,0.0,0.0,de,1
+Rocky Mountains,Rocky Mountains,LOC,0.0,0.0,de,1
+Aspen,Aspen,LOC,0.0,0.0,de,1
+Freien,Freien,LOC,0.0,0.0,de,1
+Republik,Republik,LOC,-0.7,0.0,de,1
+Fran,Fran,LOC,0.0,0.0,de,1
+Rodelfreude,Rodelfreude,LOC,0.0,0.0,de,1
 Bayerns,Bayerns,LOC,0.0,0.0,de,1
-Gewitter,Gewitter,LOC,0.0,0.0,de,1
-Bahnstrecke München-Salzburg,Bahnstrecke München-Salzburg,LOC,-1.0,0.0,de,1
-Stadtreinigung Hamburg,Stadtreinigung Hamburg,LOC,0.0,0.0,de,1
+Schneefall,Schneefall,LOC,0.0,0.0,de,1
+Winter,Winter,LOC,0.0,0.0,de,1
+Intercity-Zug,Intercity-Zug,LOC,0.0,0.0,de,1
+Bischofsgrün,Bischofsgrün,LOC,0.0,0.0,de,1
+Hessens Skigebiete,Hessens Skigebiete,LOC,0.0,0.0,de,1
+Willingen,Willingen,LOC,0.0,0.0,de,1
+Landkreis Waldeck-Frankenberg,Landkreis Waldeck-Frankenberg,LOC,0.0,0.0,de,1
+Fichtelgebirge,Fichtelgebirge,LOC,0.0,0.0,de,1
+Frankfurter Flughafen am Sonntag,Frankfurter Flughafen am Sonntag,LOC,0.0,0.0,de,1
+St,St,LOC,0.0,0.0,de,1
 Sachsens,Sachsens,LOC,0.0,0.0,de,1
-Saarland,Saarland,LOC,-0.7,0.0,de,1
+Autobahn 3,Autobahn 3,LOC,1.0,0.0,de,1
 Vogtland,Vogtland,LOC,0.0,0.0,de,1
-Wien,Wien,LOC,0.0,0.0,de,1
-de…,de…,LOC,0.0,0.0,de,1
-Landes,Landes,LOC,0.0,0.0,de,1
+Hubschraubereinsatz,Hubschraubereinsatz,LOC,0.0,0.0,de,1
+Roms,Roms,LOC,0.0,0.0,de,1
+Vatikan,Vatikan,LOC,0.0,0.0,de,1
+Limburg,Limburg,LOC,1.0,0.0,de,1
+Erfurt,Erfurt,LOC,-0.7,0.0,de,1
+th,th,LOC,-0.7,0.0,de,1
+Freistaats,Freistaats,LOC,-0.7,0.0,de,1
+Offenbacher,Offenbacher,LOC,0.0,0.0,de,1
+Bad Camberg,Bad Camberg,LOC,1.0,0.0,de,1
+Bahnstrecke München-Salzburg,Bahnstrecke München-Salzburg,LOC,-1.0,0.0,de,1
+Süddeutschland,Süddeutschland,LOC,0.0,0.0,de,1
