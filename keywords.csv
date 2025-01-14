@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glätte',de,Hazard,#4287f5,#3b4a63,3,0.7181394381818181
+'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,3,0.70761298
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.7
-'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,1,0.7
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.7
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.7
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.7
