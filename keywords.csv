@@ -16,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,2,0.63352752775
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,2,0.63352752775
 'Glatteis',de,Hazard,#4287f5,#3b4a63,3,0.6208239784090909
-'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.6151973138235294
 'Frost',de,Hazard,#4287f5,#315fa8,2,0.6135908186363636
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.60838763875
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,1,0.6014715129999999
@@ -26,4 +25,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,2,0.5742278185681818
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,2,0.5696851457727272
 'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.5536590279999999
+'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.5256179867499999
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.4302734135874999
