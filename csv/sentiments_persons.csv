@@ -1,3 +1,9 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Amy Waldman,Amy Waldman,PER,0.0,0.0,de,2
+Frostige Temperaturen,Frostige Temperaturen,PER,0.0,0.0,de,2
 André Roch,André Roch,PER,0.0,0.0,de,1
+Thorsten Kremers,Thorsten Kremers,PER,0.0,0.0,de,1
+Gestrichene Flü,Gestrichene Flü,PER,0.0,0.0,de,1
 Kai-Uwe Nerding,Kai-Uwe Nerding,PER,-0.7,0.0,de,1
+Fabienne Grawehr,Fabienne Grawehr,PER,0.0,0.0,de,1
+Clément Noël,Clément Noël,PER,0.0,0.0,de,1
