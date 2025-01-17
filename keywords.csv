@@ -24,6 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Ski',de,Impacts,#a89216,#bfba22,2,0.5619570922954544
 'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.5536590279999999
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.548296827175
-'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.5256179867499999
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.5255489802704545
+'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.44932554373749994
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.4302734135874999
