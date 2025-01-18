@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Glätte',de,Hazard,#4287f5,#3b4a63,3,0.7181394381818181
 'glatte Straßen',de,Impacts,#a89216,#87830f,3,0.7054300140909089
 'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,2,0.659049084090909
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.657250225
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.65650015
 'Schneefall',de,Hazard,#4287f5,#638ed4,2,0.6545017845454545
+'Glätte',de,Hazard,#4287f5,#3b4a63,3,0.6517414138181817
 'Frost Verspätung',de,Impacts,#a89216,#a89216,2,0.63352752775
 'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,2,0.63352752775
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,2,0.63352752775
