@@ -25,5 +25,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,3,0.5212717604977273
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.4862923236999999
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.4578736665493749
-'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.4493255437374999
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.4302734135874999
+'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.3846269821768749
