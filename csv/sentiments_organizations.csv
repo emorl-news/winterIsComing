@@ -1,49 +1,62 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.06470588235294117,0.0,de,34
-DWD,DWD,ORG,0.021428571428571432,0.07142857142857142,de,14
-Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,0.125,0.0,de,8
-Polizeiauto,Polizeiauto,ORG,0.0,0.0,de,3
+Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.14555555555555558,0.022222222222222223,de,45
+DWD,DWD,ORG,-0.07826086956521738,0.043478260869565216,de,23
+Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,0.021428571428571432,0.0,de,14
+BMW,BMW,ORG,0.5,0.0,de,4
+Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,-0.175,0.0,de,4
+Deutschen Wetterdiensts,Deutschen Wetterdiensts,ORG,0.2333333333333333,0.0,de,3
 BER,BER,ORG,0.4666666666666666,0.0,de,3
-BMW,BMW,ORG,0.3333333333333333,0.0,de,3
+Polizeiauto,Polizeiauto,ORG,0.0,0.0,de,3
 BSR,BSR,ORG,0.0,0.0,de,3
+rheinland-pfälzische Innenministerium,rheinland-pfälzische Innenministerium,ORG,-0.4666666666666666,0.0,de,3
+Rezession!,Rezession!,ORG,0.0,0.0,de,3
+bb,bb,ORG,0.3333333333333333,0.0,de,3
+lsw,lsw,ORG,0.35,0.0,de,2
+lrs,lrs,ORG,0.15000000000000002,0.0,de,2
+Vibrant China,Vibrant China,ORG,0.0,0.0,de,2
+Hinggan League,Hinggan League,ORG,0.0,0.0,de,2
+GLOBE NEWSWIRE,GLOBE NEWSWIRE,ORG,0.0,0.0,de,2
+HINGGAN-BUND,HINGGAN-BUND,ORG,0.0,0.0,de,2
+American Academy,American Academy,ORG,0.0,0.0,de,2
 Grüne,Grüne,ORG,0.0,0.0,de,2
 NWS,NWS,ORG,0.0,0.0,de,2
-Deutschen Wetterdiensts,Deutschen Wetterdiensts,ORG,0.35,0.0,de,2
-TU Berlin,TU Berlin,ORG,0.85,0.0,de,2
-American Academy,American Academy,ORG,0.0,0.0,de,2
 Inline-Alpin,Inline-Alpin,ORG,0.0,0.0,de,2
-lby,lby,ORG,-0.7,0.0,de,1
-FC Chammünster,FC Chammünster,ORG,0.0,0.0,de,1
-Unfälle +++ Verspätungen am Airport,Unfälle +++ Verspätungen am Airport,ORG,0.0,0.0,de,1
-BILDSTRECKE,BILDSTRECKE,ORG,0.0,0.0,de,1
-A7,A7,ORG,-0.7,0.0,de,1
-Ski-Inline,Ski-Inline,ORG,0.0,0.0,de,1
-Deutschen Skiverband,Deutschen Skiverband,ORG,0.0,0.0,de,1
-Deutschen Rollsport- und Inline-Verband,Deutschen Rollsport- und Inline-Verband,ORG,0.0,0.0,de,1
-A81.,A81.,ORG,0.0,0.0,de,1
-Deutschen W,Deutschen W,ORG,-0.7,0.0,de,1
+TU Berlin,TU Berlin,ORG,0.85,0.0,de,2
+lby,lby,ORG,-0.35,0.0,de,2
+lno,lno,ORG,0.0,0.0,de,2
+sn,sn,ORG,-0.5,0.0,de,2
 BVG,BVG,ORG,-0.7,0.0,de,1
+FC Chammünster,FC Chammünster,ORG,0.0,0.0,de,1
+Deutsche Wirtschaft s…,Deutsche Wirtschaft s…,ORG,0.0,0.0,de,1
+la…,la…,ORG,0.0,0.0,de,1
+Mercedes,Mercedes,ORG,1.0,0.0,de,1
+Audi,Audi,ORG,1.0,0.0,de,1
+Ski-Inline,Ski-Inline,ORG,0.0,0.0,de,1
+BILDSTRECKE,BILDSTRECKE,ORG,0.0,0.0,de,1
+Deutschen Skiverband,Deutschen Skiverband,ORG,0.0,0.0,de,1
 Kälte-Start,Kälte-Start,ORG,-1.0,0.0,de,1
-Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,0.0,0.0,de,1
+Deutschen Rollsport- und Inline-Verband,Deutschen Rollsport- und Inline-Verband,ORG,0.0,0.0,de,1
+A7,A7,ORG,-0.7,0.0,de,1
+Deutschen W,Deutschen W,ORG,-0.7,0.0,de,1
 sta…,sta…,ORG,0.0,0.0,de,1
-Freiburger Polizei,Freiburger Polizei,ORG,0.5,0.0,de,1
-Winterwitterung,Winterwitterung,ORG,0.0,0.0,de,1
-lrs,lrs,ORG,1.0,0.0,de,1
-lno,lno,ORG,0.0,0.0,de,1
+A81.,A81.,ORG,0.0,0.0,de,1
+poweroutage.us,poweroutage.us,ORG,0.0,0.0,de,1
+lnw,lnw,ORG,0.0,0.0,de,1
 Guerilla-Schlag,Guerilla-Schlag,ORG,0.0,0.0,de,1
 Winterglück,Winterglück,ORG,1.0,0.0,de,1
-bb,bb,ORG,1.0,0.0,de,1
 Weihnachtskirche Roms,Weihnachtskirche Roms,ORG,0.0,0.0,de,1
 Bilderbuch!,Bilderbuch!,ORG,0.0,0.0,de,1
 Jags,Jags,ORG,0.0,0.0,de,1
 Ko…,Ko…,ORG,0.0,0.0,de,1
+mv,mv,ORG,0.7,0.0,de,1
 Abhilfe,Abhilfe,ORG,0.0,0.0,de,1
-Deutschen Bahn,Deutschen Bahn,ORG,0.0,0.0,de,1
 Fraport,Fraport,ORG,-0.7,0.0,de,1
-rheinland-pfälzische Innenministerium,rheinland-pfälzische Innenministerium,ORG,-0.7,0.0,de,1
 Nationale Wetterdienst,Nationale Wetterdienst,ORG,0.0,0.0,de,1
 Deutschen Presse-Agentur,Deutschen Presse-Agentur,ORG,0.0,0.0,de,1
-lsw,lsw,ORG,0.0,0.0,de,1
 Glatteis-Warnung,Glatteis-Warnung,ORG,0.0,0.0,de,1
+Winterwitterung,Winterwitterung,ORG,0.0,0.0,de,1
+Deutschen Bahn,Deutschen Bahn,ORG,0.0,0.0,de,1
 Hurra!,Hurra!,ORG,0.0,0.0,de,1
-sn,sn,ORG,-1.0,0.0,de,1
+Freiburger Polizei,Freiburger Polizei,ORG,0.5,0.0,de,1
+Unfälle +++ Verspätungen am Airport,Unfälle +++ Verspätungen am Airport,ORG,0.0,0.0,de,1
+Schneehuhn-Ruflaute,Schneehuhn-Ruflaute,ORG,0.7,0.0,de,1
