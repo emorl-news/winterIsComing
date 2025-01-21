@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'glatte Straßen',de,Impacts,#a89216,#87830f,3,0.6863854037954544
 'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,2,0.659049084090909
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.657250225
-'Glätte',de,Hazard,#4287f5,#3b4a63,3,0.6407580585636363
-'Glatteis',de,Hazard,#4287f5,#3b4a63,3,0.6208239784090909
+'Glätte',de,Hazard,#4287f5,#3b4a63,3,0.3407580585636363
+'Glatteis',de,Hazard,#4287f5,#3b4a63,3,0.3208239784090909
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,2,0.61491291625
 'Frost',de,Hazard,#4287f5,#315fa8,2,0.6135908186363636
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.60838763875
