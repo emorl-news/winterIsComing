@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,2,0.659049084090909
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.657250225
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,2,0.61491291625
 'Frost',de,Hazard,#4287f5,#315fa8,2,0.6135908186363636
@@ -9,6 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,2,0.5939832743660713
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,2,0.5874102194999999
 'Eis Unfälle',de,Impacts,#a89216,#87830f,2,0.5871813035227272
+'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,3,0.5787852701136363
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,2,0.5742278185681818
 'Schnee Ski',de,Impacts,#a89216,#bfba22,2,0.5619570922954544
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.5542781754464285
