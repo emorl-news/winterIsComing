@@ -1,29 +1,29 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Hazard,#4287f5,#315fa8,2,0.6135908186363636
-'Schnee Wetterlage',de,Causes,#679e2c,#7db344,2,0.5742278185681818
-'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.56016284125
+'Schnee Wetterlage',de,Causes,#679e2c,#7db344,2,0.6742278185681818
+'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.66016284125
 'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.5536590279999999
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,2,0.5391288503540178
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,2,0.534552763
-'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,3,0.5332881359602273
+'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,3,0.6332881359602273
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,3,0.5315229288477272
 'glatte Straßen',de,Impacts,#a89216,#87830f,3,0.5296197155376704
 'Eis Unfälle',de,Impacts,#a89216,#87830f,2,0.5280274952670454
-'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.5226763088124999
-'Schnee Klimawandel',de,Causes,#679e2c,#477515,3,0.5212717604977273
-'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.5180295829375
-'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.5156801554153845
+'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.6226763088124999
+'Schnee Klimawandel',de,Causes,#679e2c,#477515,3,0.6212717604977273
+'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.6180295829375
+'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.6156801554153845
 'Schnee Ski',de,Impacts,#a89216,#bfba22,3,0.5098885357238635
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.5001572923647584
-'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,2,0.4888399044606816
+'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,2,0.6888399044606816
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.4834876800480681
-'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.4601495131339374
+'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.6601495131339374
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.4578736665493749
-'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.4578511665493749
+'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.6578511665493749
 'Schneefall',de,Hazard,#4287f5,#638ed4,3,0.44448662422365337
-'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.4302734135874999
-'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.4149986401449999
-'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.3893010065669686
+'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.6302734135874999
+'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.6149986401449999
+'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.6893010065669686
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.3846269821768749
 'Glätte',de,Hazard,#4287f5,#3b4a63,3,0.3407580585636363
 'Glatteis',de,Hazard,#4287f5,#3b4a63,3,0.3208239784090909
