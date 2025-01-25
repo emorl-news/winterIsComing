@@ -14,13 +14,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.5180295829375
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.5156801554153845
 'Schnee Ski',de,Impacts,#a89216,#bfba22,3,0.5098885357238635
-'Schneefall',de,Hazard,#4287f5,#638ed4,3,0.5064001060385227
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.5001572923647584
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,2,0.4888399044606816
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.4834876800480681
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.4601495131339374
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.4578736665493749
 'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.4578511665493749
+'Schneefall',de,Hazard,#4287f5,#638ed4,3,0.44448662422365337
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.4302734135874999
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.4149986401449999
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.3893010065669686
