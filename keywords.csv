@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.56016284125
 'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.5536590279999999
 'Schneefall',de,Hazard,#4287f5,#638ed4,3,0.5525012637886364
-'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,2,0.54135233309875
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,2,0.5391288503540178
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,2,0.534552763
 'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,3,0.5332881359602273
@@ -19,8 +18,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.5001572923647584
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,2,0.4888399044606816
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.4834876800480681
+'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.4601495131339374
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.4578736665493749
-'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.45785116654937497
+'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.4578511665493749
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.4302734135874999
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.4149986401449999
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.3893010065669686
