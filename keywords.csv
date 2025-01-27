@@ -24,6 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.4578736665493749
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.4553725413169686
 'Schneefall',de,Hazard,#4287f5,#638ed4,3,0.4444866242236533
-'Glätte',de,Hazard,#4287f5,#3b4a63,3,0.3407580585636363
-'Glatteis',de,Hazard,#4287f5,#3b4a63,3,0.3208239784090909
-'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.290302188622792
+'Glätte',de,Hazard,#4287f5,#4b4a63,3,0.3007580585636363
+'Glatteis',de,Hazard,#4287f5,#3b4a73,3,0.3008239784090909
+'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.330302188622792
