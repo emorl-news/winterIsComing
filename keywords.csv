@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.6893010065669686
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,2,0.6888399044606816
-'Schnee Wetterlage',de,Causes,#679e2c,#7db344,2,0.6742278185681818
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.66016284125
 'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,3,0.6332881359602273
+'Schnee Wetterlage',de,Causes,#679e2c,#7db344,2,0.6280448307829545
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.6226763088124999
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,3,0.6212717604977273
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.6180295829375
