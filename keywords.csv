@@ -20,10 +20,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eis Frost',de,Hazard,#4287f5,#022f78,2,0.4236952730481816
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.4233169806579396
 'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.4043887612446349
-'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.39872867430706727
+'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.3987286743070672
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.3967648436354742
 'Schneefall',de,Hazard,#4287f5,#638ed4,3,0.3964056792264689
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.330302188622792
-'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.3290066611015098
 'Glatteis',de,Hazard,#4287f5,#3b4a73,3,0.3008239784090909
 'Glätte',de,Hazard,#4287f5,#4b4a63,3,0.3007580585636363
+'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.27965566193628333
