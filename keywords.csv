@@ -2,13 +2,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,2,0.5538537489191964
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,2,0.5524256698018749
 'Frost',de,Hazard,#4287f5,#315fa8,2,0.5443047337829545
-'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,3,0.5437662612767187
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,2,0.5351186469283793
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,2,0.534552763
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,2,0.5333208400182969
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,3,0.5315229288477272
 'Eis Unfälle',de,Impacts,#a89216,#87830f,2,0.5280274952670454
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.52439900912325
+'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,3,0.4807943757215745
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.479442900303125
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.4685357293590438
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.4578736665493749
