@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,2,0.5538537489191964
-'Schnee Wetterlage',de,Causes,#679e2c,#7db344,2,0.5524256698018749
+'Schnee Wetterlage',de,Causes,#679e2c,#7db344,2,0.4972397820588664
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.479442900303125
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.4685357293590438
-'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,2,0.46192327790575405
+'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,2,0.461923277905754
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.4543703435499999
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,2,0.4534732240155524
 'Eis Unfälle',de,Impacts,#a89216,#87830f,2,0.4512241059769886
