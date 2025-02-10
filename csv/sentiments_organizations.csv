@@ -1,75 +1,86 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.1184931506849315,0.0136986301369863,de,73
-DWD,DWD,ORG,-0.1558823529411765,0.029411764705882353,de,34
+Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.14312499999999997,0.0125,de,80
+DWD,DWD,ORG,-0.17142857142857146,0.02857142857142857,de,35
 Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,-0.021052631578947364,0.0,de,19
 Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,-0.11666666666666665,0.0,de,6
+bb,bb,ORG,0.06000000000000001,0.0,de,5
 lsw,lsw,ORG,-0.030000000000000006,0.0,de,5
 sn,sn,ORG,0.0,0.0,de,4
 BMW,BMW,ORG,0.5,0.0,de,4
-bb,bb,ORG,0.25,0.0,de,4
-BER,BER,ORG,0.4666666666666666,0.0,de,3
-BSR,BSR,ORG,0.0,0.0,de,3
-Polizeiauto,Polizeiauto,ORG,0.0,0.0,de,3
-lrs,lrs,ORG,0.10000000000000002,0.0,de,3
 Rezession!,Rezession!,ORG,0.0,0.0,de,3
-rheinland-pfälzische Innenministerium,rheinland-pfälzische Innenministerium,ORG,-0.4666666666666666,0.0,de,3
 Deutschen Wetterdiensts,Deutschen Wetterdiensts,ORG,0.2333333333333333,0.0,de,3
-Hinggan League,Hinggan League,ORG,0.0,0.0,de,2
-HINGGAN-BUND,HINGGAN-BUND,ORG,0.0,0.0,de,2
-Essen,Essen,ORG,0.0,0.0,de,2
-Vibrant China,Vibrant China,ORG,0.0,0.0,de,2
-Inline-Alpin,Inline-Alpin,ORG,0.0,0.0,de,2
-Deutschen W,Deutschen W,ORG,-0.35,0.0,de,2
-lhe,lhe,ORG,0.0,0.0,de,2
-Polizei Heilbronn,Polizei Heilbronn,ORG,-0.4083333333333333,0.16666666666666666,de,2
-AfD,AfD,ORG,0.5249999999999999,0.25,de,2
-Glatteis-Warnung,Glatteis-Warnung,ORG,0.0,0.0,de,2
-GLOBE NEWSWIRE,GLOBE NEWSWIRE,ORG,0.0,0.0,de,2
-lno,lno,ORG,0.0,0.0,de,2
-NWS,NWS,ORG,0.0,0.0,de,2
-Grüne,Grüne,ORG,0.0,0.0,de,2
-TU Berlin,TU Berlin,ORG,0.85,0.0,de,2
-lby,lby,ORG,-0.35,0.0,de,2
-American Academy,American Academy,ORG,0.0,0.0,de,2
-mv,mv,ORG,0.0,0.0,de,2
+BER,BER,ORG,0.4666666666666666,0.0,de,3
+Polizeiauto,Polizeiauto,ORG,0.0,0.0,de,3
+rheinland-pfälzische Innenministerium,rheinland-pfälzische Innenministerium,ORG,-0.4666666666666666,0.0,de,3
+lrs,lrs,ORG,0.10000000000000002,0.0,de,3
+BSR,BSR,ORG,0.0,0.0,de,3
+Megabrände,Megabrände,ORG,0.0,0.0,de,2
 Rockern,Rockern,ORG,-0.35,0.0,de,2
-Winterglück,Winterglück,ORG,1.0,0.0,de,1
-BVG,BVG,ORG,-0.7,0.0,de,1
-Kälte-Start,Kälte-Start,ORG,-1.0,0.0,de,1
+lhe,lhe,ORG,0.0,0.0,de,2
+Deutschen W,Deutschen W,ORG,-0.35,0.0,de,2
+Essen,Essen,ORG,0.0,0.0,de,2
+Polizei Heilbronn,Polizei Heilbronn,ORG,-0.4083333333333333,0.16666666666666666,de,2
+American Academy,American Academy,ORG,0.0,0.0,de,2
+Inline-Alpin,Inline-Alpin,ORG,0.0,0.0,de,2
+Vibrant China,Vibrant China,ORG,0.0,0.0,de,2
+Hinggan League,Hinggan League,ORG,0.0,0.0,de,2
+GLOBE NEWSWIRE,GLOBE NEWSWIRE,ORG,0.0,0.0,de,2
+HINGGAN-BUND,HINGGAN-BUND,ORG,0.0,0.0,de,2
+TU Berlin,TU Berlin,ORG,0.85,0.0,de,2
+Glatteis-Warnung,Glatteis-Warnung,ORG,0.0,0.0,de,2
+Grüne,Grüne,ORG,0.0,0.0,de,2
+sa,sa,ORG,0.07500000000000001,0.0,de,2
+lno,lno,ORG,0.0,0.0,de,2
+mv,mv,ORG,0.0,0.0,de,2
+AfD,AfD,ORG,0.5249999999999999,0.25,de,2
+NWS,NWS,ORG,0.0,0.0,de,2
+lby,lby,ORG,-0.35,0.0,de,2
 Audi,Audi,ORG,1.0,0.0,de,1
 Mercedes,Mercedes,ORG,1.0,0.0,de,1
+Los gehts!,Los gehts!,ORG,0.0,0.0,de,1
 sta…,sta…,ORG,0.0,0.0,de,1
-sa,sa,ORG,0.15000000000000002,0.0,de,1
-Deutschen Presse-Agentur,Deutschen Presse-Agentur,ORG,0.0,0.0,de,1
+Buffalo Bills,Buffalo Bills,ORG,0.0,0.0,de,1
 la…,la…,ORG,0.0,0.0,de,1
+Baltimore Ravens,Baltimore Ravens,ORG,0.0,0.0,de,1
 Deutsche Wirtschaft s…,Deutsche Wirtschaft s…,ORG,0.0,0.0,de,1
+Sony,Sony,ORG,0.7,0.0,de,1
 Glatteis-Gefahr!,Glatteis-Gefahr!,ORG,0.0,0.0,de,1
-Schneehuhn-Ruflaute,Schneehuhn-Ruflaute,ORG,0.7,0.0,de,1
+Kälte-Start,Kälte-Start,ORG,-1.0,0.0,de,1
 AUTO,AUTO,ORG,0.0,0.0,de,1
+Deutsche Wetterdienst mel…,Deutsche Wetterdienst mel…,ORG,0.0,0.0,de,1
+God of War,God of War,ORG,0.7,0.0,de,1
+NFL-Playoffs,NFL-Playoffs,ORG,0.0,0.0,de,1
+Buffalo Bil…,Buffalo Bil…,ORG,0.0,0.0,de,1
 Wetter-Entwi…,Wetter-Entwi…,ORG,0.0,0.0,de,1
 Schluss!,Schluss!,ORG,0.0,0.0,de,1
-Guerilla-Schlag,Guerilla-Schlag,ORG,0.0,0.0,de,1
-Deutsche Wetterdienst mel…,Deutsche Wetterdienst mel…,ORG,0.0,0.0,de,1
+Smartphone-Akku,Smartphone-Akku,ORG,0.0,0.0,de,1
+Minusgrade,Minusgrade,ORG,0.0,0.0,de,1
+Smartphones,Smartphones,ORG,0.7,0.0,de,1
+Schneehuhn-Ruflaute,Schneehuhn-Ruflaute,ORG,0.7,0.0,de,1
+lnw,lnw,ORG,0.0,0.0,de,1
+BVG,BVG,ORG,-0.7,0.0,de,1
 Schneef…,Schneef…,ORG,0.0,0.0,de,1
-A7,A7,ORG,-0.7,0.0,de,1
+Guerilla-Schlag,Guerilla-Schlag,ORG,0.0,0.0,de,1
+Winterglück,Winterglück,ORG,1.0,0.0,de,1
 Weihnachtskirche Roms,Weihnachtskirche Roms,ORG,0.0,0.0,de,1
-Hurra!,Hurra!,ORG,0.0,0.0,de,1
+Bilderbuch!,Bilderbuch!,ORG,0.0,0.0,de,1
+Jags,Jags,ORG,0.0,0.0,de,1
+Ko…,Ko…,ORG,0.0,0.0,de,1
+Abhilfe,Abhilfe,ORG,0.0,0.0,de,1
+Fraport,Fraport,ORG,-0.7,0.0,de,1
 Nationale Wetterdienst,Nationale Wetterdienst,ORG,0.0,0.0,de,1
+Deutschen Presse-Agentur,Deutschen Presse-Agentur,ORG,0.0,0.0,de,1
 Winterwitterung,Winterwitterung,ORG,0.0,0.0,de,1
 Deutschen Bahn,Deutschen Bahn,ORG,0.0,0.0,de,1
-Fraport,Fraport,ORG,-0.7,0.0,de,1
 A81.,A81.,ORG,0.0,0.0,de,1
 Freiburger Polizei,Freiburger Polizei,ORG,0.5,0.0,de,1
 Unfälle +++ Verspätungen am Airport,Unfälle +++ Verspätungen am Airport,ORG,0.0,0.0,de,1
-Abhilfe,Abhilfe,ORG,0.0,0.0,de,1
-Ko…,Ko…,ORG,0.0,0.0,de,1
-Bilderbuch!,Bilderbuch!,ORG,0.0,0.0,de,1
-lnw,lnw,ORG,0.0,0.0,de,1
+Hurra!,Hurra!,ORG,0.0,0.0,de,1
 poweroutage.us,poweroutage.us,ORG,0.0,0.0,de,1
 BILDSTRECKE,BILDSTRECKE,ORG,0.0,0.0,de,1
-Jags,Jags,ORG,0.0,0.0,de,1
 FC Chammünster,FC Chammünster,ORG,0.0,0.0,de,1
 Ski-Inline,Ski-Inline,ORG,0.0,0.0,de,1
 Deutschen Skiverband,Deutschen Skiverband,ORG,0.0,0.0,de,1
 Deutschen Rollsport- und Inline-Verband,Deutschen Rollsport- und Inline-Verband,ORG,0.0,0.0,de,1
-Los gehts!,Los gehts!,ORG,0.0,0.0,de,1
+A7,A7,ORG,-0.7,0.0,de,1
+Biathlon-W…,Biathlon-W…,ORG,0.0,0.0,de,1
