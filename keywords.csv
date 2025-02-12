@@ -17,10 +17,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.3598194335592486
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.3512318173527015
 'Frost',de,Hazard,#4287f5,#315fa8,2,0.3404461563861066
-'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.3335161854809689
 'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,3,0.3327666746025119
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.3309412368319233
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.3249284987745183
+'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.3181722259921569
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.3084571303293731
 'Glatteis',de,Hazard,#4287f5,#3b4a73,3,0.3008239784090909
 'Glätte',de,Hazard,#4287f5,#4b4a63,3,0.3007580585636363
