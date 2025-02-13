@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,2,0.4830259115813169
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.479442900303125
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,2,0.440671111416703
-'Schneefall',de,Hazard,#4287f5,#638ed4,3,0.4282640587061349
 'Eis Frost',de,Hazard,#4287f5,#022f78,2,0.4236952730481816
+'Schneefall',de,Hazard,#4287f5,#638ed4,3,0.41897644490021463
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,2,0.413555850691803
 'glatte Straßen',de,Impacts,#a89216,#87830f,3,0.4071321152973953
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.4020879302188711
