@@ -20,10 +20,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.3249284987745183
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.3181722259921569
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.3084571303293731
-'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.3058465185253613
 'Glatteis',de,Hazard,#4287f5,#3b4a73,3,0.3008239784090909
 'Glätte',de,Hazard,#4287f5,#4b4a63,3,0.3007580585636363
 'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.2921708799992486
 'Eis Unfälle',de,Impacts,#a89216,#87830f,1,0.291303058633118
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.2813000513071347
+'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.2599695407465571
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.2377073126458407
