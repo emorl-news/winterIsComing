@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.3872001810460728
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,1,0.3854523754132195
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,3,0.3832970585247165
-'Schnee Wetterlage',de,Causes,#679e2c,#7db344,2,0.37562104470419755
+'Schnee Wetterlage',de,Causes,#679e2c,#7db344,2,0.3756210447041975
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.3711695981610071
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.3690423419619091
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,2,0.361018722633487
@@ -26,4 +26,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eis Unfälle',de,Impacts,#a89216,#87830f,2,0.2745849129150733
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.2599695407465571
 'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.2483452479993613
-'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.2377073126458407
+'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.2022012307489646
