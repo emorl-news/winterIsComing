@@ -2,9 +2,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'glatte Straßen',de,Impacts,#a89216,#87830f,3,0.4071321152973953
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.3982977260082146
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.3872001810460728
-'Schneefall',de,Hazard,#4287f5,#638ed4,3,0.38705708934820776
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.3690423419619091
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,2,0.3678456119111565
+'Schneefall',de,Hazard,#4287f5,#638ed4,3,0.36122443321870384
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,2,0.361018722633487
 'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.3601412520909544
 'Schnee Ski',de,Impacts,#a89216,#bfba22,3,0.3583517461786903
