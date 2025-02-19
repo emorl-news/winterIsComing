@@ -16,14 +16,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.3249284987745183
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,2,0.3200284579985679
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.3181722259921569
-'Schnee Klimawandel',de,Causes,#679e2c,#477515,2,0.31636195378391846
+'Schnee Klimawandel',de,Causes,#679e2c,#477515,2,0.3163619537839184
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.3084571303293731
 'Glatteis',de,Hazard,#4287f5,#3b4a73,3,0.3008239784090909
 'Glätte',de,Hazard,#4287f5,#4b4a63,3,0.3007580585636363
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.291923838599899
-'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.2907860573331343
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.2813000513071347
 'Eis Unfälle',de,Impacts,#a89216,#87830f,2,0.2745849129150733
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.2599695407465571
+'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.24731816373316415
 'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.2112434757994571
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.1720210611366199
