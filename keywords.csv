@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'glatte Straßen',de,Impacts,#a89216,#87830f,3,0.4071321152973953
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,2,0.4004503813819084
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.3982977260082146
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,2,0.3678456119111565
@@ -8,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Ski',de,Impacts,#a89216,#bfba22,3,0.3583517461786903
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,2,0.3559217656434463
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.3512318173527015
+'glatte Straßen',de,Impacts,#a89216,#87830f,2,0.346063258002786
 'Frost',de,Hazard,#4287f5,#315fa8,2,0.3404461563861066
 'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,3,0.3327666746025119
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,1,0.3311356635245125
