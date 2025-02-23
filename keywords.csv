@@ -20,10 +20,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.3025338307969293
 'Glätte',de,Hazard,#4287f5,#4b4a63,3,0.3007580585636363
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.291923838599899
-'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.2813000513071347
 'Eis Unfälle',de,Impacts,#a89216,#87830f,2,0.2745849129150733
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.2639887407799671
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.2599695407465571
+'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.2392550586110645
 'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.2112434757994571
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.178964901047211
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.1720210611366199
