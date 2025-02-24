@@ -1,33 +1,42 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Heidi Klum,Heidi Klum,PER,-0.2333333333333333,0.0,de,3
 Amy Waldman,Amy Waldman,PER,0.0,0.0,de,2
-Frostige Temperaturen,Frostige Temperaturen,PER,0.0,0.0,de,2
-Marian Grunden,Marian Grunden,PER,0.0,0.0,de,2
-Donald Trump,Donald Trump,PER,0.0,0.0,de,2
-Kaltes Winterwetter,Kaltes Winterwetter,PER,0.0,0.0,de,2
 FOCUS-online-Experte Jan Schenk,FOCUS-online-Experte Jan Schenk,PER,-0.95,0.0,de,2
+Marian Grunden,Marian Grunden,PER,0.0,0.0,de,2
+Unionskandidat Merz,Unionskandidat Merz,PER,0.0,0.0,de,2
+Kaltes Winterwetter,Kaltes Winterwetter,PER,0.0,0.0,de,2
+Donald Trump,Donald Trump,PER,0.0,0.0,de,2
+Frostige Temperaturen,Frostige Temperaturen,PER,0.0,0.0,de,2
+Fan Bingbing,Fan Bingbing,PER,0.0,0.0,de,1
+Tilda Swinton,Tilda Swinton,PER,0.0,0.0,de,1
+Rüdiger Eichhorn,Rüdiger Eichhorn,PER,0.0,0.0,de,1
+Lamar Jackson,Lamar Jackson,PER,-0.7,0.0,de,1
+Mal Sonne,Mal Sonne,PER,0.0,0.0,de,1
+Marcel Schmid,Marcel Schmid,PER,-1.0,0.0,de,1
+Adrian Schmucker,Adrian Schmucker,PER,0.0,0.0,de,1
+Winfried Kretschmann,Winfried Kretschmann,PER,0.0,0.0,de,1
+Unionskanzlerkandidat Friedrich Merz,Unionskanzlerkandidat Friedrich Merz,PER,0.0,0.0,de,1
+Sebastian Grüner,Sebastian Grüner,PER,0.85,0.0,de,1
 Hansi Hinterseer,Hansi Hinterseer,PER,0.0,0.0,de,1
 Guy Maddin,Guy Maddin,PER,0.0,0.0,de,1
-Nico Bauer,Nico Bauer,PER,0.0,0.0,de,1
 Matthew Rankins,Matthew Rankins,PER,0.0,0.0,de,1
-Lamar Jackson,Lamar Jackson,PER,-0.7,0.0,de,1
-Footballstar Josh Allen,Footballstar Josh Allen,PER,-0.7,0.0,de,1
-Adrian Schmucker,Adrian Schmucker,PER,0.0,0.0,de,1
-Mal Sonne,Mal Sonne,PER,0.0,0.0,de,1
+Peter Radacher junior,Peter Radacher junior,PER,0.0,0.0,de,1
 mal Wolken,mal Wolken,PER,0.0,0.0,de,1
 Timon Ha,Timon Ha,PER,0.0,0.0,de,1
-Atle Lie McGrath,Atle Lie McGrath,PER,0.0,0.0,de,1
+Footballstar Josh Allen,Footballstar Josh Allen,PER,-0.7,0.0,de,1
+Fabienne Grawehr,Fabienne Grawehr,PER,0.0,0.0,de,1
+Heidi Klu,Heidi Klu,PER,1.0,0.0,de,1
+Gefährliches Winter-Wetter,Gefährliches Winter-Wetter,PER,-1.0,0.0,de,1
+Thorsten Kremers,Thorsten Kremers,PER,0.0,0.0,de,1
+Gestrichene Flü,Gestrichene Flü,PER,0.0,0.0,de,1
+Michael Lengauer,Michael Lengauer,PER,-0.7,0.0,de,1
+Kai-Uwe Nerding,Kai-Uwe Nerding,PER,-0.7,0.0,de,1
+Michael Engelberg,Michael Engelberg,PER,0.0,0.0,de,1
+André Roch,André Roch,PER,0.0,0.0,de,1
+Frostiges Wochenend-Wetter,Frostiges Wochenend-Wetter,PER,0.0,0.0,de,1
+Feinstaub-Wolke Beate,Feinstaub-Wolke Beate,PER,0.0,0.0,de,1
 Patrick Solberg,Patrick Solberg,PER,0.5666666666666667,0.3333333333333333,de,1
 Clément Noël,Clément Noël,PER,0.0,0.0,de,1
-André Roch,André Roch,PER,0.0,0.0,de,1
-Feinstaub-Wolke Beate,Feinstaub-Wolke Beate,PER,0.0,0.0,de,1
-Frostiges Wochenend-Wetter,Frostiges Wochenend-Wetter,PER,0.0,0.0,de,1
-Michael Engelberg,Michael Engelberg,PER,0.0,0.0,de,1
-Fabienne Grawehr,Fabienne Grawehr,PER,0.0,0.0,de,1
-Kai-Uwe Nerding,Kai-Uwe Nerding,PER,-0.7,0.0,de,1
-Michael Lengauer,Michael Lengauer,PER,-0.7,0.0,de,1
-Gestrichene Flü,Gestrichene Flü,PER,0.0,0.0,de,1
-Thorsten Kremers,Thorsten Kremers,PER,0.0,0.0,de,1
-Gefährliches Winter-Wetter,Gefährliches Winter-Wetter,PER,-1.0,0.0,de,1
-Heidi Klu,Heidi Klu,PER,1.0,0.0,de,1
-Rüdiger Eichhorn,Rüdiger Eichhorn,PER,0.0,0.0,de,1
+Nico Bauer,Nico Bauer,PER,0.0,0.0,de,1
+Atle Lie McGrath,Atle Lie McGrath,PER,0.0,0.0,de,1
+Hundert Glätteopfer,Hundert Glätteopfer,PER,0.0,1.0,de,1
