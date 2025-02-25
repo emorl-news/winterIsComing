@@ -17,13 +17,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.3025338307969293
 'Glätte',de,Hazard,#4287f5,#4b4a63,3,0.3007580585636363
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.2987890344724543
-'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.291923838599899
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,1,0.2879910163964603
 'Eis Unfälle',de,Impacts,#a89216,#87830f,2,0.2745849129150733
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.2599695407465571
+'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.24888533780991415
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.2406485991354683
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.2392550586110645
-'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.22604059466297202
+'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.226040594662972
 'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.1797069694295385
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.1720210611366199
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.1295796687566099
