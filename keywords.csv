@@ -22,8 +22,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.2488853378099141
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.2392550586110645
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.2353158958645894
-'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.2173658049794337
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.2123318192870556
+'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.20004746286888225
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.1720210611366199
 'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.1529009390151077
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.1102927334431184
