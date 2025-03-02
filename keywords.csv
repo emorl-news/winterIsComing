@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'glatte Straßen',de,Impacts,#a89216,#87830f,3,0.3204268915245903
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,2,0.3200284579985679
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.3181722259921569
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,2,0.3163619537839184
@@ -17,6 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.2876789961773899
 'Frost',de,Hazard,#4287f5,#315fa8,3,0.286730041329871
 'Eis Unfälle',de,Impacts,#a89216,#87830f,2,0.2745849129150733
+'glatte Straßen',de,Impacts,#a89216,#87830f,2,0.2723638477959017
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,1,0.2634321226212017
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.2488853378099141
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.2392550586110645
