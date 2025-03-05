@@ -20,10 +20,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eis Unfälle',de,Impacts,#a89216,#87830f,1,0.2333975509778123
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.2264357721774389
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,1,0.2102079990017129
-'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.2035168148194048
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.200318541484901
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.2000474628688822
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.1828822863939972
+'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.1731393075964941
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.1720210611366199
 'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.1529009390151077
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.079964027662653
