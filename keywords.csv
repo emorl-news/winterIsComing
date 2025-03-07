@@ -22,8 +22,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,1,0.2102079990017129
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.2000474628688822
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.1828822863939972
-'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.1731393075964941
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.1720210611366199
 'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.1529009390151077
-'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.14528520172284093
+'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.14731842645701998
+'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.1452852017228409
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.068119438513255
