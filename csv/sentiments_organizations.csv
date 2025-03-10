@@ -1,124 +1,135 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.13124999999999992,0.022321428571428572,de,112
-DWD,DWD,ORG,-0.17333333333333337,0.022222222222222223,de,45
+Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.13999999999999993,0.0375,de,120
+DWD,DWD,ORG,-0.19411764705882353,0.058823529411764705,de,51
 Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,-0.019999999999999997,0.0,de,20
-BSR,BSR,ORG,-0.13999999999999999,0.0,de,10
+BSR,BSR,ORG,-0.12727272727272726,0.0,de,11
 Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,-0.26666666666666666,0.0,de,9
 lsw,lsw,ORG,0.06874999999999999,0.0,de,8
 bb,bb,ORG,0.042857142857142864,0.0,de,7
+lhe,lhe,ORG,-0.18333333333333326,0.0,de,6
 BER,BER,ORG,0.27999999999999997,0.0,de,5
 sn,sn,ORG,0.0,0.0,de,5
-AfD,AfD,ORG,0.08749999999999997,0.125,de,4
 sa,sa,ORG,0.2125,0.0,de,4
-lhe,lhe,ORG,-0.35,0.0,de,4
 BMW,BMW,ORG,0.5,0.0,de,4
-lnw,lnw,ORG,0.0,0.3333333333333333,de,3
-rheinland-pfälzische Innenministerium,rheinland-pfälzische Innenministerium,ORG,-0.4666666666666666,0.0,de,3
-lrs,lrs,ORG,0.10000000000000002,0.0,de,3
-Grüne,Grüne,ORG,0.0,0.0,de,3
-Deutschen Wetterdiensts,Deutschen Wetterdiensts,ORG,0.2333333333333333,0.0,de,3
+AfD,AfD,ORG,0.08749999999999997,0.125,de,4
 Polizeiauto,Polizeiauto,ORG,0.0,0.0,de,3
+lrs,lrs,ORG,0.10000000000000002,0.0,de,3
+lnw,lnw,ORG,0.0,0.3333333333333333,de,3
 Rezession!,Rezession!,ORG,0.0,0.0,de,3
+rheinland-pfälzische Innenministerium,rheinland-pfälzische Innenministerium,ORG,-0.4666666666666666,0.0,de,3
+Deutschen Wetterdiensts,Deutschen Wetterdiensts,ORG,0.2333333333333333,0.0,de,3
+Grüne,Grüne,ORG,0.0,0.0,de,3
+Nein!,Nein!,ORG,0.0,0.0,de,2
+BVG,BVG,ORG,-0.35,0.0,de,2
+GLATT,GLATT,ORG,0.0,0.0,de,2
 Inline-Alpin,Inline-Alpin,ORG,0.0,0.0,de,2
-Vibrant China,Vibrant China,ORG,0.0,0.0,de,2
-Megabrände,Megabrände,ORG,0.0,0.0,de,2
-GLOBE NEWSWIRE,GLOBE NEWSWIRE,ORG,0.0,0.0,de,2
-GAS,GAS,ORG,0.0,0.0,de,2
-Deutschen W,Deutschen W,ORG,-0.35,0.0,de,2
-Wolfsburg,Wolfsburg,ORG,-0.35,0.0,de,2
-BVG-Bus,BVG-Bus,ORG,0.35,0.0,de,2
+Berliner Ärzte,Berliner Ärzte,ORG,1.0,0.0,de,2
 Essen,Essen,ORG,0.0,0.0,de,2
+ADAC,ADAC,ORG,0.0,0.0,de,2
+Deutschen W,Deutschen W,ORG,-0.35,0.0,de,2
+DLRG,DLRG,ORG,-0.7,0.0,de,2
+GAS,GAS,ORG,0.0,0.0,de,2
+Wolfsburg,Wolfsburg,ORG,-0.35,0.0,de,2
+Vibrant China,Vibrant China,ORG,0.0,0.0,de,2
+BVG-Bus,BVG-Bus,ORG,0.35,0.0,de,2
+Polizei Heilbronn,Polizei Heilbronn,ORG,-0.4083333333333333,0.16666666666666666,de,2
 Leere Kitas,Leere Kitas,ORG,-0.15000000000000002,0.0,de,2
 Deutsche W,Deutsche W,ORG,0.0,0.0,de,2
 Gewerkschaft Verdi,Gewerkschaft Verdi,ORG,0.0,0.0,de,2
-Polizei Heilbronn,Polizei Heilbronn,ORG,-0.4083333333333333,0.16666666666666666,de,2
-Nein!,Nein!,ORG,0.0,0.0,de,2
+Gewerkschaft,Gewerkschaft,ORG,0.0,0.5,de,2
+Megabrände,Megabrände,ORG,0.0,0.0,de,2
 Zentrum,Zentrum,ORG,-0.15000000000000002,0.0,de,2
-HINGGAN-BUND,HINGGAN-BUND,ORG,0.0,0.0,de,2
+SZ,SZ,ORG,0.0,0.0,de,2
 Hinggan League,Hinggan League,ORG,0.0,0.0,de,2
-NWS,NWS,ORG,0.0,0.0,de,2
-DLRG,DLRG,ORG,-0.7,0.0,de,2
-American Academy,American Academy,ORG,0.0,0.0,de,2
-lby,lby,ORG,-0.35,0.0,de,2
-Rockern,Rockern,ORG,-0.35,0.0,de,2
-GLATT,GLATT,ORG,0.0,0.0,de,2
-lno,lno,ORG,0.0,0.0,de,2
 mv,mv,ORG,0.0,0.0,de,2
-Berliner Ärzte,Berliner Ärzte,ORG,1.0,0.0,de,2
-Glatteis-Warnung,Glatteis-Warnung,ORG,0.0,0.0,de,2
-ADAC,ADAC,ORG,0.0,0.0,de,2
+NWS,NWS,ORG,0.0,0.0,de,2
+Rockern,Rockern,ORG,-0.35,0.0,de,2
 TU Berlin,TU Berlin,ORG,0.85,0.0,de,2
-DBS,DBS,ORG,0.0,0.0,de,1
-Deutschen Behindertensportverbandes,Deutschen Behindertensportverbandes,ORG,0.0,0.0,de,1
+Glatteis-Warnung,Glatteis-Warnung,ORG,0.0,0.0,de,2
+lno,lno,ORG,0.0,0.0,de,2
+American Academy,American Academy,ORG,0.0,0.0,de,2
+HINGGAN-BUND,HINGGAN-BUND,ORG,0.0,0.0,de,2
+lby,lby,ORG,-0.35,0.0,de,2
+GLOBE NEWSWIRE,GLOBE NEWSWIRE,ORG,0.0,0.0,de,2
+BVG zu bestreiken,BVG zu bestreiken,ORG,0.7,0.0,de,1
+Weihnachtskirche Roms,Weihnachtskirche Roms,ORG,0.0,0.0,de,1
+Oberligisten,Oberligisten,ORG,0.0,0.0,de,1
+Berliner Regionalligisten,Berliner Regionalligisten,ORG,0.0,0.0,de,1
+Berliner Fußball-Verband,Berliner Fußball-Verband,ORG,0.0,0.0,de,1
+UBK,UBK,ORG,-0.7,0.0,de,1
+Bilderbuch!,Bilderbuch!,ORG,0.0,0.0,de,1
+Volvo,Volvo,ORG,0.0,0.0,de,1
 FIS Para Snow Sports,FIS Para Snow Sports,ORG,0.0,0.0,de,1
+Jags,Jags,ORG,0.0,0.0,de,1
+di…,di…,ORG,0.0,0.0,de,1
+Tagesspiegel,Tagesspiegel,ORG,0.0,0.0,de,1
+Schnee!,Schnee!,ORG,0.0,0.0,de,1
+Ko…,Ko…,ORG,0.0,0.0,de,1
+Üstra,Üstra,ORG,0.0,0.0,de,1
+lni,lni,ORG,-0.7,0.0,de,1
+Frankfurt,Frankfurt,ORG,-0.7,0.0,de,1
+Tagessp…,Tagessp…,ORG,0.0,0.0,de,1
+UKB,UKB,ORG,-0.7,0.0,de,1
+No…,No…,ORG,0.0,0.0,de,1
+Guerilla-Schlag,Guerilla-Schlag,ORG,0.0,0.0,de,1
 Georesearch Salzburg,Georesearch Salzburg,ORG,0.7,0.0,de,1
+Frühlingshaftes Wetter,Frühlingshaftes Wetter,ORG,0.0,0.0,de,1
+Kaufen-Button!,Kaufen-Button!,ORG,0.7,0.0,de,1
+ASFINAG,ASFINAG,ORG,0.0,0.0,de,1
+Winter-Stimmung,Winter-Stimmung,ORG,0.0,0.0,de,1
+Glatteis-Alarm!,Glatteis-Alarm!,ORG,0.0,0.0,de,1
+Zehn-Grad-Marke,Zehn-Grad-Marke,ORG,0.0,0.0,de,1
+FAZ,FAZ,ORG,0.0,0.0,de,1
+Winterglück,Winterglück,ORG,1.0,0.0,de,1
+Pannenhilfe,Pannenhilfe,ORG,0.0,0.0,de,1
+Deutsche Lebens-Rettungs-Gesellschaft,Deutsche Lebens-Rettungs-Gesellschaft,ORG,-0.7,0.0,de,1
 GAS!,GAS!,ORG,0.0,0.0,de,1
-Deutsche Wetterdienst warn…,Deutsche Wetterdienst warn…,ORG,0.0,0.0,de,1
+DFB,DFB,ORG,0.0,0.0,de,1
+Hessen Frankfurt,Hessen Frankfurt,ORG,-0.7,0.0,de,1
+Deutschen Behindertensportverbandes,Deutschen Behindertensportverbandes,ORG,0.0,0.0,de,1
+Eurojackpot,Eurojackpot,ORG,-0.7,0.0,de,1
+DBS,DBS,ORG,0.0,0.0,de,1
 Bielefeld,Bielefeld,ORG,0.0,0.0,de,1
+Abhilfe,Abhilfe,ORG,0.0,0.0,de,1
+A81.,A81.,ORG,0.0,0.0,de,1
+Deutschen Presse-Agentur,Deutschen Presse-Agentur,ORG,0.0,0.0,de,1
+sta…,sta…,ORG,0.0,0.0,de,1
+Mercedes,Mercedes,ORG,1.0,0.0,de,1
+Audi,Audi,ORG,1.0,0.0,de,1
+Kälte-Start,Kälte-Start,ORG,-1.0,0.0,de,1
+Winterwitterung,Winterwitterung,ORG,0.0,0.0,de,1
+Schneef…,Schneef…,ORG,0.0,0.0,de,1
+Deutschen Bahn,Deutschen Bahn,ORG,0.0,0.0,de,1
+Freiburger Polizei,Freiburger Polizei,ORG,0.5,0.0,de,1
+Deutsche Wirtschaft s…,Deutsche Wirtschaft s…,ORG,0.0,0.0,de,1
+A7,A7,ORG,-0.7,0.0,de,1
+Unfälle +++ Verspätungen am Airport,Unfälle +++ Verspätungen am Airport,ORG,0.0,0.0,de,1
+Deutschen Rollsport- und Inline-Verband,Deutschen Rollsport- und Inline-Verband,ORG,0.0,0.0,de,1
+Deutschen Skiverband,Deutschen Skiverband,ORG,0.0,0.0,de,1
+Ski-Inline,Ski-Inline,ORG,0.0,0.0,de,1
+FC Chammünster,FC Chammünster,ORG,0.0,0.0,de,1
+BILDSTRECKE,BILDSTRECKE,ORG,0.0,0.0,de,1
+poweroutage.us,poweroutage.us,ORG,0.0,0.0,de,1
+la…,la…,ORG,0.0,0.0,de,1
+Glatteis-Gefahr!,Glatteis-Gefahr!,ORG,0.0,0.0,de,1
+Deutsche Wetterdienst warn…,Deutsche Wetterdienst warn…,ORG,0.0,0.0,de,1
+Buffalo Bills,Buffalo Bills,ORG,0.0,0.0,de,1
 Biathlon-W…,Biathlon-W…,ORG,0.0,0.0,de,1
 Nonplusultra des Skisports,Nonplusultra des Skisports,ORG,0.0,0.0,de,1
 Los gehts!,Los gehts!,ORG,0.0,0.0,de,1
 Deutsche Wetterdienst mel…,Deutsche Wetterdienst mel…,ORG,0.0,0.0,de,1
 Sony,Sony,ORG,0.7,0.0,de,1
-Volvo,Volvo,ORG,0.0,0.0,de,1
-Schnee!,Schnee!,ORG,0.0,0.0,de,1
-Frühlingshaftes Wetter,Frühlingshaftes Wetter,ORG,0.0,0.0,de,1
-Üstra,Üstra,ORG,0.0,0.0,de,1
-Kaufen-Button!,Kaufen-Button!,ORG,0.7,0.0,de,1
-ASFINAG,ASFINAG,ORG,0.0,0.0,de,1
-di…,di…,ORG,0.0,0.0,de,1
-Winter-Stimmung,Winter-Stimmung,ORG,0.0,0.0,de,1
-Glatteis-Alarm!,Glatteis-Alarm!,ORG,0.0,0.0,de,1
-Gewerkschaft,Gewerkschaft,ORG,0.0,0.0,de,1
-UBK,UBK,ORG,-0.7,0.0,de,1
-UKB,UKB,ORG,-0.7,0.0,de,1
-Zehn-Grad-Marke,Zehn-Grad-Marke,ORG,0.0,0.0,de,1
-lni,lni,ORG,-0.7,0.0,de,1
-Tagesspiegel,Tagesspiegel,ORG,0.0,0.0,de,1
-Pannenhilfe,Pannenhilfe,ORG,0.0,0.0,de,1
-Deutsche Lebens-Rettungs-Gesellschaft,Deutsche Lebens-Rettungs-Gesellschaft,ORG,-0.7,0.0,de,1
 God of War,God of War,ORG,0.7,0.0,de,1
-sta…,sta…,ORG,0.0,0.0,de,1
-Buffalo Bil…,Buffalo Bil…,ORG,0.0,0.0,de,1
-Deutschen Presse-Agentur,Deutschen Presse-Agentur,ORG,0.0,0.0,de,1
-FC Chammünster,FC Chammünster,ORG,0.0,0.0,de,1
-BILDSTRECKE,BILDSTRECKE,ORG,0.0,0.0,de,1
-poweroutage.us,poweroutage.us,ORG,0.0,0.0,de,1
-Unfälle +++ Verspätungen am Airport,Unfälle +++ Verspätungen am Airport,ORG,0.0,0.0,de,1
-Freiburger Polizei,Freiburger Polizei,ORG,0.5,0.0,de,1
-A81.,A81.,ORG,0.0,0.0,de,1
-Deutschen Bahn,Deutschen Bahn,ORG,0.0,0.0,de,1
-Winterwitterung,Winterwitterung,ORG,0.0,0.0,de,1
-Nationale Wetterdienst,Nationale Wetterdienst,ORG,0.0,0.0,de,1
-Deutschen Skiverband,Deutschen Skiverband,ORG,0.0,0.0,de,1
 Fraport,Fraport,ORG,-0.7,0.0,de,1
-Abhilfe,Abhilfe,ORG,0.0,0.0,de,1
-Ko…,Ko…,ORG,0.0,0.0,de,1
-Jags,Jags,ORG,0.0,0.0,de,1
-Bilderbuch!,Bilderbuch!,ORG,0.0,0.0,de,1
-Weihnachtskirche Roms,Weihnachtskirche Roms,ORG,0.0,0.0,de,1
-Winterglück,Winterglück,ORG,1.0,0.0,de,1
-Guerilla-Schlag,Guerilla-Schlag,ORG,0.0,0.0,de,1
-Ski-Inline,Ski-Inline,ORG,0.0,0.0,de,1
-Deutschen Rollsport- und Inline-Verband,Deutschen Rollsport- und Inline-Verband,ORG,0.0,0.0,de,1
-Buffalo Bills,Buffalo Bills,ORG,0.0,0.0,de,1
-Schneehuhn-Ruflaute,Schneehuhn-Ruflaute,ORG,0.7,0.0,de,1
+Buffalo Bil…,Buffalo Bil…,ORG,0.0,0.0,de,1
 Baltimore Ravens,Baltimore Ravens,ORG,0.0,0.0,de,1
+Hurra!,Hurra!,ORG,0.0,0.0,de,1
 NFL-Playoffs,NFL-Playoffs,ORG,0.0,0.0,de,1
+Nationale Wetterdienst,Nationale Wetterdienst,ORG,0.0,0.0,de,1
 Smartphones,Smartphones,ORG,0.7,0.0,de,1
 Minusgrade,Minusgrade,ORG,0.0,0.0,de,1
 Smartphone-Akku,Smartphone-Akku,ORG,0.0,0.0,de,1
 Schluss!,Schluss!,ORG,0.0,0.0,de,1
 Wetter-Entwi…,Wetter-Entwi…,ORG,0.0,0.0,de,1
 AUTO,AUTO,ORG,0.0,0.0,de,1
-Glatteis-Gefahr!,Glatteis-Gefahr!,ORG,0.0,0.0,de,1
-A7,A7,ORG,-0.7,0.0,de,1
-Deutsche Wirtschaft s…,Deutsche Wirtschaft s…,ORG,0.0,0.0,de,1
-la…,la…,ORG,0.0,0.0,de,1
-Hurra!,Hurra!,ORG,0.0,0.0,de,1
-Mercedes,Mercedes,ORG,1.0,0.0,de,1
-Audi,Audi,ORG,1.0,0.0,de,1
-Kälte-Start,Kälte-Start,ORG,-1.0,0.0,de,1
-BVG,BVG,ORG,-0.7,0.0,de,1
-Schneef…,Schneef…,ORG,0.0,0.0,de,1
-No…,No…,ORG,0.0,0.0,de,1
+Schneehuhn-Ruflaute,Schneehuhn-Ruflaute,ORG,0.7,0.0,de,1
