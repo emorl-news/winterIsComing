@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,3,0.3014058809684967
-'Schneefall',de,Hazard,#4287f5,#638ed4,3,0.2957484659583909
 'Glatteis',de,Hazard,#4287f5,#3b4a73,3,0.2911869481325284
+'Schneefall',de,Hazard,#4287f5,#638ed4,3,0.2881573328828141
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.2876789961773899
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.2826966170933333
 'Frost',de,Hazard,#4287f5,#315fa8,3,0.2759472074031176
