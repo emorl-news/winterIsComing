@@ -11,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.2486969238353074
 'Glatteis',de,Hazard,#4287f5,#3b4a73,2,0.2475098959126491
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,1,0.2441083445984097
-'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.24305340773816417
-'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.2421655224128776
+'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.2430534077381641
+'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.23351960177821865
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.2279976030938685
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.2269112220999333
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.2264357721774389
