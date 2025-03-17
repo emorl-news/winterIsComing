@@ -4,12 +4,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneefall',de,Hazard,#4287f5,#638ed4,3,0.2680684161322101
 'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.2589513775325389
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.2488853378099141
-'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,3,0.2482912713633751
 'Glatteis',de,Hazard,#4287f5,#3b4a73,2,0.2475098959126491
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,1,0.2441083445984097
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,2,0.2440107328973426
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.2430534077381641
-'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.24262601114213098
+'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.2426260111421309
+'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,3,0.23418110884068702
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.2335196017782186
 'Schnee Ski',de,Impacts,#a89216,#bfba22,3,0.229858049720679
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.2279976030938685
