@@ -19,10 +19,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.1851901104078959
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,1,0.1848449254832205
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.1796835274710095
-'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.17782630909082356
+'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.1778263090908235
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,2,0.1749503934348976
-'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.116958564028639
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.1060283477580266
+'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.09941477942434314
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0656447910150889
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.065148973715996
 'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.0580119001075788
