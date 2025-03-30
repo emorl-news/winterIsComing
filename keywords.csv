@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Hazard,#4287f5,#315fa8,3,0.229274915756611
 'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.2071321994708112
+'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.20229056843854987
 'Schnee Ski',de,Impacts,#a89216,#bfba22,3,0.2004593444004632
-'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.2000474628688822
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,1,0.1966770991514559
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.1942480076297882
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.192470406350823
