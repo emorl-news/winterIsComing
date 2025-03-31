@@ -1,16 +1,16 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Berlin,Berlin,LOC,0.018154761904761892,0.056919642857142856,de,224
-Deutschland,Deutschland,LOC,-0.16076388888888882,0.041666666666666664,de,144
-Brandenburg,Brandenburg,LOC,-0.06453900709219856,0.10638297872340426,de,141
+Berlin,Berlin,LOC,-0.016111111111111125,0.053125,de,240
+Brandenburg,Brandenburg,LOC,-0.10470085470085465,0.09615384615384616,de,156
+Deutschland,Deutschland,LOC,-0.12939189189189185,0.04054054054054054,de,148
 Deutschlands,Deutschlands,LOC,0.13282312925170062,0.13435374149659865,de,98
 Bayern,Bayern,LOC,-0.009856630824372756,0.07706093189964157,de,93
 Hessen,Hessen,LOC,-0.07046413502109707,0.05485232067510548,de,79
-Sachsen-Anhalt,Sachsen-Anhalt,LOC,-0.01949152542372881,0.031073446327683614,de,59
-Rheinland-Pfalz,Rheinland-Pfalz,LOC,-0.07660818713450293,0.0,de,57
-Sachsen,Sachsen,LOC,-0.026315789473684202,0.03508771929824561,de,57
+Sachsen-Anhalt,Sachsen-Anhalt,LOC,-0.02983870967741935,0.029569892473118278,de,62
+Sachsen,Sachsen,LOC,-0.025862068965517234,0.034482758620689655,de,58
+Rheinland-Pfalz,Rheinland-Pfalz,LOC,-0.07528735632183908,0.0,de,58
 Baden-Württemberg,Baden-Württemberg,LOC,-0.12300000000000001,0.17,de,50
+Saarland,Saarland,LOC,-0.015972222222222224,0.0,de,48
 Nordrhein-Westfalen,Nordrhein-Westfalen,LOC,-0.022916666666666665,0.041666666666666664,de,48
-Saarland,Saarland,LOC,-0.016312056737588655,0.0,de,47
 Thüringen,Thüringen,LOC,-0.01666666666666666,0.021739130434782608,de,46
 NRW,NRW,LOC,-0.05795454545454546,0.17613636363636365,de,44
 Niedersachsen,Niedersachsen,LOC,0.042763157894736836,0.09210526315789473,de,38
@@ -19,494 +19,468 @@ Bayerns,Bayerns,LOC,0.03735632183908046,0.07471264367816091,de,29
 Glatte Straßen,Glatte Straßen,LOC,0.152,0.0,de,25
 USA,USA,LOC,-0.025000000000000012,0.041666666666666664,de,24
 Glättegefahr,Glättegefahr,LOC,-0.05833333333333332,0.0,de,24
-Trondheim,Trondheim,LOC,-0.07727272727272727,0.03636363636363637,de,22
-Offenbach,Offenbach,LOC,-0.004545454545454539,0.09090909090909091,de,22
+Nebel,Nebel,LOC,-0.10144927536231883,0.043478260869565216,de,23
+Offenbach,Offenbach,LOC,-0.004347826086956516,0.08695652173913043,de,23
 Brandenburgs,Brandenburgs,LOC,-0.09545454545454544,0.0,de,22
-Hamburg,Hamburg,LOC,-0.275,0.0,de,20
+Trondheim,Trondheim,LOC,-0.07727272727272727,0.03636363636363637,de,22
 Bremen,Bremen,LOC,-0.05499999999999998,0.05,de,20
 Sauerland,Sauerland,LOC,0.07250000000000001,0.15,de,20
+Hamburg,Hamburg,LOC,-0.275,0.0,de,20
 Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,LOC,-0.0026315789473684236,0.13157894736842105,de,19
 Alpen,Alpen,LOC,-0.18157894736842106,0.02631578947368421,de,19
+Harz,Harz,LOC,0.03157894736842103,0.10526315789473684,de,19
 Stuttgart,Stuttgart,LOC,0.07777777777777778,0.0,de,18
-Harz,Harz,LOC,0.15294117647058822,0.11764705882352941,de,17
-Nebel,Nebel,LOC,0.0,0.058823529411764705,de,17
 Landes,Landes,LOC,0.15882352941176472,0.17647058823529413,de,17
 Glätteunfälle,Glätteunfälle,LOC,-0.2117647058823529,0.058823529411764705,de,17
 DWD,DWD,LOC,0.0,0.13333333333333333,de,15
+Potsdam,Potsdam,LOC,-0.1733333333333333,0.03333333333333333,de,15
+Glätte,Glätte,LOC,0.03333333333333331,0.14285714285714285,de,14
 Frankfurt,Frankfurt,LOC,-0.27435897435897433,0.02564102564102564,de,13
-Potsdam,Potsdam,LOC,-0.0923076923076923,0.038461538461538464,de,13
-Baden-Württembergs,Baden-Württembergs,LOC,-0.24583333333333335,0.25,de,12
+Frost,Frost,LOC,0.05384615384615384,0.0,de,13
 Aalen,Aalen,LOC,-0.2430555555555555,0.06944444444444443,de,12
-Freistaat,Freistaat,LOC,-0.26111111111111107,0.0,de,12
 Rheinbrücke,Rheinbrücke,LOC,-0.3666666666666667,0.0,de,12
+Baden-Württembergs,Baden-Württembergs,LOC,-0.24583333333333335,0.25,de,12
+Freistaat,Freistaat,LOC,-0.26111111111111107,0.0,de,12
 München,München,LOC,-0.14166666666666666,0.0,de,12
-Süddeutschland,Süddeutschland,LOC,-0.054545454545454564,0.0,de,11
 Köln,Köln,LOC,-0.24545454545454548,0.0,de,11
-Glätte,Glätte,LOC,0.1909090909090909,0.18181818181818182,de,11
-Frost,Frost,LOC,0.06363636363636363,0.0,de,11
-Bergen,Bergen,LOC,0.53,0.0,de,10
+Süddeutschland,Süddeutschland,LOC,-0.054545454545454564,0.0,de,11
 Straße,Straße,LOC,-0.06999999999999999,0.08,de,10
 Schleswig-Holstein,Schleswig-Holstein,LOC,-0.06999999999999999,0.0,de,10
+Bergen,Bergen,LOC,0.53,0.0,de,10
 Mittelhessen,Mittelhessen,LOC,-0.07777777777777778,0.0,de,9
-MV,MV,LOC,0.1875,0.1875,de,8
-Magdeburg,Magdeburg,LOC,0.018750000000000003,0.0,de,8
+Griechenland,Griechenland,LOC,-0.20555555555555557,0.2222222222222222,de,9
 Wetterdienst,Wetterdienst,LOC,-0.6333333333333334,0.0,de,8
+Schnee,Schnee,LOC,0.0875,0.0,de,8
 Hannover,Hannover,LOC,0.0,0.0,de,8
 Wetter-Entwicklungen,Wetter-Entwicklungen,LOC,0.0,0.0,de,8
-Leverkusen,Leverkusen,LOC,-0.19999999999999998,0.0,de,7
-Schnee,Schnee,LOC,0.19999999999999998,0.0,de,7
-Koblenz,Koblenz,LOC,0.14999999999999997,0.21428571428571427,de,7
+MV,MV,LOC,0.1875,0.1875,de,8
+th,th,LOC,0.15,0.0,de,8
+Magdeburg,Magdeburg,LOC,0.018750000000000003,0.0,de,8
+Österreich,Österreich,LOC,0.0,0.0,de,7
 Kalifornien,Kalifornien,LOC,0.09999999999999999,0.2857142857142857,de,7
+Koblenz,Koblenz,LOC,0.14999999999999997,0.21428571428571427,de,7
+Leverkusen,Leverkusen,LOC,-0.19999999999999998,0.0,de,7
 Tal,Tal,LOC,0.11904761904761905,0.19047619047619047,de,7
-th,th,LOC,0.07142857142857142,0.0,de,7
-Prenzlauer Berg,Prenzlauer Berg,LOC,0.05833333333333333,0.08333333333333333,de,6
-Himalaya-Region,Himalaya-Region,LOC,-0.3499999999999999,0.0,de,6
-Leipzig,Leipzig,LOC,-0.2333333333333333,0.0,de,6
-Braunschweig,Braunschweig,LOC,0.3333333333333333,0.0,de,6
-Niedersachsens,Niedersachsens,LOC,-0.6166666666666667,0.0,de,6
-Erzgebirge,Erzgebirge,LOC,0.0,0.0,de,6
-Österreich,Österreich,LOC,0.0,0.0,de,6
-Autobahn 8,Autobahn 8,LOC,0.0,0.0,de,6
-Regen,Regen,LOC,0.0,0.16666666666666666,de,6
 Erfurt,Erfurt,LOC,0.02777777777777779,0.0,de,6
+Prenzlauer Berg,Prenzlauer Berg,LOC,0.05833333333333333,0.08333333333333333,de,6
+Autobahn 8,Autobahn 8,LOC,0.0,0.0,de,6
+Erzgebirge,Erzgebirge,LOC,0.0,0.0,de,6
+Himalaya-Region,Himalaya-Region,LOC,-0.3499999999999999,0.0,de,6
+Braunschweig,Braunschweig,LOC,0.3333333333333333,0.0,de,6
+Leipzig,Leipzig,LOC,-0.2333333333333333,0.0,de,6
+Regen,Regen,LOC,0.0,0.16666666666666666,de,6
+Thüringens,Thüringens,LOC,-0.4666666666666666,0.0,de,6
 Nord-,Nord-,LOC,0.0,0.0,de,6
-Unfällen,Unfällen,LOC,0.0,0.0,de,5
-Tälern,Tälern,LOC,0.13999999999999999,0.0,de,5
-Schwarzwald,Schwarzwald,LOC,-0.22999999999999998,0.0,de,5
-Dresden,Dresden,LOC,0.2,0.2,de,5
-Thüringens,Thüringens,LOC,-0.41999999999999993,0.0,de,5
-Fahrbahn,Fahrbahn,LOC,0.0,0.0,de,5
-A8,A8,LOC,0.27999999999999997,0.0,de,5
+Niedersachsens,Niedersachsens,LOC,-0.6166666666666667,0.0,de,6
 Bundesgebiet,Bundesgebiet,LOC,-0.6,0.0,de,5
-Thüringer Autobahnen,Thüringer Autobahnen,LOC,0.4666666666666666,0.0,de,5
-Glatteisregen,Glatteisregen,LOC,-0.41999999999999993,0.0,de,5
-China,China,LOC,0.0,0.0,de,5
-A2,A2,LOC,0.0,0.0,de,5
-Winterwetter,Winterwetter,LOC,-0.13999999999999999,0.0,de,5
 Offenbach am Main,Offenbach am Main,LOC,0.0,0.0,de,5
-Kroatien,Kroatien,LOC,-0.43000000000000005,0.0,de,5
+Europa,Europa,LOC,0.0,0.0,de,5
+Schwarzwald,Schwarzwald,LOC,-0.22999999999999998,0.0,de,5
 Rheinbrücke Leverkusen,Rheinbrücke Leverkusen,LOC,-0.18666666666666665,0.0,de,5
 Estland,Estland,LOC,0.0,0.0,de,5
+Glatteisregen,Glatteisregen,LOC,-0.41999999999999993,0.0,de,5
+Thüringer Autobahnen,Thüringer Autobahnen,LOC,0.4666666666666666,0.0,de,5
+Winterwetter,Winterwetter,LOC,-0.13999999999999999,0.0,de,5
+A8,A8,LOC,0.27999999999999997,0.0,de,5
+A2,A2,LOC,0.0,0.0,de,5
+China,China,LOC,0.0,0.0,de,5
+Dresden,Dresden,LOC,0.2,0.2,de,5
+Unfällen,Unfällen,LOC,0.0,0.0,de,5
 Glatteis-Unfall,Glatteis-Unfall,LOC,0.27999999999999997,0.0,de,5
-Indiens,Indiens,LOC,-0.175,0.0,de,4
-Innsbruck,Innsbruck,LOC,0.775,0.0,de,4
-Ostfriesland,Ostfriesland,LOC,-0.01874999999999999,0.125,de,4
-Hunsrück,Hunsrück,LOC,-0.35,0.0,de,4
-Niederbayern,Niederbayern,LOC,0.0,0.0,de,4
-Wärmeres Wetter,Wärmeres Wetter,LOC,0.175,0.0,de,4
-Bosnien-Herzegowina,Bosnien-Herzegowina,LOC,-0.5375000000000001,0.0,de,4
-Gefrierender Regen,Gefrierender Regen,LOC,-0.037500000000000006,0.0,de,4
-Ostalbkreis,Ostalbkreis,LOC,0.0,0.25,de,4
-Hessens,Hessens,LOC,0.0,0.0,de,4
-Tiroler,Tiroler,LOC,0.0,0.0,de,4
-Neumünster,Neumünster,LOC,0.0,0.0,de,4
-S-Bahn,S-Bahn,LOC,0.0,0.0,de,4
-Norweger,Norweger,LOC,0.0,0.0,de,4
-Garmisch-Partenkirchen,Garmisch-Partenkirchen,LOC,0.0,0.0,de,4
-Sachsens,Sachsens,LOC,0.0,0.0,de,4
-Ukraine,Ukraine,LOC,-0.175,0.0,de,4
-Regensburg,Regensburg,LOC,-0.25,0.0,de,4
-Mainz,Mainz,LOC,0.07500000000000001,0.0,de,4
-Stadtreinigung Hamburg,Stadtreinigung Hamburg,LOC,0.0,0.0,de,4
-Franken,Franken,LOC,-0.25,0.0,de,4
+Südthüringen,Südthüringen,LOC,0.20999999999999996,0.1,de,5
+Kroatien,Kroatien,LOC,-0.43000000000000005,0.0,de,5
+Tälern,Tälern,LOC,0.13999999999999999,0.0,de,5
+Fahrbahn,Fahrbahn,LOC,0.0,0.0,de,5
+Teilen</li><li,Teilen</li><li,LOC,0.31333333333333335,0.6666666666666666,de,5
 Ostholstein,Ostholstein,LOC,0.0,0.0,de,4
-A3,A3,LOC,-0.4625,0.0,de,4
-Europa,Europa,LOC,0.0,0.0,de,4
-Landkreis Göppingen,Landkreis Göppingen,LOC,0.0,0.0,de,4
+Wärmeres Wetter,Wärmeres Wetter,LOC,0.175,0.0,de,4
+S-Bahn,S-Bahn,LOC,0.0,0.0,de,4
+Feedback</li><li,Feedback</li><li,LOC,0.14166666666666666,0.8333333333333333,de,4
+Ostalbkreis,Ostalbkreis,LOC,0.0,0.25,de,4
 A8.,A8.,LOC,0.35,0.0,de,4
 Rodelfans,Rodelfans,LOC,0.7875,0.0,de,4
-Griechenland,Griechenland,LOC,-0.125,0.125,de,4
 Hamburgs,Hamburgs,LOC,0.0,0.0,de,4
-Sachsen-Anhalter,Sachsen-Anhalter,LOC,0.05000000000000001,0.0,de,3
-Amerikanern,Amerikanern,LOC,0.0,1.0,de,3
-Freistaats,Freistaats,LOC,-0.2333333333333333,0.0,de,3
-Pforzheim,Pforzheim,LOC,0.0,0.0,de,3
-Flughafen,Flughafen,LOC,-0.05000000000000001,0.0,de,3
-Gasteiner Tal,Gasteiner Tal,LOC,0.0,0.0,de,3
-den USA,den USA,LOC,0.0,0.6666666666666666,de,3
-Südthüringen,Südthüringen,LOC,0.0,0.0,de,3
+A3,A3,LOC,-0.4625,0.0,de,4
+Gefrierender Regen,Gefrierender Regen,LOC,-0.037500000000000006,0.0,de,4
+Niederbayern,Niederbayern,LOC,0.0,0.0,de,4
+Regensburg,Regensburg,LOC,-0.25,0.0,de,4
+Hunsrück,Hunsrück,LOC,-0.35,0.0,de,4
+Drucken</li><li,Drucken</li><li,LOC,0.14166666666666666,0.8333333333333333,de,4
+Kommentare</li><li,Kommentare</li><li,LOC,0.14166666666666666,0.8333333333333333,de,4
+Indiens,Indiens,LOC,-0.175,0.0,de,4
+Norweger,Norweger,LOC,0.0,0.0,de,4
+Hessens,Hessens,LOC,0.0,0.0,de,4
+Mainz,Mainz,LOC,0.07500000000000001,0.0,de,4
+Landkreis Göppingen,Landkreis Göppingen,LOC,0.0,0.0,de,4
+Sachsens,Sachsens,LOC,0.0,0.0,de,4
+Twitter</li><li,Twitter</li><li,LOC,0.14166666666666666,0.8333333333333333,de,4
+Tiroler,Tiroler,LOC,0.0,0.0,de,4
+Ostfriesland,Ostfriesland,LOC,-0.01874999999999999,0.125,de,4
+Ukraine,Ukraine,LOC,-0.175,0.0,de,4
+Garmisch-Partenkirchen,Garmisch-Partenkirchen,LOC,0.0,0.0,de,4
+Bosnien-Herzegowina,Bosnien-Herzegowina,LOC,-0.5375000000000001,0.0,de,4
+Neumünster,Neumünster,LOC,0.0,0.0,de,4
+Stadtreinigung Hamburg,Stadtreinigung Hamburg,LOC,0.0,0.0,de,4
+Innsbruck,Innsbruck,LOC,0.775,0.0,de,4
+Franken,Franken,LOC,-0.25,0.0,de,4
+Bad Segeberg,Bad Segeberg,LOC,0.6999999999999998,0.0,de,3
 A46,A46,LOC,-0.39999999999999997,0.16666666666666666,de,3
-A4,A4,LOC,-0.3333333333333333,0.0,de,3
-Berlin-Brandenburg,Berlin-Brandenburg,LOC,0.0,0.0,de,3
-Kasachstan,Kasachstan,LOC,0.0,0.0,de,3
-Schmiedefeld,Schmiedefeld,LOC,0.4666666666666666,0.0,de,3
-Blitzeis,Blitzeis,LOC,-0.6666666666666666,0.3333333333333333,de,3
-Adelboden,Adelboden,LOC,0.05000000000000001,0.0,de,3
 Salzburg,Salzburg,LOC,0.2333333333333333,0.0,de,3
-Berlins,Berlins,LOC,0.2333333333333333,0.0,de,3
-Salzburger Land,Salzburger Land,LOC,0.0,0.0,de,3
-Westküste,Westküste,LOC,0.2333333333333333,0.0,de,3
-Schwäbisch Hall,Schwäbisch Hall,LOC,0.0,0.0,de,3
+Freien,Freien,LOC,0.4666666666666666,0.0,de,3
+Flughafen,Flughafen,LOC,-0.05000000000000001,0.0,de,3
+Pforzheim,Pforzheim,LOC,0.0,0.0,de,3
+Freistaats,Freistaats,LOC,-0.2333333333333333,0.0,de,3
+Blitzeis,Blitzeis,LOC,-0.6666666666666666,0.3333333333333333,de,3
+Crailsheim,Crailsheim,LOC,-0.3333333333333333,0.0,de,3
+Kopiere,Kopiere,LOC,-0.4166666666666667,0.0,de,3
+Schmiedefeld,Schmiedefeld,LOC,0.4666666666666666,0.0,de,3
+Alaska,Alaska,LOC,0.0,0.0,de,3
+Winnipeg,Winnipeg,LOC,0.0,0.0,de,3
+Spitzbergen,Spitzbergen,LOC,-0.4666666666666666,0.3333333333333333,de,3
+Kamerafallen,Kamerafallen,LOC,-0.4666666666666666,0.3333333333333333,de,3
+Skikursen,Skikursen,LOC,-0.6999999999999998,0.0,de,3
+Braunlage,Braunlage,LOC,0.03333333333333334,0.4444444444444444,de,3
 Airport München,Airport München,LOC,0.0,0.0,de,3
 Münchner Flughafen,Münchner Flughafen,LOC,0.0,0.0,de,3
-Skikursen,Skikursen,LOC,-0.6999999999999998,0.0,de,3
-Alfdorf,Alfdorf,LOC,0.0,0.0,de,3
-Wettervorhersage,Wettervorhersage,LOC,0.0,0.0,de,3
-Landkreis Osnabrück,Landkreis Osnabrück,LOC,-0.2555555555555556,0.0,de,3
-Kopiere,Kopiere,LOC,-0.4166666666666667,0.0,de,3
-Österreichs,Österreichs,LOC,0.0,0.0,de,3
-Teilen</li><li,Teilen</li><li,LOC,0.5222222222222223,0.4444444444444444,de,3
-Frostiges Winterwetter,Frostiges Winterwetter,LOC,0.11666666666666665,0.16666666666666666,de,3
-A7,A7,LOC,-0.3333333333333333,0.0,de,3
-Menden,Menden,LOC,0.0,0.0,de,3
-Hildburghausen,Hildburghausen,LOC,-0.6666666666666666,0.0,de,3
-Braunlage,Braunlage,LOC,0.03333333333333334,0.4444444444444444,de,3
-A36,A36,LOC,0.0,0.0,de,3
-Winnipeg,Winnipeg,LOC,0.0,0.0,de,3
 bb,bb,LOC,0.0,0.0,de,3
-Pinguingang,Pinguingang,LOC,0.0,0.0,de,3
-Pannenhilfe,Pannenhilfe,LOC,0.0,0.0,de,3
-Winterliche,Winterliche,LOC,0.3333333333333333,0.0,de,3
-Hokkaido,Hokkaido,LOC,0.0,0.3333333333333333,de,3
-Anklam,Anklam,LOC,0.0,0.0,de,3
-Ländle,Ländle,LOC,0.0,0.0,de,3
-Oberschwaben,Oberschwaben,LOC,-0.6999999999999998,0.0,de,3
-Japan,Japan,LOC,0.0,0.3333333333333333,de,3
-Polizeipräsidiums,Polizeipräsidiums,LOC,0.2333333333333333,0.3333333333333333,de,3
-A81,A81,LOC,0.2333333333333333,0.0,de,3
-Mittelgebirgen,Mittelgebirgen,LOC,0.0,0.0,de,3
-Eifel,Eifel,LOC,-0.2333333333333333,0.0,de,3
-Winter-Wetter,Winter-Wetter,LOC,0.0,0.0,de,3
-Crailsheim,Crailsheim,LOC,-0.3333333333333333,0.0,de,3
-Alaska,Alaska,LOC,0.0,0.0,de,3
 Steiermark,Steiermark,LOC,0.3333333333333333,0.0,de,3
-Spitzbergen,Spitzbergen,LOC,-0.4666666666666666,0.3333333333333333,de,3
-Ski-Saison,Ski-Saison,LOC,0.2333333333333333,0.0,de,3
-Russland,Russland,LOC,0.0,0.0,de,3
-Kamerafallen,Kamerafallen,LOC,-0.4666666666666666,0.3333333333333333,de,3
-Autobahn 3,Autobahn 3,LOC,0.0,0.0,de,3
-Ischgl,Ischgl,LOC,0.0,0.0,de,3
-Freien,Freien,LOC,0.4666666666666666,0.0,de,3
-Oberfranken,Oberfranken,LOC,0.0,0.0,de,3
-Thüringer Bergland,Thüringer Bergland,LOC,0.2333333333333333,0.0,de,3
-Baiersbronn,Baiersbronn,LOC,0.15000000000000002,0.0,de,3
-Kiel,Kiel,LOC,-0.3333333333333333,0.3333333333333333,de,3
-Bahnstrecke München-Salzburg,Bahnstrecke München-Salzburg,LOC,-0.3333333333333333,0.0,de,3
-Bad Segeberg,Bad Segeberg,LOC,0.6999999999999998,0.0,de,3
-Schneefall,Schneefall,LOC,0.4666666666666666,0.0,de,3
-Hallenser,Hallenser,LOC,0.6,0.0,de,3
-Volleinsatz,Volleinsatz,LOC,-0.2333333333333333,0.0,de,3
-Rutschen,Rutschen,LOC,0.3833333333333333,0.0,de,3
+Kreta,Kreta,LOC,-0.2833333333333333,0.0,de,3
+Polizeipräsidiums,Polizeipräsidiums,LOC,0.2333333333333333,0.3333333333333333,de,3
+Hokkaido,Hokkaido,LOC,0.0,0.3333333333333333,de,3
+Landkreis Osnabrück,Landkreis Osnabrück,LOC,-0.2555555555555556,0.0,de,3
+Anklam,Anklam,LOC,0.0,0.0,de,3
+Pinguingang,Pinguingang,LOC,0.0,0.0,de,3
+Winter-Wetter,Winter-Wetter,LOC,0.0,0.0,de,3
+Eifel,Eifel,LOC,-0.2333333333333333,0.0,de,3
+A7,A7,LOC,-0.3333333333333333,0.0,de,3
+Japan,Japan,LOC,0.0,0.3333333333333333,de,3
 Bosnien,Bosnien,LOC,0.0,0.0,de,3
-Japans,Japans,LOC,0.0,0.0,de,2
-Landkreis Rastatt,Landkreis Rastatt,LOC,0.0,0.0,de,2
-Italieners,Italieners,LOC,0.0,0.0,de,2
-Wetterdienst DWD,Wetterdienst DWD,LOC,-0.35,0.0,de,2
-Kaltes Winterwochenende,Kaltes Winterwochenende,LOC,0.0,0.0,de,2
-Schwarzenbachtalsperre,Schwarzenbachtalsperre,LOC,0.0,0.0,de,2
-Herrenwies,Herrenwies,LOC,0.0,0.0,de,2
+Berlins,Berlins,LOC,0.2333333333333333,0.0,de,3
+A81,A81,LOC,0.2333333333333333,0.0,de,3
+Alfdorf,Alfdorf,LOC,0.0,0.0,de,3
+A36,A36,LOC,0.0,0.0,de,3
+Hildburghausen,Hildburghausen,LOC,-0.6666666666666666,0.0,de,3
+Thüringer Bergland,Thüringer Bergland,LOC,0.2333333333333333,0.0,de,3
+Gasteiner Tal,Gasteiner Tal,LOC,0.0,0.0,de,3
+Ländle,Ländle,LOC,0.0,0.0,de,3
+Mittelgebirgen,Mittelgebirgen,LOC,0.0,0.0,de,3
+Autobahn 3,Autobahn 3,LOC,0.0,0.0,de,3
+A4,A4,LOC,-0.3333333333333333,0.0,de,3
+Amerikanern,Amerikanern,LOC,0.0,1.0,de,3
+Pannenhilfe,Pannenhilfe,LOC,0.0,0.0,de,3
+Ski-Saison,Ski-Saison,LOC,0.2333333333333333,0.0,de,3
+Oberschwaben,Oberschwaben,LOC,-0.6999999999999998,0.0,de,3
+Österreichs,Österreichs,LOC,0.0,0.0,de,3
+Menden,Menden,LOC,0.0,0.0,de,3
+Winterliche,Winterliche,LOC,0.3333333333333333,0.0,de,3
+Wettervorhersage,Wettervorhersage,LOC,0.0,0.0,de,3
+Ischgl,Ischgl,LOC,0.0,0.0,de,3
+Berlin-Brandenburg,Berlin-Brandenburg,LOC,0.0,0.0,de,3
+Bahnstrecke München-Salzburg,Bahnstrecke München-Salzburg,LOC,-0.3333333333333333,0.0,de,3
+Schwäbisch Hall,Schwäbisch Hall,LOC,0.0,0.0,de,3
+Adelboden,Adelboden,LOC,0.05000000000000001,0.0,de,3
+Baiersbronn,Baiersbronn,LOC,0.15000000000000002,0.0,de,3
+Hallenser,Hallenser,LOC,0.6,0.0,de,3
+Westküste,Westküste,LOC,0.2333333333333333,0.0,de,3
+Russland,Russland,LOC,0.0,0.0,de,3
+Salzburger Land,Salzburger Land,LOC,0.0,0.0,de,3
+Volleinsatz,Volleinsatz,LOC,-0.2333333333333333,0.0,de,3
+Kasachstan,Kasachstan,LOC,0.0,0.0,de,3
+Kiel,Kiel,LOC,-0.3333333333333333,0.3333333333333333,de,3
+Sachsen-Anhalter,Sachsen-Anhalter,LOC,0.05000000000000001,0.0,de,3
+Frostiges Winterwetter,Frostiges Winterwetter,LOC,0.11666666666666665,0.16666666666666666,de,3
+Rutschen,Rutschen,LOC,0.3833333333333333,0.0,de,3
+Schneefall,Schneefall,LOC,0.4666666666666666,0.0,de,3
+Oberfranken,Oberfranken,LOC,0.0,0.0,de,3
+den USA,den USA,LOC,0.0,0.6666666666666666,de,3
 Nordschwarzwald,Nordschwarzwald,LOC,0.0,0.0,de,2
-Overath,Overath,LOC,0.0,0.0,de,2
-Hopfensee,Hopfensee,LOC,-0.35,0.0,de,2
-Winter-Wunder-Land,Winter-Wunder-Land,LOC,-0.5,0.0,de,2
-Engelskirchen,Engelskirchen,LOC,0.0,0.0,de,2
-Fichtelgebirge,Fichtelgebirge,LOC,-0.35,0.0,de,2
-Rovaniemi,Rovaniemi,LOC,0.0,0.0,de,2
-Spanien,Spanien,LOC,0.0,0.0,de,2
-Zillertaler,Zillertaler,LOC,0.7,0.0,de,2
-Flattnitzer Straße,Flattnitzer Straße,LOC,0.0,0.0,de,2
-Alpenschneehuhns,Alpenschneehuhns,LOC,0.7,0.0,de,2
-Eispfützen,Eispfützen,LOC,-0.35,0.0,de,2
-Bodenseekreis,Bodenseekreis,LOC,-0.7,0.0,de,2
-Traumwetter,Traumwetter,LOC,0.0,0.0,de,2
-Gefrierender Sprühregen,Gefrierender Sprühregen,LOC,0.7,0.0,de,2
-Stürmisches Winterwetter,Stürmisches Winterwetter,LOC,-1.0,0.0,de,2
-Mur,Mur,LOC,0.0,0.0,de,2
-Wintergrau,Wintergrau,LOC,0.575,0.0,de,2
-Wintervergnügen,Wintervergnügen,LOC,0.0,0.0,de,2
-Bergisel,Bergisel,LOC,0.7749999999999999,0.0,de,2
-Hauptstadt-Region,Hauptstadt-Region,LOC,0.0,0.0,de,2
-Landkreis Bayreuth,Landkreis Bayreuth,LOC,-0.35,0.0,de,2
-Balkans,Balkans,LOC,-1.0,0.0,de,2
-Schnee-Winter,Schnee-Winter,LOC,0.35,0.5,de,2
-EX30,EX30,LOC,0.0,0.0,de,2
-Essen,Essen,LOC,-0.35,0.0,de,2
-Intercity-Zug,Intercity-Zug,LOC,0.0,0.0,de,2
+Sohle,Sohle,LOC,0.0,0.0,de,2
 Lüdenscheid,Lüdenscheid,LOC,0.35,0.16666666666666666,de,2
 D…,D…,LOC,0.0,0.0,de,2
-Atlantik,Atlantik,LOC,0.0,0.0,de,2
+Italieners,Italieners,LOC,0.0,0.0,de,2
 Glätteunfall,Glätteunfall,LOC,-0.5,0.0,de,2
-Nordbayern,Nordbayern,LOC,-0.35,0.0,de,2
-Grau,Grau,LOC,0.0,0.0,de,2
-sn,sn,LOC,-0.35,0.0,de,2
-Rutsch-Wetter,Rutsch-Wetter,LOC,0.0,0.0,de,2
-Acht,Acht,LOC,-0.7,0.0,de,2
-Minus-Temperaturen,Minus-Temperaturen,LOC,0.15000000000000002,0.0,de,2
-Maribor,Maribor,LOC,0.0,0.5,de,2
-Wintersport-Fans,Wintersport-Fans,LOC,0.0,0.0,de,2
-Drucken</li><li,Drucken</li><li,LOC,0.2833333333333333,0.6666666666666666,de,2
-Feedback</li><li,Feedback</li><li,LOC,0.2833333333333333,0.6666666666666666,de,2
-S…,S…,LOC,-0.35,0.0,de,2
-Pisten,Pisten,LOC,0.0,0.0,de,2
-Seefeld,Seefeld,LOC,0.0,0.0,de,2
-Nordrh,Nordrh,LOC,0.0,0.0,de,2
-Feldberg,Feldberg,LOC,0.7,0.0,de,2
-Santa Maria Maggiore,Santa Maria Maggiore,LOC,0.0,0.0,de,2
-Twitter</li><li,Twitter</li><li,LOC,0.2833333333333333,0.6666666666666666,de,2
-Füssen,Füssen,LOC,0.0,0.0,de,2
-Oberwiesenthal,Oberwiesenthal,LOC,0.0,0.0,de,2
-Frühlingswochenende,Frühlingswochenende,LOC,0.5,0.0,de,2
-Allgäu,Allgäu,LOC,-0.35,0.0,de,2
-Neustadt,Neustadt,LOC,-0.35,0.0,de,2
-Donnerstagfrüh,Donnerstagfrüh,LOC,0.0,0.0,de,2
-Neblig,Neblig,LOC,0.7,0.0,de,2
-Suhl,Suhl,LOC,0.16666666666666666,0.0,de,2
-Gifhorn,Gifhorn,LOC,0.0,0.0,de,2
-Rems-Murr-Kreis,Rems-Murr-Kreis,LOC,0.0,0.5,de,2
-Barweiler,Barweiler,LOC,-0.5,0.0,de,2
-Skidorf,Skidorf,LOC,0.0,0.0,de,2
-Babelsberg,Babelsberg,LOC,-0.5,0.0,de,2
-Freiberger,Freiberger,LOC,0.0,0.0,de,2
-Sturm weht Zelt,Sturm weht Zelt,LOC,0.0,0.0,de,2
-Autobremsen,Autobremsen,LOC,-0.5916666666666667,0.0,de,2
-Küste,Küste,LOC,0.0,0.0,de,2
-Residenzschloss Ludwigsburg,Residenzschloss Ludwigsburg,LOC,-0.5,0.0,de,2
-Taunus,Taunus,LOC,0.0,0.0,de,2
-Traumbedingungen,Traumbedingungen,LOC,0.0,0.0,de,2
-Antarktis,Antarktis,LOC,-0.35,0.0,de,2
 Oesbern,Oesbern,LOC,0.0,0.0,de,2
-Wintersportgebieten,Wintersportgebieten,LOC,0.0,1.0,de,2
+Alpenschneehuhns,Alpenschneehuhns,LOC,0.7,0.0,de,2
+Gifhorn,Gifhorn,LOC,0.0,0.0,de,2
+Neustadt,Neustadt,LOC,-0.35,0.0,de,2
+Rhein-Main,Rhein-Main,LOC,0.0,0.0,de,2
+EX30,EX30,LOC,0.0,0.0,de,2
+Dornbirn,Dornbirn,LOC,0.35,0.0,de,2
+Ebnit,Ebnit,LOC,0.35,0.0,de,2
+Bödele,Bödele,LOC,0.0,0.0,de,2
+Acht,Acht,LOC,-0.7,0.0,de,2
+Rovaniemi,Rovaniemi,LOC,0.0,0.0,de,2
 A11,A11,LOC,-0.35,0.0,de,2
-Flughafen Stuttgart,Flughafen Stuttgart,LOC,0.0,0.0,de,2
-S-Bahn Hannover,S-Bahn Hannover,LOC,-0.35,0.0,de,2
-Plauen,Plauen,LOC,0.0,0.0,de,2
-Mains,Mains,LOC,0.35,0.0,de,2
-Gästeansturm,Gästeansturm,LOC,0.35,0.0,de,2
-Kommentare</li><li,Kommentare</li><li,LOC,0.2833333333333333,0.6666666666666666,de,2
-A6,A6,LOC,0.35,0.0,de,2
-Norddeutschland,Norddeutschland,LOC,0.575,0.0,de,2
+Zillertaler,Zillertaler,LOC,0.7,0.0,de,2
 Trier,Trier,LOC,0.0,0.0,de,2
-Skifahren,Skifahren,LOC,0.0,0.0,de,2
-Manschnow,Manschnow,LOC,-0.35,0.0,de,2
-Kirchheim,Kirchheim,LOC,0.0,1.0,de,2
-Flensburg,Flensburg,LOC,0.0,0.0,de,2
-Norwegen,Norwegen,LOC,0.0,0.0,de,2
-Ski,Ski,LOC,0.425,0.0,de,2
-Florida,Florida,LOC,0.0,0.0,de,2
-Schwerin,Schwerin,LOC,-0.35,0.0,de,2
-Lawinenabgang,Lawinenabgang,LOC,-0.7,0.0,de,2
-Sportfachgeschäfte,Sportfachgeschäfte,LOC,0.35,0.0,de,2
-Brocken,Brocken,LOC,0.0,0.0,de,2
-Zoos,Zoos,LOC,0.7,0.0,de,2
-Europas,Europas,LOC,0.35,0.0,de,2
-Land,Land,LOC,-0.35,0.5,de,2
-Pannenhelfern,Pannenhelfern,LOC,0.35,0.5,de,2
-Thüringer Wald,Thüringer Wald,LOC,0.0,0.0,de,2
-Rostock,Rostock,LOC,0.0,0.0,de,2
-Besucherspektakel,Besucherspektakel,LOC,0.7,0.0,de,2
 Neuschnee,Neuschnee,LOC,0.0,0.0,de,2
-Bahnausfälle,Bahnausfälle,LOC,0.0,0.0,de,2
-Arxan,Arxan,LOC,0.0,0.0,de,2
-Annullierte,Annullierte,LOC,0.35,0.0,de,2
+Maribor,Maribor,LOC,0.0,0.5,de,2
+Landkreis Bayreuth,Landkreis Bayreuth,LOC,-0.35,0.0,de,2
+Deutschlandweit,Deutschlandweit,LOC,-0.175,0.25,de,2
+Heumöserlift,Heumöserlift,LOC,0.35,0.0,de,2
+Bodenseekreis,Bodenseekreis,LOC,-0.7,0.0,de,2
+Höhenlagen,Höhenlagen,LOC,0.0,0.0,de,2
+Japans,Japans,LOC,0.0,0.0,de,2
+Gästeansturm,Gästeansturm,LOC,0.35,0.0,de,2
+Donnerstagfrüh,Donnerstagfrüh,LOC,0.0,0.0,de,2
+Haupthang,Haupthang,LOC,0.0,0.0,de,2
+Wintersport-Fans,Wintersport-Fans,LOC,0.0,0.0,de,2
+S…,S…,LOC,-0.35,0.0,de,2
+Wetterdienst DWD,Wetterdienst DWD,LOC,-0.35,0.0,de,2
+Babelsberg,Babelsberg,LOC,-0.5,0.0,de,2
+Hopfensee,Hopfensee,LOC,-0.35,0.0,de,2
+Sturm weht Zelt,Sturm weht Zelt,LOC,0.0,0.0,de,2
+Flughafen Stuttgart,Flughafen Stuttgart,LOC,0.0,0.0,de,2
+Lasithi,Lasithi,LOC,-0.425,0.0,de,2
+Balkans,Balkans,LOC,-1.0,0.0,de,2
+Rems-Murr-Kreis,Rems-Murr-Kreis,LOC,0.0,0.5,de,2
+Oberwiesenthal,Oberwiesenthal,LOC,0.0,0.0,de,2
+Traumwetter,Traumwetter,LOC,0.0,0.0,de,2
+Wintersportgebieten,Wintersportgebieten,LOC,0.0,1.0,de,2
+Allgäu,Allgäu,LOC,-0.35,0.0,de,2
+Sportfachgeschäfte,Sportfachgeschäfte,LOC,0.35,0.0,de,2
+Feldberg,Feldberg,LOC,0.7,0.0,de,2
+S-Bahn Hannover,S-Bahn Hannover,LOC,-0.35,0.0,de,2
+Mains,Mains,LOC,0.35,0.0,de,2
+Pelargonie,Pelargonie,LOC,0.0,1.0,de,2
+Nordrh,Nordrh,LOC,0.0,0.0,de,2
+Streusalz-Alternativen,Streusalz-Alternativen,LOC,0.0,0.0,de,2
+Neblig,Neblig,LOC,0.7,0.0,de,2
+Barweiler,Barweiler,LOC,-0.5,0.0,de,2
+Eispfützen,Eispfützen,LOC,-0.35,0.0,de,2
+Füssen,Füssen,LOC,0.0,0.0,de,2
+A6,A6,LOC,0.35,0.0,de,2
 Bibber-Wetter,Bibber-Wetter,LOC,0.0,0.0,de,2
-Bodensee,Bodensee,LOC,0.35,0.0,de,2
-Dänemark,Dänemark,LOC,0.0,0.0,de,2
-Flughafens,Flughafens,LOC,-0.35,0.0,de,2
-Istanbul,Istanbul,LOC,0.0,0.0,de,2
-Präfektur Aomori,Präfektur Aomori,LOC,-0.35,0.0,de,2
-Virginia,Virginia,LOC,0.0,0.5,de,2
-Amerikaner,Amerikaner,LOC,-1.0,0.0,de,2
-Kaliforniens,Kaliforniens,LOC,0.0,0.0,de,2
+Oberhof,Oberhof,LOC,0.35,0.0,de,2
+nebelig-trüb,nebelig-trüb,LOC,-0.35,0.0,de,2
+Memmingen,Memmingen,LOC,0.0,0.0,de,2
+Hauptstadt-Region,Hauptstadt-Region,LOC,0.0,0.0,de,2
+Sun Valley,Sun Valley,LOC,0.2333333333333333,0.16666666666666666,de,2
+Winter-Wunder-Land,Winter-Wunder-Land,LOC,-0.5,0.0,de,2
+Thüringer Wald,Thüringer Wald,LOC,0.0,0.0,de,2
+Tulpen,Tulpen,LOC,0.0,0.0,de,2
+Wettermix,Wettermix,LOC,1.0,0.0,de,2
+Wintergrau,Wintergrau,LOC,0.575,0.0,de,2
+Wintervergnügen,Wintervergnügen,LOC,0.0,0.0,de,2
+Flattnitzer Straße,Flattnitzer Straße,LOC,0.0,0.0,de,2
+Freiberger,Freiberger,LOC,0.0,0.0,de,2
+Autobremsen,Autobremsen,LOC,-0.5916666666666667,0.0,de,2
+Suhl,Suhl,LOC,0.16666666666666666,0.0,de,2
+Kaltes Winterwochenende,Kaltes Winterwochenende,LOC,0.0,0.0,de,2
+Wetter-Chaos,Wetter-Chaos,LOC,0.0,0.0,de,2
+Pannenhelfern,Pannenhelfern,LOC,0.35,0.5,de,2
 Vogtland,Vogtland,LOC,0.0,0.0,de,2
-Jecken,Jecken,LOC,0.0,0.0,de,2
+Südkalifornien,Südkalifornien,LOC,0.0,0.0,de,2
+Besucherspektakel,Besucherspektakel,LOC,0.7,0.0,de,2
+Residenzschloss Ludwigsburg,Residenzschloss Ludwigsburg,LOC,-0.5,0.0,de,2
+Flughafens,Flughafens,LOC,-0.35,0.0,de,2
+Zoos,Zoos,LOC,0.7,0.0,de,2
+Washington D.C.,Washington D.C.,LOC,0.0,0.0,de,2
+Norwegen,Norwegen,LOC,0.0,0.0,de,2
+Virginia,Virginia,LOC,0.0,0.5,de,2
+Haiti,Haiti,LOC,0.0,0.4,de,2
+Liftpass,Liftpass,LOC,0.0,0.0,de,2
+Alpinski-Anlage,Alpinski-Anlage,LOC,0.7,0.0,de,2
+Bodensee,Bodensee,LOC,0.35,0.0,de,2
 Landkreisen,Landkreisen,LOC,-0.35,0.5,de,2
 Glatteis-Warnung,Glatteis-Warnung,LOC,0.0,0.0,de,2
-Nachtmittagsstunden,Nachtmittagsstunden,LOC,0.0,0.0,de,2
-Haiti,Haiti,LOC,0.0,0.4,de,2
-Sohle,Sohle,LOC,0.0,0.0,de,2
-Thüringer,Thüringer,LOC,0.7,0.0,de,2
-Jan.,Jan.,LOC,0.0,0.0,de,2
-Tulpen,Tulpen,LOC,0.0,0.0,de,2
-Südkalifornien,Südkalifornien,LOC,0.0,0.0,de,2
-Kreis Pinneberg,Kreis Pinneberg,LOC,0.7,0.0,de,2
-Dornbirn,Dornbirn,LOC,0.35,0.0,de,2
-Alpinski-Anlage,Alpinski-Anlage,LOC,0.7,0.0,de,2
-Liftpass,Liftpass,LOC,0.0,0.0,de,2
-…,…,LOC,0.0,0.0,de,2
-Indien,Indien,LOC,-0.35,0.5,de,2
-Kreis Segeberg,Kreis Segeberg,LOC,0.7,0.0,de,2
-Rhein-Main,Rhein-Main,LOC,0.0,0.0,de,2
-Halle (Saale,Halle (Saale,LOC,0.0,0.0,de,2
-Heumöserlift,Heumöserlift,LOC,0.35,0.0,de,2
-Wetter-Chaos,Wetter-Chaos,LOC,0.0,0.0,de,2
-Zermatt,Zermatt,LOC,0.0,0.0,de,2
-Tennengau,Tennengau,LOC,0.5,0.0,de,2
-Schnee-Walze,Schnee-Walze,LOC,-0.35,0.0,de,2
-Ebnit,Ebnit,LOC,0.35,0.0,de,2
+Kaliforniens,Kaliforniens,LOC,0.0,0.0,de,2
 der Schweiz,der Schweiz,LOC,0.0,0.0,de,2
-Streusalz-Alternativen,Streusalz-Alternativen,LOC,0.0,0.0,de,2
-Düsseldorf,Düsseldorf,LOC,0.0,0.0,de,2
-Gewitter,Gewitter,LOC,0.0,0.0,de,2
-Altai-Gebirges,Altai-Gebirges,LOC,0.0,0.0,de,2
-Washington D.C.,Washington D.C.,LOC,0.0,0.0,de,2
-Bödele,Bödele,LOC,0.0,0.0,de,2
-Deutschlandweit,Deutschlandweit,LOC,-0.175,0.25,de,2
-Memmingen,Memmingen,LOC,0.0,0.0,de,2
-Höhenlagen,Höhenlagen,LOC,0.0,0.0,de,2
+Nachtmittagsstunden,Nachtmittagsstunden,LOC,0.0,0.0,de,2
+Amerikaner,Amerikaner,LOC,-1.0,0.0,de,2
+Plauen,Plauen,LOC,0.0,0.0,de,2
+Norddeutschland,Norddeutschland,LOC,0.575,0.0,de,2
+Annullierte,Annullierte,LOC,0.35,0.0,de,2
+Bahnausfälle,Bahnausfälle,LOC,0.0,0.0,de,2
+Indien,Indien,LOC,-0.35,0.5,de,2
+Rutsch-Wetter,Rutsch-Wetter,LOC,0.0,0.0,de,2
+Warme,Warme,LOC,0.0,0.0,de,2
+Bergisel,Bergisel,LOC,0.7749999999999999,0.0,de,2
+Kreis Segeberg,Kreis Segeberg,LOC,0.7,0.0,de,2
+Frühlingswochenende,Frühlingswochenende,LOC,0.5,0.0,de,2
 Glatteisgefahr am Sonntag,Glatteisgefahr am Sonntag,LOC,-0.35,0.0,de,2
-Washington,Washington,LOC,0.35,0.0,de,2
+Pisten,Pisten,LOC,0.0,0.0,de,2
+Rostock,Rostock,LOC,0.0,0.0,de,2
+Land,Land,LOC,-0.35,0.5,de,2
+Schwerin,Schwerin,LOC,-0.35,0.0,de,2
+Florida,Florida,LOC,0.0,0.0,de,2
+Antarktis,Antarktis,LOC,-0.35,0.0,de,2
+Skifahren,Skifahren,LOC,0.0,0.0,de,2
+Thüringer,Thüringer,LOC,0.7,0.0,de,2
+Fichtelgebirge,Fichtelgebirge,LOC,-0.35,0.0,de,2
+sn,sn,LOC,-0.35,0.0,de,2
+Skidorf,Skidorf,LOC,0.0,0.0,de,2
+Intercity-Zug,Intercity-Zug,LOC,0.0,0.0,de,2
+Traumbedingungen,Traumbedingungen,LOC,0.0,0.0,de,2
+Nordbayern,Nordbayern,LOC,-0.35,0.0,de,2
+Altai-Gebirges,Altai-Gebirges,LOC,0.0,0.0,de,2
+Essen,Essen,LOC,-0.35,0.0,de,2
+Gefrierender Sprühregen,Gefrierender Sprühregen,LOC,0.7,0.0,de,2
+Osteifel,Osteifel,LOC,0.0,0.0,de,2
+Lawinenabgang,Lawinenabgang,LOC,-0.7,0.0,de,2
+Halle (Saale,Halle (Saale,LOC,0.0,0.0,de,2
+Overath,Overath,LOC,0.0,0.0,de,2
+Arxan,Arxan,LOC,0.0,0.0,de,2
+Grau,Grau,LOC,0.0,0.0,de,2
+Minus-Temperaturen,Minus-Temperaturen,LOC,0.15000000000000002,0.0,de,2
+Küste,Küste,LOC,0.0,0.0,de,2
+Europas,Europas,LOC,0.35,0.0,de,2
+Taunus,Taunus,LOC,0.0,0.0,de,2
+…,…,LOC,0.0,0.0,de,2
+Santa Maria Maggiore,Santa Maria Maggiore,LOC,0.0,0.0,de,2
+Seefeld,Seefeld,LOC,0.0,0.0,de,2
+Jan.,Jan.,LOC,0.0,0.0,de,2
+Ski,Ski,LOC,0.425,0.0,de,2
+Präfektur Aomori,Präfektur Aomori,LOC,-0.35,0.0,de,2
+Kirchheim,Kirchheim,LOC,0.0,1.0,de,2
+Fichtelberg,Fichtelberg,LOC,0.0,0.0,de,2
+Schnee-Winter,Schnee-Winter,LOC,0.35,0.5,de,2
+Gewitter,Gewitter,LOC,0.0,0.0,de,2
 Sch…,Sch…,LOC,0.0,0.0,de,2
-Rottach-Egern,Rottach-Egern,LOC,0.0,0.0,de,1
-Nordschwaben,Nordschwaben,LOC,-1.0,0.0,de,1
-Streif,Streif,LOC,-1.0,0.0,de,1
-Tirol,Tirol,LOC,0.0,0.0,de,1
-Bronze-Ra,Bronze-Ra,LOC,0.7,0.0,de,1
-Sachse,Sachse,LOC,1.0,0.0,de,1
-Nasskalter,Nasskalter,LOC,0.0,0.0,de,1
-Kaltfront,Kaltfront,LOC,0.0,0.0,de,1
-Enns,Enns,LOC,0.0,0.0,de,1
-Cat-Skiing,Cat-Skiing,LOC,0.0,0.0,de,1
-Artikelzusammenfassung,Artikelzusammenfassung,LOC,0.0,0.0,de,1
-Vorarlberg,Vorarlberg,LOC,0.0,0.0,de,1
-Norwegens,Norwegens,LOC,0.7,0.0,de,1
-Amtsgericht München,Amtsgericht München,LOC,-1.0,0.0,de,1
+Düsseldorf,Düsseldorf,LOC,0.0,0.0,de,2
+Manschnow,Manschnow,LOC,-0.35,0.0,de,2
+Washington,Washington,LOC,0.35,0.0,de,2
+Brocken,Brocken,LOC,0.0,0.0,de,2
+Stürmisches Winterwetter,Stürmisches Winterwetter,LOC,-1.0,0.0,de,2
+Istanbul,Istanbul,LOC,0.0,0.0,de,2
+Schnee-Walze,Schnee-Walze,LOC,-0.35,0.0,de,2
+Engelskirchen,Engelskirchen,LOC,0.0,0.0,de,2
+Jecken,Jecken,LOC,0.0,0.0,de,2
+Spanien,Spanien,LOC,0.0,0.0,de,2
+Dänemark,Dänemark,LOC,0.0,0.0,de,2
+Flensburg,Flensburg,LOC,0.0,0.0,de,2
+Mur,Mur,LOC,0.0,0.0,de,2
+Herrenwies,Herrenwies,LOC,0.0,0.0,de,2
+Schwarzenbachtalsperre,Schwarzenbachtalsperre,LOC,0.0,0.0,de,2
+Atlantik,Atlantik,LOC,0.0,0.0,de,2
+Tennengau,Tennengau,LOC,0.5,0.0,de,2
+Zermatt,Zermatt,LOC,0.0,0.0,de,2
+Landkreis Rastatt,Landkreis Rastatt,LOC,0.0,0.0,de,2
+Kreis Pinneberg,Kreis Pinneberg,LOC,0.7,0.0,de,2
 Obihiro,Obihiro,LOC,0.0,1.0,de,1
-Frost-Tage,Frost-Tage,LOC,-0.7,0.0,de,1
-Kitzbühel,Kitzbühel,LOC,-1.0,0.0,de,1
-Nächtlicher Frost,Nächtlicher Frost,LOC,0.0,0.0,de,1
-Schwäbischen Alb,Schwäbischen Alb,LOC,0.0,0.0,de,1
-Privacy Center,Privacy Center,LOC,0.0,0.0,de,1
+Winterglatte Straßen,Winterglatte Straßen,LOC,0.7,0.0,de,1
 Para-Ski-WM,Para-Ski-WM,LOC,0.0,0.0,de,1
-Oberkärnten,Oberkärnten,LOC,0.0,0.0,de,1
-Bund,Bund,LOC,-0.5,0.5,de,1
-Hohen Tauern,Hohen Tauern,LOC,0.0,0.0,de,1
 Rekordschneefälle,Rekordschneefälle,LOC,0.0,0.0,de,1
-Höhe de…,Höhe de…,LOC,0.0,0.0,de,1
-Ski-Österreich,Ski-Österreich,LOC,0.0,0.0,de,1
-Ibiza,Ibiza,LOC,-1.0,0.0,de,1
-Schwarzwaldes,Schwarzwaldes,LOC,0.0,0.0,de,1
-Saalbach-Hinterglemm,Saalbach-Hinterglemm,LOC,0.35,0.4,de,1
-Frostwarnung,Frostwarnung,LOC,0.0,0.0,de,1
-Bielefeld,Bielefeld,LOC,-1.0,0.0,de,1
-Diedamskopf,Diedamskopf,LOC,0.0,0.0,de,1
-Seilbahn im,Seilbahn im,LOC,0.0,0.0,de,1
-Oberharz,Oberharz,LOC,0.0,0.0,de,1
-nebelig-trüb,nebelig-trüb,LOC,0.0,0.0,de,1
-Große Feldberg,Große Feldberg,LOC,0.7,0.0,de,1
-Höchstens,Höchstens,LOC,0.0,0.0,de,1
-La Log,La Log,LOC,0.0,0.0,de,1
+Wittmund,Wittmund,LOC,0.0,1.0,de,1
+Nächtlicher Frost,Nächtlicher Frost,LOC,0.0,0.0,de,1
+Winte,Winte,LOC,0.0,0.0,de,1
+Ski Alpin,Ski Alpin,LOC,0.0,0.0,de,1
+Offenbach mitt,Offenbach mitt,LOC,0.0,1.0,de,1
+Artikelzusammenfassung,Artikelzusammenfassung,LOC,0.0,0.0,de,1
+Alpen-Skigebieten,Alpen-Skigebieten,LOC,0.0,0.0,de,1
+Kaltfront,Kaltfront,LOC,0.0,0.0,de,1
+Glatteisgefahr,Glatteisgefahr,LOC,0.0,0.0,de,1
+Ös,Ös,LOC,0.0,0.0,de,1
+Schneeregen,Schneeregen,LOC,0.0,0.0,de,1
 Winterferien,Winterferien,LOC,0.0,0.0,de,1
-Tröpolach,Tröpolach,LOC,0.0,0.0,de,1
+Th…,Th…,LOC,0.0,0.0,de,1
+Ibiza,Ibiza,LOC,-1.0,0.0,de,1
 Nebliges,Nebliges,LOC,0.0,0.0,de,1
-Verantw…,Verantw…,LOC,0.0,0.0,de,1
-Amt für Statistik Berlin-Brandenburg,Amt für Statistik Berlin-Brandenburg,LOC,0.0,0.0,de,1
-Sachsen-Anhalts,Sachsen-Anhalts,LOC,0.0,0.0,de,1
+Bielefeld,Bielefeld,LOC,-1.0,0.0,de,1
+Höhe de…,Höhe de…,LOC,0.0,0.0,de,1
+Frostwarnung,Frostwarnung,LOC,0.0,0.0,de,1
+Ski-Österreich,Ski-Österreich,LOC,0.0,0.0,de,1
+Bibberwinter,Bibberwinter,LOC,0.0,0.0,de,1
+Nasskalter,Nasskalter,LOC,0.0,0.0,de,1
+Glatte Straßen in,Glatte Straßen in,LOC,0.0,0.0,de,1
+Saalbach-Hinterglemm,Saalbach-Hinterglemm,LOC,0.35,0.4,de,1
+Seilbahn im,Seilbahn im,LOC,0.0,0.0,de,1
+lhe,lhe,LOC,0.0,0.0,de,1
+Saarbrücken,Saarbrücken,LOC,0.0,0.0,de,1
+Große Feldberg,Große Feldberg,LOC,0.7,0.0,de,1
+Tröpolach,Tröpolach,LOC,0.0,0.0,de,1
 Kärnten,Kärnten,LOC,0.0,0.0,de,1
 Nässe,Nässe,LOC,0.0,0.0,de,1
-Jessen,Jessen,LOC,0.0,0.0,de,1
-Oberhof,Oberhof,LOC,0.0,0.0,de,1
+Cat-Skiing,Cat-Skiing,LOC,0.0,0.0,de,1
 Mecklenburg-V,Mecklenburg-V,LOC,0.0,0.0,de,1
-Ski Alpin,Ski Alpin,LOC,0.0,0.0,de,1
-politi,politi,LOC,1.0,0.0,de,1
-Alpen-Skigebieten,Alpen-Skigebieten,LOC,0.0,0.0,de,1
-heim…,heim…,LOC,0.7,0.0,de,1
-Ös,Ös,LOC,0.0,0.0,de,1
+Höchstens,Höchstens,LOC,0.0,0.0,de,1
 Wien/Niederalpl,Wien/Niederalpl,LOC,0.0,0.0,de,1
+Saarbr…,Saarbr…,LOC,0.0,0.0,de,1
+Amt für Statistik Berlin-Brandenburg,Amt für Statistik Berlin-Brandenburg,LOC,0.0,0.0,de,1
+Winterwetterweiter,Winterwetterweiter,LOC,0.0,0.0,de,1
 Wetteraussic,Wetteraussic,LOC,0.0,0.0,de,1
-Radcliffe-Welle,Radcliffe-Welle,LOC,0.0,0.0,de,1
-Thüringer Harz,Thüringer Harz,LOC,0.0,0.0,de,1
-Oder,Oder,LOC,0.0,0.0,de,1
-Kühnhaide,Kühnhaide,LOC,0.7,0.0,de,1
-E,E,LOC,0.7,0.0,de,1
-Bertsdorf,Bertsdorf,LOC,0.0,0.0,de,1
-Nordostdeutschland,Nordostdeutschland,LOC,0.0,0.0,de,1
-Rallye-Schule,Rallye-Schule,LOC,0.0,0.0,de,1
-Diakonie Hamburg,Diakonie Hamburg,LOC,0.0,0.0,de,1
-Winternotprogramms,Winternotprogramms,LOC,0.0,0.0,de,1
-sa,sa,LOC,0.0,0.0,de,1
-Milchstraße,Milchstraße,LOC,0.7,0.0,de,1
-Freitagnachmittag,Freitagnachmittag,LOC,0.7,0.0,de,1
-Sportexperten,Sportexperten,LOC,0.6199999999999999,0.2,de,1
-Goslar,Goslar,LOC,-0.35,0.5,de,1
-Landkreis Unt…,Landkreis Unt…,LOC,-0.7,0.0,de,1
-Diehloer Berge,Diehloer Berge,LOC,0.0,1.0,de,1
-Sizilien,Sizilien,LOC,1.0,0.0,de,1
-Vulkan Ätna,Vulkan Ätna,LOC,1.0,0.0,de,1
-Schulschließung,Schulschließung,LOC,0.0,0.0,de,1
-Schnee-Alarm,Schnee-Alarm,LOC,0.0,0.0,de,1
-Himalaya-Bundesstaat,Himalaya-Bundesstaat,LOC,0.0,0.0,de,1
-Heinrich-Schliemann-Gymnasium,Heinrich-Schliemann-Gymnasium,LOC,0.0,0.0,de,1
-Hause,Hause,LOC,0.0,0.0,de,1
-Uttarakhand,Uttarakhand,LOC,0.0,0.0,de,1
-Schneefrei,Schneefrei,LOC,0.0,0.0,de,1
-Live-Karten,Live-Karten,LOC,0.0,0.0,de,1
-Salzburgs,Salzburgs,LOC,0.0,0.0,de,1
-Arthurhaus,Arthurhaus,LOC,0.0,0.0,de,1
+Herbst,Herbst,LOC,0.0,0.0,de,1
 Allgäus,Allgäus,LOC,0.0,0.0,de,1
+Klassik-Bewerb,Klassik-Bewerb,LOC,0.0,0.0,de,1
+Bes…,Bes…,LOC,0.0,0.0,de,1
+Ski-Weltcup-Rennen,Ski-Weltcup-Rennen,LOC,0.0,0.0,de,1
+Nordisc,Nordisc,LOC,0.0,0.0,de,1
+Corona,Corona,LOC,0.0,0.0,de,1
+Wagrain,Wagrain,LOC,0.0,0.0,de,1
+Oberstaufen,Oberstaufen,LOC,0.7,0.0,de,1
+Uttarakhand,Uttarakhand,LOC,0.0,0.0,de,1
+Himalaya-Bundesstaat,Himalaya-Bundesstaat,LOC,0.0,0.0,de,1
+Milchstraße,Milchstraße,LOC,0.7,0.0,de,1
+Radcliffe-Welle,Radcliffe-Welle,LOC,0.0,0.0,de,1
+Eisbären-Babys,Eisbären-Babys,LOC,0.7,0.0,de,1
+Karwendel,Karwendel,LOC,0.0,0.0,de,1
+Berchtesgaden,Berchtesgaden,LOC,0.0,0.0,de,1
+Nordrhein-Westfal,Nordrhein-Westfal,LOC,0.0,0.0,de,1
+Vorpandemieniveau,Vorpandemieniveau,LOC,0.0,0.0,de,1
+Ishikawa un…,Ishikawa un…,LOC,0.0,0.0,de,1
+Niigata,Niigata,LOC,0.0,0.0,de,1
+Dauerfrostboden,Dauerfrostboden,LOC,0.7,0.0,de,1
+heim…,heim…,LOC,0.7,0.0,de,1
+Pinzgau,Pinzgau,LOC,0.7,0.0,de,1
 Zell am See,Zell am See,LOC,0.7,0.0,de,1
 Hagia Sophia,Hagia Sophia,LOC,0.0,0.0,de,1
-Dauerfrostboden,Dauerfrostboden,LOC,0.7,0.0,de,1
-Niigata,Niigata,LOC,0.0,0.0,de,1
 Bosporus,Bosporus,LOC,0.0,0.0,de,1
 Extremes Winterwetter,Extremes Winterwetter,LOC,0.0,1.0,de,1
 Pankows,Pankows,LOC,-1.0,0.0,de,1
 Tagelange Eisglätte,Tagelange Eisglätte,LOC,-1.0,0.0,de,1
 Ostfriesen,Ostfriesen,LOC,0.0,0.0,de,1
 Frühlingshafte,Frühlingshafte,LOC,1.0,0.0,de,1
-Ishikawa un…,Ishikawa un…,LOC,0.0,0.0,de,1
-Nordrhein-Westfal,Nordrhein-Westfal,LOC,0.0,0.0,de,1
-Berchtesgaden,Berchtesgaden,LOC,0.0,0.0,de,1
-Mühlbach,Mühlbach,LOC,0.0,0.0,de,1
-Karwendel,Karwendel,LOC,0.0,0.0,de,1
 Steinberg,Steinberg,LOC,0.0,0.0,de,1
+Schneedepots,Schneedepots,LOC,0.0,0.0,de,1
+Wiener Wäldern,Wiener Wäldern,LOC,0.0,0.0,de,1
+Idstein,Idstein,LOC,1.0,0.0,de,1
+Kreisel,Kreisel,LOC,1.0,0.0,de,1
+Weltcuptitel,Weltcuptitel,LOC,1.0,0.0,de,1
+Idaho,Idaho,LOC,0.4666666666666666,0.3333333333333333,de,1
+Italien,Italien,LOC,0.0,0.0,de,1
+Eis-Winter,Eis-Winter,LOC,0.0,0.0,de,1
+Salzburger  Bergwelt,Salzburger  Bergwelt,LOC,1.0,0.0,de,1
+kaiserlichen Palast,kaiserlichen Palast,LOC,0.0,0.0,de,1
+Tokio,Tokio,LOC,0.0,0.0,de,1
+Sachse,Sachse,LOC,1.0,0.0,de,1
+Livadia,Livadia,LOC,0.0,0.0,de,1
+Sonnenschein,Sonnenschein,LOC,0.0,0.0,de,1
+Oberharz,Oberharz,LOC,0.0,0.0,de,1
+Diedamskopf,Diedamskopf,LOC,0.0,0.0,de,1
+Enns,Enns,LOC,0.0,0.0,de,1
+Schwäbischen Alb,Schwäbischen Alb,LOC,0.0,0.0,de,1
+Schwarzwaldes,Schwarzwaldes,LOC,0.0,0.0,de,1
+La Log,La Log,LOC,0.0,0.0,de,1
+Verantw…,Verantw…,LOC,0.0,0.0,de,1
+Sachsen-Anhalts,Sachsen-Anhalts,LOC,0.0,0.0,de,1
+Jessen,Jessen,LOC,0.0,0.0,de,1
+Bund,Bund,LOC,-0.5,0.5,de,1
+politi,politi,LOC,1.0,0.0,de,1
+Nordschwaben,Nordschwaben,LOC,-1.0,0.0,de,1
+Laacher See,Laacher See,LOC,0.0,0.0,de,1
+Laacher-See-Vulkans,Laacher-See-Vulkans,LOC,0.0,0.0,de,1
+Laacher-See-Eruption,Laacher-See-Eruption,LOC,0.0,0.0,de,1
+Bronze-Ra,Bronze-Ra,LOC,0.7,0.0,de,1
+Norwegens,Norwegens,LOC,0.7,0.0,de,1
+Bezirk Mitte,Bezirk Mitte,LOC,0.7,0.0,de,1
+Verschenken</li><li,Verschenken</li><li,LOC,1.0,0.0,de,1
 ASFINAG-Auto,ASFINAG-Auto,LOC,0.0,0.0,de,1
 Südautobahn,Südautobahn,LOC,0.0,0.0,de,1
 Mittwochfrüh,Mittwochfrüh,LOC,0.0,0.0,de,1
-Polen,Polen,LOC,0.0,0.0,de,1
-Buch,Buch,LOC,0.0,0.0,de,1
-A 7,A 7,LOC,0.0,1.0,de,1
-Eisbären-Babys,Eisbären-Babys,LOC,0.7,0.0,de,1
-Landes Salzburg,Landes Salzburg,LOC,0.0,0.0,de,1
-Pongau,Pongau,LOC,0.0,0.0,de,1
-Hochkönig,Hochkönig,LOC,0.0,0.0,de,1
 Na,Na,LOC,0.0,0.0,de,1
-Unfälle ve…,Unfälle ve…,LOC,0.0,0.0,de,1
 Potsdamer Straßen,Potsdamer Straßen,LOC,0.0,0.0,de,1
-Offenbach mitt,Offenbach mitt,LOC,0.0,1.0,de,1
-Rasthof,Rasthof,LOC,0.0,0.0,de,1
-Bes…,Bes…,LOC,0.0,0.0,de,1
-Autobahn 2 Hannover-Berlin,Autobahn 2 Hannover-Berlin,LOC,0.0,0.0,de,1
-S,S,LOC,-1.0,0.0,de,1
-Klassik-Bewerb,Klassik-Bewerb,LOC,0.0,0.0,de,1
-Schneedepots,Schneedepots,LOC,0.0,0.0,de,1
-Wiener Wäldern,Wiener Wäldern,LOC,0.0,0.0,de,1
-Vorpandemieniveau,Vorpandemieniveau,LOC,0.0,0.0,de,1
-Herbst,Herbst,LOC,0.0,0.0,de,1
-Wittmund,Wittmund,LOC,0.0,1.0,de,1
-Winterglatte Straßen,Winterglatte Straßen,LOC,0.7,0.0,de,1
-Winte,Winte,LOC,0.0,0.0,de,1
-Idstein,Idstein,LOC,1.0,0.0,de,1
-Pinzgau,Pinzgau,LOC,0.7,0.0,de,1
-Kreisel,Kreisel,LOC,1.0,0.0,de,1
-Glatteisgefahr,Glatteisgefahr,LOC,0.0,0.0,de,1
-Schneeregen,Schneeregen,LOC,0.0,0.0,de,1
-lhe,lhe,LOC,0.0,0.0,de,1
-Verschenken</li><li,Verschenken</li><li,LOC,1.0,0.0,de,1
-Saarbr…,Saarbr…,LOC,0.0,0.0,de,1
-Saarbrücken,Saarbrücken,LOC,0.0,0.0,de,1
-Bezirk Mitte,Bezirk Mitte,LOC,0.7,0.0,de,1
-Glatte Straßen in,Glatte Straßen in,LOC,0.0,0.0,de,1
-Bibberwinter,Bibberwinter,LOC,0.0,0.0,de,1
-Winterwetterweiter,Winterwetterweiter,LOC,0.0,0.0,de,1
-Th…,Th…,LOC,0.0,0.0,de,1
-Zweidorfer Holz,Zweidorfer Holz,LOC,0.0,0.0,de,1
-Ski-Weltcup-Rennen,Ski-Weltcup-Rennen,LOC,0.0,0.0,de,1
 Busunfälle,Busunfälle,LOC,-0.15000000000000002,0.0,de,1
-Feldweg,Feldweg,LOC,0.0,0.0,de,1
 Unfallkrankenhaus Berlin,Unfallkrankenhaus Berlin,LOC,0.0,0.0,de,1
 Wolfsburg,Wolfsburg,LOC,-0.7,0.0,de,1
 Eisglätte,Eisglätte,LOC,-0.7,0.0,de,1
 Wurmberg,Wurmberg,LOC,0.10000000000000002,0.3333333333333333,de,1
-Oberstaufen,Oberstaufen,LOC,0.7,0.0,de,1
-Wagrain,Wagrain,LOC,0.0,0.0,de,1
 Thale,Thale,LOC,0.0,1.0,de,1
 Potsdamer Platz,Potsdamer Platz,LOC,0.7,0.0,de,1
 Rutschbahn,Rutschbahn,LOC,0.0,0.0,de,1
-Corona,Corona,LOC,0.0,0.0,de,1
 Baus,Baus,LOC,0.0,0.0,de,1
 Zwickau,Zwickau,LOC,0.0,1.0,de,1
+Feldweg,Feldweg,LOC,0.0,0.0,de,1
 Zwickau-West,Zwickau-West,LOC,0.0,0.0,de,1
-Nordisc,Nordisc,LOC,0.0,0.0,de,1
 A72,A72,LOC,0.0,0.0,de,1
 Schnee-Chaos,Schnee-Chaos,LOC,0.0,0.0,de,1
 Glatte Str…,Glatte Str…,LOC,0.0,0.0,de,1
@@ -519,26 +493,66 @@ Lübeck,Lübeck,LOC,0.0,0.0,de,1
 Landkreis Schwäbisch Hall,Landkreis Schwäbisch Hall,LOC,0.0,0.0,de,1
 Autobahn 6,Autobahn 6,LOC,0.0,0.0,de,1
 Polare Kaltl…,Polare Kaltl…,LOC,0.0,0.0,de,1
-La…,La…,LOC,0.6199999999999999,0.2,de,1
-Nardó,Nardó,LOC,0.0,0.0,de,1
-Oberösterreich,Oberösterreich,LOC,0.0,0.0,de,1
-Glatte,Glatte,LOC,0.7,0.0,de,1
-Mühlviertel,Mühlviertel,LOC,-0.7,0.0,de,1
-Fran,Fran,LOC,0.0,0.0,de,1
-Republik,Republik,LOC,-0.7,0.0,de,1
-Flughafen Frankfurt,Flughafen Frankfurt,LOC,-0.7,0.0,de,1
+Zweidorfer Holz,Zweidorfer Holz,LOC,0.0,0.0,de,1
+Rasthof,Rasthof,LOC,0.0,0.0,de,1
+Autobahn 2 Hannover-Berlin,Autobahn 2 Hannover-Berlin,LOC,0.0,0.0,de,1
+S,S,LOC,-1.0,0.0,de,1
+Unfälle ve…,Unfälle ve…,LOC,0.0,0.0,de,1
+Schneefrei,Schneefrei,LOC,0.0,0.0,de,1
+Polen,Polen,LOC,0.0,0.0,de,1
+Hause,Hause,LOC,0.0,0.0,de,1
+Buch,Buch,LOC,0.0,0.0,de,1
+A 7,A 7,LOC,0.0,1.0,de,1
+Landes Salzburg,Landes Salzburg,LOC,0.0,0.0,de,1
+Pongau,Pongau,LOC,0.0,0.0,de,1
+Hochkönig,Hochkönig,LOC,0.0,0.0,de,1
+Mühlbach,Mühlbach,LOC,0.0,0.0,de,1
+Arthurhaus,Arthurhaus,LOC,0.0,0.0,de,1
+Salzburgs,Salzburgs,LOC,0.0,0.0,de,1
+Live-Karten,Live-Karten,LOC,0.0,0.0,de,1
+Oberkärnten,Oberkärnten,LOC,0.0,0.0,de,1
+Thüringer Harz,Thüringer Harz,LOC,0.0,0.0,de,1
+Oder,Oder,LOC,0.0,0.0,de,1
+Kühnhaide,Kühnhaide,LOC,0.7,0.0,de,1
+E,E,LOC,0.7,0.0,de,1
+Bertsdorf,Bertsdorf,LOC,0.0,0.0,de,1
+Nordostdeutschland,Nordostdeutschland,LOC,0.0,0.0,de,1
+Rallye-Schule,Rallye-Schule,LOC,0.0,0.0,de,1
+Diakonie Hamburg,Diakonie Hamburg,LOC,0.0,0.0,de,1
+Winternotprogramms,Winternotprogramms,LOC,0.0,0.0,de,1
+sa,sa,LOC,0.0,0.0,de,1
+Freitagnachmittag,Freitagnachmittag,LOC,0.7,0.0,de,1
+Goslar,Goslar,LOC,-0.35,0.5,de,1
+Landkreis Unt…,Landkreis Unt…,LOC,-0.7,0.0,de,1
+Diehloer Berge,Diehloer Berge,LOC,0.0,1.0,de,1
+Sizilien,Sizilien,LOC,1.0,0.0,de,1
+Vulkan Ätna,Vulkan Ätna,LOC,1.0,0.0,de,1
+Schulschließung,Schulschließung,LOC,0.0,0.0,de,1
+Schnee-Alarm,Schnee-Alarm,LOC,0.0,0.0,de,1
+Heinrich-Schliemann-Gymnasium,Heinrich-Schliemann-Gymnasium,LOC,0.0,0.0,de,1
+Hohen Tauern,Hohen Tauern,LOC,0.0,0.0,de,1
+Riesengebirge,Riesengebirge,LOC,0.7,0.0,de,1
+Tirol,Tirol,LOC,0.0,0.0,de,1
 Wintertrubel,Wintertrubel,LOC,0.0,0.0,de,1
-Verkehrs-Chaos,Verkehrs-Chaos,LOC,0.0,0.0,de,1
-Schleswig-Ho,Schleswig-Ho,LOC,0.0,0.0,de,1
-Offenbacher,Offenbacher,LOC,0.0,0.0,de,1
-Kreis Konstanz,Kreis Konstanz,LOC,-1.0,0.0,de,1
-Bodensees,Bodensees,LOC,-1.0,0.0,de,1
 Singen,Singen,LOC,0.7,0.0,de,1
+Bodensees,Bodensees,LOC,-1.0,0.0,de,1
+Kreis Konstanz,Kreis Konstanz,LOC,-1.0,0.0,de,1
+Offenbacher,Offenbacher,LOC,0.0,0.0,de,1
+Schleswig-Ho,Schleswig-Ho,LOC,0.0,0.0,de,1
+Verkehrs-Chaos,Verkehrs-Chaos,LOC,0.0,0.0,de,1
+Flughafen Frankfurt,Flughafen Frankfurt,LOC,-0.7,0.0,de,1
+Hinggan-Bund,Hinggan-Bund,LOC,0.0,0.0,de,1
+Republik,Republik,LOC,-0.7,0.0,de,1
+Fran,Fran,LOC,0.0,0.0,de,1
+Mühlviertel,Mühlviertel,LOC,-0.7,0.0,de,1
+mega,mega,LOC,0.7,0.0,de,1
+Flughafen München,Flughafen München,LOC,-0.7,0.0,de,1
+Wien,Wien,LOC,0.0,0.0,de,1
 Engen,Engen,LOC,0.7,0.0,de,1
 Bayer,Bayer,LOC,0.0,0.0,de,1
 M,M,LOC,0.0,0.0,de,1
+Glatte,Glatte,LOC,0.7,0.0,de,1
 Mannheim,Mannheim,LOC,0.0,0.0,de,1
-Landkreis Waldeck-Frankenberg,Landkreis Waldeck-Frankenberg,LOC,0.0,0.0,de,1
 Bundesgebi,Bundesgebi,LOC,0.0,0.0,de,1
 Pennsylvania,Pennsylvania,LOC,0.0,0.0,de,1
 New York,New York,LOC,0.0,0.0,de,1
@@ -551,21 +565,24 @@ Rutscher-Radar,Rutscher-Radar,LOC,0.0,0.0,de,1
 Bayerischem Wald,Bayerischem Wald,LOC,0.0,0.0,de,1
 Eisregen-Rutsche,Eisregen-Rutsche,LOC,-1.0,0.0,de,1
 Bayerischem Wald a…,Bayerischem Wald a…,LOC,0.7,0.0,de,1
-Rodelfreude,Rodelfreude,LOC,0.0,0.0,de,1
-Frankfurter Flughafen am Sonntag,Frankfurter Flughafen am Sonntag,LOC,0.0,0.0,de,1
-mega,mega,LOC,0.7,0.0,de,1
-Flughafen München,Flughafen München,LOC,-0.7,0.0,de,1
-Wien,Wien,LOC,0.0,0.0,de,1
 de…,de…,LOC,0.0,0.0,de,1
-Nacht in Teilen,Nacht in Teilen,LOC,0.0,0.0,de,1
-Autobahn 9,Autobahn 9,LOC,0.0,0.0,de,1
+Charming Ice and Snow,Charming Ice and Snow,LOC,0.0,0.0,de,1
+Schleusingen un…,Schleusingen un…,LOC,0.0,0.0,de,1
 Bayreuth,Bayreuth,LOC,0.0,0.0,de,1
-Kassel,Kassel,LOC,0.0,0.0,de,1
-Gießen,Gießen,LOC,0.0,0.0,de,1
-Hö…,Hö…,LOC,0.0,0.0,de,1
-Nächtlicher Schneefall,Nächtlicher Schneefall,LOC,0.0,0.0,de,1
-Schweizer Zoo,Schweizer Zoo,LOC,0.0,0.0,de,1
 Geheges,Geheges,LOC,-0.7,0.0,de,1
+Schweizer Zoo,Schweizer Zoo,LOC,0.0,0.0,de,1
+Nächtlicher Schneefall,Nächtlicher Schneefall,LOC,0.0,0.0,de,1
+Hö…,Hö…,LOC,0.0,0.0,de,1
+Gießen,Gießen,LOC,0.0,0.0,de,1
+Kassel,Kassel,LOC,0.0,0.0,de,1
+Autobahn 9,Autobahn 9,LOC,0.0,0.0,de,1
+Hinggan-Bundes,Hinggan-Bundes,LOC,0.0,0.0,de,1
+Nacht in Teilen,Nacht in Teilen,LOC,0.0,0.0,de,1
+Gie…,Gie…,LOC,0.0,0.0,de,1
+Tagesspiegel-App,Tagesspiegel-App,LOC,0.0,0.0,de,1
+Neuschnees,Neuschnees,LOC,0.0,1.0,de,1
+Bestwig,Bestwig,LOC,0.0,0.0,de,1
+Hochsauerlandkreis,Hochsauerlandkreis,LOC,0.0,0.0,de,1
 eisglatter Straße,eisglatter Straße,LOC,0.2333333333333333,0.0,de,1
 Fl…,Fl…,LOC,0.0,0.0,de,1
 Kreis Lörrach,Kreis Lörrach,LOC,0.0,0.0,de,1
@@ -583,29 +600,27 @@ Ohio,Ohio,LOC,0.0,0.0,de,1
 Vereinigten Staaten,Vereinigten Staaten,LOC,0.0,0.0,de,1
 Hinggan-Bund…,Hinggan-Bund…,LOC,0.0,0.0,de,1
 Innere Mongolei,Innere Mongolei,LOC,0.0,0.0,de,1
-Hinggan-Bundes,Hinggan-Bundes,LOC,0.0,0.0,de,1
-Charming Ice and Snow,Charming Ice and Snow,LOC,0.0,0.0,de,1
-Hinggan-Bund,Hinggan-Bund,LOC,0.0,0.0,de,1
+Rodelfreude,Rodelfreude,LOC,0.0,0.0,de,1
+Frankfurter Flughafen am Sonntag,Frankfurter Flughafen am Sonntag,LOC,0.0,0.0,de,1
 Hochwassermeldezentrale Saarland,Hochwassermeldezentrale Saarland,LOC,0.0,0.0,de,1
-Willingen,Willingen,LOC,0.0,0.0,de,1
-Tagesspiegel-App,Tagesspiegel-App,LOC,0.0,0.0,de,1
-Limburg,Limburg,LOC,1.0,0.0,de,1
-Ennstal,Ennstal,LOC,0.0,0.3333333333333333,de,1
-Landkreis Eichstätt,Landkreis Eichstätt,LOC,0.0,0.0,de,1
-Altmannstein,Altmannstein,LOC,0.0,0.0,de,1
-Mittenwald,Mittenwald,LOC,0.0,0.0,de,1
-Roms,Roms,LOC,0.0,0.0,de,1
-Vatikan,Vatikan,LOC,0.0,0.0,de,1
 Ski-Test,Ski-Test,LOC,1.0,0.0,de,1
-Landkreis Breisgau-Hochschw,Landkreis Breisgau-Hochschw,LOC,0.0,0.0,de,1
-Schwarzwalds,Schwarzwalds,LOC,-0.7,0.0,de,1
-Landkreis Breisgau-Hochschwarzwald,Landkreis Breisgau-Hochschwarzwald,LOC,-0.7,0.0,de,1
-lsw,lsw,LOC,-0.7,0.0,de,1
-Titisee-Neustadt,Titisee-Neustadt,LOC,-0.7,0.0,de,1
 Schnee-Chao…,Schnee-Chao…,LOC,0.85,0.0,de,1
+Titisee-Neustadt,Titisee-Neustadt,LOC,-0.7,0.0,de,1
+lsw,lsw,LOC,-0.7,0.0,de,1
+Landkreis Breisgau-Hochschwarzwald,Landkreis Breisgau-Hochschwarzwald,LOC,-0.7,0.0,de,1
+Schwarzwalds,Schwarzwalds,LOC,-0.7,0.0,de,1
+Landkreis Breisgau-Hochschw,Landkreis Breisgau-Hochschw,LOC,0.0,0.0,de,1
+Vatikan,Vatikan,LOC,0.0,0.0,de,1
+Landkreis Waldeck-Frankenberg,Landkreis Waldeck-Frankenberg,LOC,0.0,0.0,de,1
+Roms,Roms,LOC,0.0,0.0,de,1
+Mittenwald,Mittenwald,LOC,0.0,0.0,de,1
+Altmannstein,Altmannstein,LOC,0.0,0.0,de,1
+Landkreis Eichstätt,Landkreis Eichstätt,LOC,0.0,0.0,de,1
+Ennstal,Ennstal,LOC,0.0,0.3333333333333333,de,1
+Kreiswasserwacht Starnberg,Kreiswasserwacht Starnberg,LOC,0.0,0.0,de,1
 Wintercheck,Wintercheck,LOC,0.7,0.0,de,1
+Limburg,Limburg,LOC,1.0,0.0,de,1
 Bad Camberg,Bad Camberg,LOC,1.0,0.0,de,1
-Hessens Skigebiete,Hessens Skigebiete,LOC,0.0,0.0,de,1
 Schleudern,Schleudern,LOC,1.0,0.0,de,1
 Heftiger Sturm,Heftiger Sturm,LOC,0.0,0.0,de,1
 Rocky-Mountains-Romantik,Rocky-Mountains-Romantik,LOC,1.0,0.0,de,1
@@ -620,10 +635,12 @@ Syrien,Syrien,LOC,-0.7,0.0,de,1
 Moskau,Moskau,LOC,-0.7,0.0,de,1
 Nordkoreaner,Nordkoreaner,LOC,0.0,1.0,de,1
 Erde,Erde,LOC,-0.7,0.0,de,1
-Kreiswasserwacht Starnberg,Kreiswasserwacht Starnberg,LOC,0.0,0.0,de,1
 Starnberg,Starnberg,LOC,0.0,0.0,de,1
 bayerischen Seen,bayerischen Seen,LOC,-0.7,0.0,de,1
 Weiher,Weiher,LOC,-0.7,0.0,de,1
+Kreis Freudenstadt,Kreis Freudenstadt,LOC,0.15000000000000002,0.0,de,1
+Willingen,Willingen,LOC,0.0,0.0,de,1
+Hessens Skigebiete,Hessens Skigebiete,LOC,0.0,0.0,de,1
 Landes be…,Landes be…,LOC,0.0,0.0,de,1
 Deutsche Wetterdienst,Deutsche Wetterdienst,LOC,0.0,0.0,de,1
 Sittensen,Sittensen,LOC,-1.0,0.0,de,1
@@ -636,8 +653,8 @@ Landkreis…,Landkreis…,LOC,0.0,0.0,de,1
 Osnabrück,Osnabrück,LOC,0.0,0.0,de,1
 Dalberg,Dalberg,LOC,0.0,0.0,de,1
 Bundesstraße 500,Bundesstraße 500,LOC,0.15000000000000002,0.0,de,1
-Kreis Freudenstadt,Kreis Freudenstadt,LOC,0.15000000000000002,0.0,de,1
 Schle,Schle,LOC,0.0,0.0,de,1
+Eissaison,Eissaison,LOC,0.0,0.0,de,1
 Stephanskirchen bei Rosenheim,Stephanskirchen bei Rosenheim,LOC,0.7,0.0,de,1
 Winter,Winter,LOC,0.0,0.0,de,1
 Dicker Eispanzer,Dicker Eispanzer,LOC,-0.7,0.0,de,1
@@ -652,17 +669,24 @@ Pistenzustand,Pistenzustand,LOC,0.0,0.0,de,1
 Pistenbulletin,Pistenbulletin,LOC,0.0,0.3,de,1
 Hubschraubereinsatz,Hubschraubereinsatz,LOC,0.0,0.0,de,1
 Frostiges Wetter,Frostiges Wetter,LOC,0.0,0.0,de,1
-Eissaison,Eissaison,LOC,0.0,0.0,de,1
-Gie…,Gie…,LOC,0.0,0.0,de,1
-Neuschnees,Neuschnees,LOC,0.0,1.0,de,1
-Beate,Beate,LOC,-0.15000000000000002,0.0,de,1
-Polizei Heilbro,Polizei Heilbro,LOC,-0.7,0.0,de,1
-Alta Badia,Alta Badia,LOC,0.7,0.0,de,1
-Ski-Meditation,Ski-Meditation,LOC,0.7,0.0,de,1
-Eisregen,Eisregen,LOC,0.0,0.0,de,1
-Hochdruckgebiet Beate,Hochdruckgebiet Beate,LOC,-0.15000000000000002,0.0,de,1
-Hoch Beate,Hoch Beate,LOC,0.7,0.0,de,1
+Landkreis Hildburghausen,Landkreis Hildburghausen,LOC,0.0,0.0,de,1
+Nordrhein-Westfalens,Nordrhein-Westfalens,LOC,0.0,0.0,de,1
+Vorarlberg,Vorarlberg,LOC,0.0,0.0,de,1
+Südtirol,Südtirol,LOC,0.0,0.0,de,1
 Frühling,Frühling,LOC,0.0,0.0,de,1
+Hoch Beate,Hoch Beate,LOC,0.7,0.0,de,1
+Hochdruckgebiet Beate,Hochdruckgebiet Beate,LOC,-0.15000000000000002,0.0,de,1
+Eisregen,Eisregen,LOC,0.0,0.0,de,1
+Ski-Meditation,Ski-Meditation,LOC,0.7,0.0,de,1
+Alta Badia,Alta Badia,LOC,0.7,0.0,de,1
+Skibranche,Skibranche,LOC,0.0,0.0,de,1
+Wengen,Wengen,LOC,0.0,0.0,de,1
+Interlaken,Interlaken,LOC,0.0,0.0,de,1
+Schweiz,Schweiz,LOC,0.0,0.0,de,1
+Annaberg-Lungötz,Annaberg-Lungötz,LOC,0.0,0.0,de,1
+Partykellerprogramm,Partykellerprogramm,LOC,0.0,0.0,de,1
+Nachts,Nachts,LOC,0.0,0.0,de,1
+Nebelauflösung,Nebelauflösung,LOC,0.0,0.0,de,1
 Graben,Graben,LOC,-0.7,0.0,de,1
 Kreis Rastatt,Kreis Rastatt,LOC,-0.7,0.0,de,1
 Forbach,Forbach,LOC,0.0,0.0,de,1
@@ -671,8 +695,8 @@ Baden-Württ,Baden-Württ,LOC,-0.7,0.0,de,1
 Süddeutschla,Süddeutschla,LOC,0.0,0.0,de,1
 Vogelkörper,Vogelkörper,LOC,0.0,0.0,de,1
 Chaos,Chaos,LOC,0.7,0.0,de,1
+Polizei Heilbro,Polizei Heilbro,LOC,-0.7,0.0,de,1
 Reutlingen,Reutlingen,LOC,-0.4666666666666666,0.3333333333333333,de,1
-Sprühregen,Sprühregen,LOC,0.7,0.0,de,1
 Münchens,Münchens,LOC,0.0,0.0,de,1
 Stadt,Stadt,LOC,0.0,0.0,de,1
 Kreis Heilbronn,Kreis Heilbronn,LOC,0.0,0.0,de,1
@@ -680,21 +704,24 @@ F…,F…,LOC,0.0,0.0,de,1
 Oberrombach,Oberrombach,LOC,-1.0,0.0,de,1
 Freistaat…,Freistaat…,LOC,0.0,0.0,de,1
 Oberpfalz,Oberpfalz,LOC,0.0,0.0,de,1
-Glatte Straßen und Unwetterwarnungen,Glatte Straßen und Unwetterwarnungen,LOC,0.0,0.0,de,1
-Autobahn 92,Autobahn 92,LOC,0.0,0.0,de,1
-Kreis Schwäbisch Hall,Kreis Schwäbisch Hall,LOC,0.0,1.0,de,1
-Spiegelglätte,Spiegelglätte,LOC,0.0,0.0,de,1
-Ostdeutschland,Ostdeutschland,LOC,0.7,0.0,de,1
-Süd-,Süd-,LOC,0.7,0.0,de,1
-Eispanzer,Eispanzer,LOC,0.7,0.0,de,1
-Südtirol,Südtirol,LOC,0.0,0.0,de,1
-Skibranche,Skibranche,LOC,0.0,0.0,de,1
-Interlaken,Interlaken,LOC,0.0,0.0,de,1
-Schweiz,Schweiz,LOC,0.0,0.0,de,1
-Rutschige,Rutschige,LOC,0.0,0.0,de,1
-Ticker,Ticker,LOC,0.0,0.0,de,1
-thüri,thüri,LOC,0.0,0.0,de,1
+Neureuthers,Neureuthers,LOC,0.15000000000000002,0.0,de,1
+Be… 467 Seilbahnen,Be… 467 Seilbahnen,LOC,0.0,0.0,de,1
+Freitagmorgen,Freitagmorgen,LOC,0.0,0.0,de,1
+Sportexperten,Sportexperten,LOC,0.6199999999999999,0.2,de,1
 Glättewarnung,Glättewarnung,LOC,0.0,0.0,de,1
+thüri,thüri,LOC,0.0,0.0,de,1
+Ticker,Ticker,LOC,0.0,0.0,de,1
+Rutschige,Rutschige,LOC,0.0,0.0,de,1
+Beate,Beate,LOC,-0.15000000000000002,0.0,de,1
+Oberösterreich,Oberösterreich,LOC,0.0,0.0,de,1
+La…,La…,LOC,0.6199999999999999,0.2,de,1
+Krispl,Krispl,LOC,1.0,0.0,de,1
+Rottach-Egern,Rottach-Egern,LOC,0.0,0.0,de,1
+Streif,Streif,LOC,-1.0,0.0,de,1
+Kitzbühel,Kitzbühel,LOC,-1.0,0.0,de,1
+Privacy Center,Privacy Center,LOC,0.0,0.0,de,1
+Frost-Tage,Frost-Tage,LOC,-0.7,0.0,de,1
+Amtsgericht München,Amtsgericht München,LOC,-1.0,0.0,de,1
 Floridas,Floridas,LOC,0.0,0.0,de,1
 Straßenschilder…,Straßenschilder…,LOC,0.0,0.0,de,1
 Cannes,Cannes,LOC,0.0,0.0,de,1
@@ -712,34 +739,32 @@ Louisiana,Louisiana,LOC,0.0,0.0,de,1
 Dachstein-Gletscher,Dachstein-Gletscher,LOC,0.0,0.0,de,1
 Schneeballschlacht,Schneeballschlacht,LOC,0.7,0.0,de,1
 Filzmoos,Filzmoos,LOC,0.7,0.0,de,1
-Krispl,Krispl,LOC,1.0,0.0,de,1
-Be… 467 Seilbahnen,Be… 467 Seilbahnen,LOC,0.0,0.0,de,1
-Wengen,Wengen,LOC,0.0,0.0,de,1
-Neureuthers,Neureuthers,LOC,0.15000000000000002,0.0,de,1
-Nebelauflösung,Nebelauflösung,LOC,0.0,0.0,de,1
-Nachts,Nachts,LOC,0.0,0.0,de,1
-Partykellerprogramm,Partykellerprogramm,LOC,0.0,0.0,de,1
-Annaberg-Lungötz,Annaberg-Lungötz,LOC,0.0,0.0,de,1
-Landkreis Ostallgäu,Landkreis Ostallgäu,LOC,0.0,0.0,de,1
-Gefrierender,Gefrierender,LOC,-0.2333333333333333,0.0,de,1
-Bestwig,Bestwig,LOC,0.0,0.0,de,1
-Friesach,Friesach,LOC,-1.0,0.0,de,1
-mv,mv,LOC,-0.7,0.0,de,1
+Glatte Straßen und Unwetterwarnungen,Glatte Straßen und Unwetterwarnungen,LOC,0.0,0.0,de,1
+Autobahn 92,Autobahn 92,LOC,0.0,0.0,de,1
+Kreis Schwäbisch Hall,Kreis Schwäbisch Hall,LOC,0.0,1.0,de,1
 Fahrtricht,Fahrtricht,LOC,0.0,0.0,de,1
-Landkreis Regensburg,Landkreis Regensburg,LOC,0.0,0.0,de,1
-Nittendorf,Nittendorf,LOC,0.0,0.0,de,1
-Laaber,Laaber,LOC,0.0,0.0,de,1
-A3.,A3.,LOC,0.0,0.0,de,1
-Potsdams,Potsdams,LOC,-0.15000000000000002,0.0,de,1
 Ostbrandenburg,Ostbrandenburg,LOC,0.0,0.0,de,1
+Potsdams,Potsdams,LOC,-0.15000000000000002,0.0,de,1
+A3.,A3.,LOC,0.0,0.0,de,1
+Laaber,Laaber,LOC,0.0,0.0,de,1
+Nittendorf,Nittendorf,LOC,0.0,0.0,de,1
+Landkreis Regensburg,Landkreis Regensburg,LOC,0.0,0.0,de,1
+mv,mv,LOC,-0.7,0.0,de,1
+Spiegelglätte,Spiegelglätte,LOC,0.0,0.0,de,1
+Neubrandenburg,Neubrandenburg,LOC,0.0,0.0,de,1
+Gruibingen,Gruibingen,LOC,0.7,0.0,de,1
+Weichenstörungen,Weichenstörungen,LOC,0.0,0.0,de,1
+Unfäl…,Unfäl…,LOC,0.0,0.0,de,1
+Allradtechnik,Allradtechnik,LOC,0.0,0.0,de,1
+Herabfallenden Eiszapfen,Herabfallenden Eiszapfen,LOC,0.0,0.0,de,1
 Ostsachsen,Ostsachsen,LOC,0.0,0.0,de,1
 Fahrze,Fahrze,LOC,0.0,0.0,de,1
 Weißberg,Weißberg,LOC,0.0,0.0,de,1
 Flattnitz,Flattnitz,LOC,0.0,0.0,de,1
 L63,L63,LOC,0.0,0.0,de,1
 Bezirk St. Veit an der Glan,Bezirk St. Veit an der Glan,LOC,0.0,0.0,de,1
+Friesach,Friesach,LOC,-1.0,0.0,de,1
 Klimawa,Klimawa,LOC,-0.7,0.0,de,1
-Vorsicht,Vorsicht,LOC,0.0,0.0,de,1
 Landkreis Neumarkt in der Oberpfalz,Landkreis Neumarkt in der Oberpfalz,LOC,0.0,0.0,de,1
 Mühlhausen,Mühlhausen,LOC,0.0,0.0,de,1
 Winter-Wumms,Winter-Wumms,LOC,0.0,0.0,de,1
@@ -749,16 +774,17 @@ Kamen,Kamen,LOC,0.0,0.0,de,1
 Glatte Straßen nach Schneefall,Glatte Straßen nach Schneefall,LOC,0.7,0.0,de,1
 Bergischen Land,Bergischen Land,LOC,0.0,0.0,de,1
 Aachen,Aachen,LOC,0.0,0.0,de,1
-Freitagmorgen,Freitagmorgen,LOC,0.0,0.0,de,1
-Nordrhein-Westfalens,Nordrhein-Westfalens,LOC,0.0,0.0,de,1
-Schleusingen un…,Schleusingen un…,LOC,0.0,0.0,de,1
-Landkreis Hildburghausen,Landkreis Hildburghausen,LOC,0.0,0.0,de,1
-Hochsauerlandkreis,Hochsauerlandkreis,LOC,0.0,0.0,de,1
-Neubrandenburg,Neubrandenburg,LOC,0.0,0.0,de,1
-Gruibingen,Gruibingen,LOC,0.7,0.0,de,1
-Weichenstörungen,Weichenstörungen,LOC,0.0,0.0,de,1
-Unfäl…,Unfäl…,LOC,0.0,0.0,de,1
-Riesengebirge,Riesengebirge,LOC,0.7,0.0,de,1
+Lkw-Stau,Lkw-Stau,LOC,0.7,0.0,de,1
+ko…,ko…,LOC,0.0,0.0,de,1
+Ruhigeres,Ruhigeres,LOC,0.7,0.0,de,1
+Milano,Milano,LOC,0.0,0.0,de,1
+Ostdeutschland,Ostdeutschland,LOC,0.7,0.0,de,1
+Süd-,Süd-,LOC,0.7,0.0,de,1
+Eispanzer,Eispanzer,LOC,0.7,0.0,de,1
+Landkreis Ostallgäu,Landkreis Ostallgäu,LOC,0.0,0.0,de,1
+Sprühregen,Sprühregen,LOC,0.7,0.0,de,1
+Gefrierender,Gefrierender,LOC,-0.2333333333333333,0.0,de,1
+Vorsicht,Vorsicht,LOC,0.0,0.0,de,1
 Riesen-Ärger,Riesen-Ärger,LOC,0.7,0.0,de,1
 Tschechien,Tschechien,LOC,0.7,0.0,de,1
 Spindlermühle,Spindlermühle,LOC,0.7,0.0,de,1
@@ -766,8 +792,9 @@ Auto-Curling,Auto-Curling,LOC,-0.7,0.0,de,1
 Crash-Video,Crash-Video,LOC,-0.7,0.0,de,1
 Alpentälern,Alpentälern,LOC,0.7,0.0,de,1
 Höchsttemperaturen,Höchsttemperaturen,LOC,0.7,0.0,de,1
-Milano,Milano,LOC,0.0,0.0,de,1
 Pirellis,Pirellis,LOC,0.0,0.0,de,1
+He…,He…,LOC,0.0,0.0,de,1
+Nardó,Nardó,LOC,0.0,0.0,de,1
 Schwabach,Schwabach,LOC,0.0,0.0,de,1
 Ostseestaat,Ostseestaat,LOC,0.0,0.0,de,1
 Zehntausende,Zehntausende,LOC,0.0,0.0,de,1
@@ -781,10 +808,4 @@ Winterwochenende,Winterwochenende,LOC,0.0,0.0,de,1
 Franzose,Franzose,LOC,0.0,0.0,de,1
 Naturschnee,Naturschnee,LOC,0.0,0.0,de,1
 Pistenpräparation,Pistenpräparation,LOC,0.85,0.0,de,1
-He…,He…,LOC,0.0,0.0,de,1
-Ruhigeres,Ruhigeres,LOC,0.7,0.0,de,1
-ko…,ko…,LOC,0.0,0.0,de,1
-Lkw-Stau,Lkw-Stau,LOC,0.7,0.0,de,1
-Herabfallenden Eiszapfen,Herabfallenden Eiszapfen,LOC,0.0,0.0,de,1
-Allradtechnik,Allradtechnik,LOC,0.0,0.0,de,1
-Eis-Winter,Eis-Winter,LOC,0.0,0.0,de,1
+Vonn,Vonn,LOC,1.0,0.0,de,1

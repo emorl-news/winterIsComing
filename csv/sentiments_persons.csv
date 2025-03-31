@@ -1,67 +1,73 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Heidi Klum,Heidi Klum,PER,-0.2333333333333333,0.0,de,3
-Johannes Hösflot Kläbo,Johannes Hösflot Kläbo,PER,0.0,0.0,de,3
+Nick Frost,Nick Frost,PER,-0.6666666666666666,0.0,de,6
+Halbriese Hagrid,Halbriese Hagrid,PER,-1.0,0.0,de,4
+FOCUS-online-Experte Jan Schenk,FOCUS-online-Experte Jan Schenk,PER,0.025000000000000022,0.0,de,4
 Unionskandidat Merz,Unionskandidat Merz,PER,0.0,0.0,de,3
-Amy Waldman,Amy Waldman,PER,0.0,0.0,de,2
-Kaltes Winterwetter,Kaltes Winterwetter,PER,0.0,0.0,de,2
+Lindsey Vonn,Lindsey Vonn,PER,0.0,0.0,de,3
+Johannes Hösflot Kläbo,Johannes Hösflot Kläbo,PER,0.0,0.0,de,3
+Heidi Klum,Heidi Klum,PER,-0.2333333333333333,0.0,de,3
 Mürer Stemland,Mürer Stemland,PER,0.0,0.0,de,2
 Therese Johaug,Therese Johaug,PER,0.35,0.0,de,2
+Marian Grunden,Marian Grunden,PER,0.0,0.0,de,2
+Federica Brignone,Federica Brignone,PER,0.35,0.0,de,2
 Celine Marti,Celine Marti,PER,0.0,0.4,de,2
 Benjamin Zweifel,Benjamin Zweifel,PER,0.7,0.0,de,2
+Tatjana Befuss,Tatjana Befuss,PER,0.0,1.0,de,2
 Winfried Kretschmann,Winfried Kretschmann,PER,-0.35,0.0,de,2
 Unionskanzlerkandidat Merz,Unionskanzlerkandidat Merz,PER,-0.35,0.0,de,2
 Donald Trump,Donald Trump,PER,0.0,0.0,de,2
-Marian Grunden,Marian Grunden,PER,0.0,0.0,de,2
-Lindsey Vonn,Lindsey Vonn,PER,0.0,0.0,de,2
+Amy Waldman,Amy Waldman,PER,0.0,0.0,de,2
 Frostige Temperaturen,Frostige Temperaturen,PER,0.0,0.0,de,2
-FOCUS-online-Experte Jan Schenk,FOCUS-online-Experte Jan Schenk,PER,-0.95,0.0,de,2
-Frostiges Wochenend-Wetter,Frostiges Wochenend-Wetter,PER,0.0,0.0,de,1
-Sebastian Grüner,Sebastian Grüner,PER,0.85,0.0,de,1
-Fabio Schwarz,Fabio Schwarz,PER,0.7,0.0,de,1
-Armin Schwarz,Armin Schwarz,PER,0.7,0.0,de,1
-Peter Radacher junior,Peter Radacher junior,PER,0.0,0.0,de,1
-Hundert Glätteopfer,Hundert Glätteopfer,PER,0.0,1.0,de,1
-Ingo Hartmeyer,Ingo Hartmeyer,PER,0.7,0.0,de,1
-Thorsten Kremers,Thorsten Kremers,PER,0.0,0.0,de,1
+Kaltes Winterwetter,Kaltes Winterwetter,PER,0.0,0.0,de,2
+Nico Bauer,Nico Bauer,PER,0.0,0.0,de,1
+Kai-Uwe Nerding,Kai-Uwe Nerding,PER,-0.7,0.0,de,1
+Michael Lengauer,Michael Lengauer,PER,-0.7,0.0,de,1
 Marit Björgen,Marit Björgen,PER,0.0,0.0,de,1
 Petter Northug,Petter Northug,PER,0.0,0.0,de,1
 Johannes Hösflot,Johannes Hösflot,PER,0.0,0.0,de,1
-Gefährliches Winter-Wetter,Gefährliches Winter-Wetter,PER,-1.0,0.0,de,1
+Gestrichene Flü,Gestrichene Flü,PER,0.0,0.0,de,1
 Katharina Hennig,Katharina Hennig,PER,-1.0,0.0,de,1
 Mika Vermeulen,Mika Vermeulen,PER,0.0,0.0,de,1
 Erik Valnes,Erik Valnes,PER,0.7,0.0,de,1
 Harald Östberg Amundsen,Harald Östberg Amundsen,PER,0.0,0.0,de,1
 Kristin Mürer,Kristin Mürer,PER,0.0,0.0,de,1
-Heidi Klu,Heidi Klu,PER,1.0,0.0,de,1
 Sportchefin Kristin Mürer,Sportchefin Kristin Mürer,PER,0.0,0.0,de,1
+Hundert Glätteopfer,Hundert Glätteopfer,PER,0.0,1.0,de,1
 Andreas Januskovecz,Andreas Januskovecz,PER,0.0,0.0,de,1
 Snowboarder Jeremy Jones,Snowboarder Jeremy Jones,PER,1.0,0.0,de,1
 Jeremy Jones,Jeremy Jones,PER,0.0,0.0,de,1
 Jonas Vingegaard,Jonas Vingegaard,PER,0.0,0.0,de,1
-Gestrichene Flü,Gestrichene Flü,PER,0.0,0.0,de,1
-Marcel Schmid,Marcel Schmid,PER,-1.0,0.0,de,1
-Feinstaub-Wolke Beate,Feinstaub-Wolke Beate,PER,0.0,0.0,de,1
-Guy Maddin,Guy Maddin,PER,0.0,0.0,de,1
-Patrick Solberg,Patrick Solberg,PER,0.5666666666666667,0.3333333333333333,de,1
-Clément Noël,Clément Noël,PER,0.0,0.0,de,1
-Nico Bauer,Nico Bauer,PER,0.0,0.0,de,1
+Grad Celsius,Grad Celsius,PER,0.0,0.0,de,1
+Florian Reiter,Florian Reiter,PER,-0.5,0.5,de,1
+Thorsten Kremers,Thorsten Kremers,PER,0.0,0.0,de,1
+Gefährliches Winter-Wetter,Gefährliches Winter-Wetter,PER,-1.0,0.0,de,1
+Lindsey Vonns,Lindsey Vonns,PER,-0.7,0.0,de,1
+Heidi Klu,Heidi Klu,PER,1.0,0.0,de,1
+Ingo Hartmeyer,Ingo Hartmeyer,PER,0.7,0.0,de,1
+Peter Radacher junior,Peter Radacher junior,PER,0.0,0.0,de,1
 Atle Lie McGrath,Atle Lie McGrath,PER,0.0,0.0,de,1
+Armin Schwarz,Armin Schwarz,PER,0.7,0.0,de,1
 Timon Ha,Timon Ha,PER,0.0,0.0,de,1
-Michael Engelberg,Michael Engelberg,PER,0.0,0.0,de,1
-Fabienne Grawehr,Fabienne Grawehr,PER,0.0,0.0,de,1
+Clément Noël,Clément Noël,PER,0.0,0.0,de,1
+Patrick Solberg,Patrick Solberg,PER,0.5666666666666667,0.3333333333333333,de,1
 Footballstar Josh Allen,Footballstar Josh Allen,PER,-0.7,0.0,de,1
 Lamar Jackson,Lamar Jackson,PER,-0.7,0.0,de,1
 Matthew Rankins,Matthew Rankins,PER,0.0,0.0,de,1
+Guy Maddin,Guy Maddin,PER,0.0,0.0,de,1
 Hansi Hinterseer,Hansi Hinterseer,PER,0.0,0.0,de,1
-Fan Bingbing,Fan Bingbing,PER,0.0,0.0,de,1
-Kai-Uwe Nerding,Kai-Uwe Nerding,PER,-0.7,0.0,de,1
-Michael Lengauer,Michael Lengauer,PER,-0.7,0.0,de,1
+Feinstaub-Wolke Beate,Feinstaub-Wolke Beate,PER,0.0,0.0,de,1
+Frostiges Wochenend-Wetter,Frostiges Wochenend-Wetter,PER,0.0,0.0,de,1
 Unionskanzlerkandidat Friedrich Merz,Unionskanzlerkandidat Friedrich Merz,PER,0.0,0.0,de,1
 Adrian Schmucker,Adrian Schmucker,PER,0.0,0.0,de,1
-André Roch,André Roch,PER,0.0,0.0,de,1
+Michael Engelberg,Michael Engelberg,PER,0.0,0.0,de,1
 Mal Sonne,Mal Sonne,PER,0.0,0.0,de,1
 mal Wolken,mal Wolken,PER,0.0,0.0,de,1
-Rüdiger Eichhorn,Rüdiger Eichhorn,PER,0.0,0.0,de,1
+André Roch,André Roch,PER,0.0,0.0,de,1
 Richtiges Bremsen,Richtiges Bremsen,PER,0.85,0.0,de,1
 Tilda Swinton,Tilda Swinton,PER,0.0,0.0,de,1
-Florian Reiter,Florian Reiter,PER,-0.5,0.5,de,1
+Fan Bingbing,Fan Bingbing,PER,0.0,0.0,de,1
+Marcel Schmid,Marcel Schmid,PER,-1.0,0.0,de,1
+Sebastian Grüner,Sebastian Grüner,PER,0.85,0.0,de,1
+Fabienne Grawehr,Fabienne Grawehr,PER,0.0,0.0,de,1
+Fabio Schwarz,Fabio Schwarz,PER,0.7,0.0,de,1
+Rüdiger Eichhorn,Rüdiger Eichhorn,PER,0.0,0.0,de,1
