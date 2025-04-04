@@ -15,9 +15,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.1635998453981995
 'Schneefall',de,Hazard,#4287f5,#638ed4,3,0.1624170797460779
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,2,0.1605685316607374
-'Glatteis',de,Hazard,#4287f5,#3b4a73,2,0.15708036937735556
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,1,0.1520401790944554
 'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.1477365955805948
+'Glatteis',de,Hazard,#4287f5,#3b4a73,2,0.13591855397075217
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.1337998547697047
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.1298671470681199
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.1298213485978043
