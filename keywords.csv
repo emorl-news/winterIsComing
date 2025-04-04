@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Eis Unfälle',de,Impacts,#a89216,#87830f,1,0.22030368962996322
+'Eis Unfälle',de,Impacts,#a89216,#87830f,1,0.2203036896299632
 'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.2071321994708112
 'Frost',de,Hazard,#4287f5,#315fa8,3,0.192413035227665
 'Glatteis',de,Hazard,#4287f5,#3b4a73,2,0.1819766227968889
@@ -26,4 +26,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.0553766276585966
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.0492162943258266
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0474283615084016
-'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.0419135978277256
+'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.03562655815356676
