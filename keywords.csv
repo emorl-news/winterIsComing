@@ -18,9 +18,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Hazard,#4287f5,#315fa8,3,0.1481854752019879
 'Glatteis',de,Hazard,#4287f5,#3b4a73,2,0.1359185539707521
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.1337998547697047
-'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.1298213485978043
 'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.1269262412435055
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.1105370900079019
+'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.11034814630813367
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.0845025625106916
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.0558255017562383
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.0553766276585966
