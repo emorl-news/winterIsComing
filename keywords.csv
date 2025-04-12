@@ -2,9 +2,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,2,0.1853431189048242
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.1694716521886957
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.1654108364853199
+'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.16432917916820636
 'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,3,0.1637012260020141
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.1635998453981995
-'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.15715188725671345
 'Glätte',de,Hazard,#4287f5,#4b4a63,2,0.1534920342615907
 'Schneefall',de,Hazard,#4287f5,#638ed4,3,0.1520967468750753
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,1,0.1520401790944554
