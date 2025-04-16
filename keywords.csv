@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Frost',de,Hazard,#4287f5,#315fa8,3,0.2263677043762351
+'Frost',de,Hazard,#4287f5,#315fa8,3,0.19736824871979983
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.1704298772929753
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.1654108364853199
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.1635998453981995
@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.1301972296201363
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,1,0.129984227230287
 'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.1269262412435055
-'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.12617944147879176
+'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.1261794414787917
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.1103481463081336
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0939565265067166
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.0553766276585966
