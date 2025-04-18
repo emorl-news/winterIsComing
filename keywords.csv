@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.1301972296201363
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,1,0.129984227230287
 'Glätte',de,Hazard,#4287f5,#4b4a63,2,0.1285272932247784
-'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.1269262412435055
+'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.10803732005697966
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0939565265067166
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.0797265357076264
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.0518951362018784
