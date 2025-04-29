@@ -9,9 +9,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,1,0.129984227230287
 'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,3,0.1272737899898308
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,1,0.1212786229413877
+'Schneefall',de,Hazard,#4287f5,#638ed4,2,0.1199368548966958
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,2,0.1195511181248826
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.1193888286261096
-'Schneefall',de,Hazard,#4287f5,#638ed4,2,0.1192350250121555
 'Eis Unfälle',de,Impacts,#a89216,#87830f,1,0.1172680921811508
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,2,0.1154890065061173
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.113729876554249
