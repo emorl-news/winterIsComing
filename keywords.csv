@@ -16,11 +16,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.113729876554249
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.1108176601771158
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,1,0.1085573185147914
-'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.10636251515044969
+'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.1063625151504496
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0939565265067166
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.0878166501411406
-'Glätte',de,Hazard,#4287f5,#4b4a63,1,0.0819244011641669
 'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.0786120192411677
+'Glätte',de,Hazard,#4287f5,#4b4a63,1,0.07053583098954187
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.048962058741446
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.040564668983336
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0247579011346449
