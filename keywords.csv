@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,2,0.2355172770464259
 'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.2183937934612214
-'Frost',de,Hazard,#4287f5,#315fa8,3,0.1515820919982453
+'Frost',de,Hazard,#4287f5,#315fa8,3,0.1428902172894176
 'Schnee Ski',de,Impacts,#a89216,#bfba22,2,0.1313672481585692
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,2,0.124254705187809
-'Schnee Eis',de,Hazard,#4287f5,#638ed4,2,0.12127883376526623
+'Schnee Eis',de,Hazard,#4287f5,#638ed4,2,0.1212788337652662
 'Schneefall',de,Hazard,#4287f5,#638ed4,2,0.1199368548966958
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.1197868571106436
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,2,0.1195511181248826
