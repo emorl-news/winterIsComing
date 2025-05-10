@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,2,0.250639730489462
-'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.2321348744420381
+'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.19821473327573236
 'Frost',de,Hazard,#4287f5,#315fa8,3,0.1428902172894176
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,2,0.1411875637004762
 'Schnee Ski',de,Impacts,#a89216,#bfba22,2,0.1313672481585692
@@ -26,4 +26,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0247579011346449
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.0134109738813212
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.0096967190170999
-'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.004307446597605535
+'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.0043074465976055
