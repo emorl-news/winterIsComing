@@ -14,9 +14,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,1,0.1030868295001795
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.1017805343321931
 'Eis Unfälle',de,Impacts,#a89216,#87830f,1,0.0999779083539781
-'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.0943450261505484
 'Schneefall',de,Hazard,#4287f5,#638ed4,2,0.091302833806615
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,2,0.090527050882554
+'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.08019327222796614
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0800130625307091
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.0758442726199695
 'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.0669702313549925
