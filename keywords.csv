@@ -22,8 +22,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.0669702313549925
 'Glätte',de,Hazard,#4287f5,#4b4a63,1,0.0610055613411105
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.0353750874406947
-'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.021375524537857436
-'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0129237791291665
+'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.0213755245378574
+'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.010985212259791525
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.0096894286292545
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.0070058794898546
 'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.0043074465976055
