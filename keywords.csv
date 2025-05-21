@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.2408243652493408
 'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.1693826132843724
-'Frost',de,Hazard,#4287f5,#315fa8,3,0.150725155185821
+'Frost',de,Hazard,#4287f5,#315fa8,3,0.1467061355443115
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.1063625151504496
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.1017805343321931
 'Eis Unfälle',de,Impacts,#a89216,#87830f,1,0.0999779083539781
@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.0681642813937711
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0681611181511027
 'Glätte',de,Hazard,#4287f5,#4b4a63,1,0.0610055613411105
-'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.057074711651743625
+'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.0570747116517436
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.0300688243245904
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.0213755245378574
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0109852122597915
