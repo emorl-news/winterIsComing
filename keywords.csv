@@ -19,8 +19,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.0758442726199695
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.0681642813937711
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0681611181511027
-'Glätte',de,Hazard,#4287f5,#4b4a63,1,0.0610055613411105
 'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.0570747116517436
+'Glätte',de,Hazard,#4287f5,#4b4a63,1,0.05320486213994393
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.0300688243245904
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.0213755245378574
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0109852122597915
