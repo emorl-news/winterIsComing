@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.2408243652493408
+'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.25515075546193966
 'Frost',de,Hazard,#4287f5,#315fa8,3,0.1467061355443115
-'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.14487531129171652
+'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.1448753112917165
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.1063625151504496
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.1017805343321931
 'Eis Unfälle',de,Impacts,#a89216,#87830f,1,0.0999779083539781
