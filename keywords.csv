@@ -15,10 +15,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Ski',de,Impacts,#a89216,#bfba22,1,0.0834821205438155
 'Schneefall',de,Hazard,#4287f5,#638ed4,2,0.0800081437356227
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,2,0.0772559640434434
-'Schnee Klimawandel',de,Causes,#679e2c,#477515,1,0.0769482182501709
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.0758442726199695
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.0681642813937711
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0681611181511027
+'Schnee Klimawandel',de,Causes,#679e2c,#477515,1,0.06765621051264525
 'Glätte',de,Hazard,#4287f5,#4b4a63,1,0.0532048621399439
 'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.048513504903982
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.0300688243245904
