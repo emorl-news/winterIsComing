@@ -18,12 +18,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.069844360438878
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0681611181511027
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,1,0.0596079889357484
-'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.05793963918470544
+'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.0579396391847054
 'Glätte',de,Hazard,#4287f5,#4b4a63,1,0.0532048621399439
 'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.0412364791683847
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.0217247255745165
-'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0093374304208227
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.008061768725683
+'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.007936815857699295
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.0043024857417069
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.0042992509578896
 'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.0022485140454912
