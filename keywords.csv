@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Frost Flughafen',de,Impacts,#a89216,#bfba22,2,0.33244967071056364
+'Frost Flughafen',de,Impacts,#a89216,#bfba22,2,0.3324496707105636
 'Frost',de,Hazard,#4287f5,#315fa8,3,0.1705629661217557
-'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.0910286312345253
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,1,0.0876238050751525
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.0868235320124399
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.0865134541823641
@@ -11,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,1,0.0821568073285595
 'Schneefall',de,Hazard,#4287f5,#638ed4,2,0.0800081437356227
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,1,0.0797527946269367
+'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.0784244415493465
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,2,0.0772559640434434
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.0758442726199695
 'Glatteis',de,Hazard,#4287f5,#3b4a73,1,0.0743694182199448
