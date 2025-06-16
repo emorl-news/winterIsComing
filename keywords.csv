@@ -18,12 +18,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.0534076027997442
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.0504625504170892
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0492464078641717
-'Glätte',de,Hazard,#4287f5,#4b4a63,1,0.0470243128189523
+'Glätte',de,Hazard,#4287f5,#4b4a63,1,0.040720740896109456
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.035582180914307
 'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.035051007293127
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.0156961142275881
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0041430674828179
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.003040492169972
-'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.001907600489786195
+'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.0019076004897861
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.001622680413468
 'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.0007208220856629
