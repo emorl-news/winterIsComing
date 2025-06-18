@@ -14,12 +14,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Hazard,#4287f5,#3b4a73,1,0.05610214166391
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.0558499242236292
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.0534076027997442
-'Eis Unfälle',de,Impacts,#a89216,#87830f,1,0.052667134572078694
+'Eis Unfälle',de,Impacts,#a89216,#87830f,1,0.0526671345720786
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.0504625504170892
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,1,0.0501359257627673
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0492464078641717
-'Glätte',de,Hazard,#4287f5,#4b4a63,1,0.0407207408961094
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.035582180914307
+'Glätte',de,Hazard,#4287f5,#4b4a63,1,0.035362704761692995
 'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.035051007293127
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.0156961142275881
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0041430674828179
