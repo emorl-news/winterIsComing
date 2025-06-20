@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.2186109819263047
+'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.186269379637359
 'Frost',de,Hazard,#4287f5,#315fa8,3,0.1073778396634548
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.0816851257179279
-'Schneefall',de,Hazard,#4287f5,#638ed4,1,0.07283963318111308
+'Schneefall',de,Hazard,#4287f5,#638ed4,1,0.072839633181113
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,2,0.0644272278652467
 'Schnee Ski',de,Impacts,#a89216,#bfba22,1,0.0643569639564088
 'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,2,0.0640466048595801
