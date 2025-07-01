@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Schnee Klimawandel',de,Causes,#679e2c,#477515,2,0.07522851692903006
+'Schnee Klimawandel',de,Causes,#679e2c,#477515,2,0.07522851692903
 'Frost',de,Hazard,#4287f5,#315fa8,3,0.067919735706244
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.0647997369735497
-'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.0617521679221289
 'Schneefall',de,Hazard,#4287f5,#638ed4,1,0.0563620084733541
 'Schnee Ski',de,Impacts,#a89216,#bfba22,1,0.0563535843629474
 'Glatteis',de,Hazard,#4287f5,#3b4a73,1,0.05610214166391
 'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,1,0.054440019130643
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.0542614706846396
+'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.052939387733809566
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,2,0.0526963107431796
 'Eis Unfälle',de,Impacts,#a89216,#87830f,1,0.0526671345720786
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.0517085321815223
