@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,1,0.0500738026026337
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0492464078641717
 'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.0488506706473532
-'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.0455464773797825
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.040351570251572
+'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.038864520772815124
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.035582180914307
 'Glätte',de,Hazard,#4287f5,#4b4a63,1,0.0353627047616929
 'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.0303934161991579
