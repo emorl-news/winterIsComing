@@ -12,9 +12,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,1,0.0434628222122386
 'Schnee Ski',de,Impacts,#a89216,#bfba22,1,0.0430857017022294
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.0428931678545258
-'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.0422731450502502
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.040351570251572
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.0388645207728151
+'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.036532233292712664
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.035858057431864
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.0336691422545257
 'Glatteis',de,Hazard,#4287f5,#3b4a73,1,0.0327240873944462
