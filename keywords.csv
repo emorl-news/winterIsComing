@@ -20,9 +20,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glätte',de,Hazard,#4287f5,#4b4a63,1,0.0305083440474389
 'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.0303934161991579
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.0302448537771609
-'Glatteis',de,Hazard,#4287f5,#3b4a73,1,0.029165609285279264
+'Glatteis',de,Hazard,#4287f5,#3b4a73,1,0.0291656092852792
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.0133416970934498
-'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0041430674828179
+'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0036716223603952144
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.000996528608921
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.0007042295116067
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.0006115330106193
