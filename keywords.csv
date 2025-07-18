@@ -16,11 +16,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eis Unfälle',de,Impacts,#a89216,#87830f,1,0.0336710866940776
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.0330348426568928
 'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.0318024732988057
-'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.0303934161991579
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.0302448537771609
 'Glatteis',de,Hazard,#4287f5,#3b4a73,1,0.0291656092852792
+'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.026584478769284214
 'Glätte',de,Hazard,#4287f5,#4b4a63,1,0.026532152440323
-'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.02432595527889478
+'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.0243259552788947
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.0133416970934498
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0029302749053855
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.0006119931319535
