@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Frost',de,Hazard,#4287f5,#315fa8,3,0.0776862936133699
+'Frost',de,Hazard,#4287f5,#315fa8,3,0.07098499957136442
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,2,0.0510968637132066
 'Schneefall',de,Hazard,#4287f5,#638ed4,1,0.0484148534788283
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.040351570251572
@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,1,0.0372434288804028
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,1,0.037240359441846
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.0364591926763469
-'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,1,0.033765780817465355
+'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,1,0.0337657808174653
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.0335400973592042
 'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.0318024732988057
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0306293638170844
