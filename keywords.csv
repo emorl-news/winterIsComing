@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Frost',de,Hazard,#4287f5,#315fa8,3,0.06528888463565974
+'Frost',de,Hazard,#4287f5,#315fa8,3,0.0652888846356597
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,2,0.0441829041562256
 'Schneefall',de,Hazard,#4287f5,#638ed4,1,0.044002910457004
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,2,0.0396337921509229
@@ -25,5 +25,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0023946513691409
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.0005201941621604
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.0005088058221357
-'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.0003192240536245
+'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.00027134044558082496
 'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.0001419114187503
