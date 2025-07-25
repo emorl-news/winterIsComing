@@ -8,12 +8,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,1,0.037240359441846
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.0364591926763469
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.0342988347138362
-'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,1,0.0337657808174653
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.0335400973592042
 'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.0318024732988057
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,1,0.0316569145483423
+'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,1,0.030951138694845504
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0306293638170844
-'Schnee Verkehr',de,Impacts,#a89216,#87830f,1,0.03047364054207549
+'Schnee Verkehr',de,Impacts,#a89216,#87830f,1,0.0304736405420754
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.0302448537771609
 'Eis Unfälle',de,Impacts,#a89216,#87830f,1,0.0295205136899659
 'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.0265844787692842
