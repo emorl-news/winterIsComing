@@ -14,11 +14,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,1,0.0309511386948455
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,1,0.0304736405420754
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.0302448537771609
-'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.029604054506760766
+'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.0296040545067607
 'Eis Unfälle',de,Impacts,#a89216,#87830f,1,0.0295205136899659
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0260349592445217
-'Glatteis',de,Hazard,#4287f5,#3b4a73,1,0.0259908878924873
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.0238676738196049
+'Glatteis',de,Hazard,#4287f5,#3b4a73,1,0.023592404708614203
 'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.0231968669538915
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.0206770619870604
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.0113404425294323
