@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Hazard,#4287f5,#315fa8,3,0.0503494338842761
+'Schneefall',de,Hazard,#4287f5,#638ed4,1,0.0475140308497069
 'Glätte',de,Hazard,#4287f5,#4b4a63,1,0.0425024495742745
-'Schneefall',de,Hazard,#4287f5,#638ed4,1,0.0339697319594075
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.0335400973592042
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.0325273295009773
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,2,0.0318632503264506
