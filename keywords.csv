@@ -18,12 +18,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,1,0.0228721207611772
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0221297153578434
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.0218519068539986
-'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.02068843467712895
+'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.0206884346771289
 'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.0204674119108077
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.0175755026890013
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.0081934697275147
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0012500229812624
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.0006768361002824
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.0005431275691911
-'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,5.352182284328428e-05
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,5.341998859712511e-05
+'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,4.5493549416791637e-05
