@@ -14,9 +14,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.0256134913307465
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.024333578814456
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.0238676738196049
-'Glatteis',de,Hazard,#4287f5,#3b4a73,1,0.0235924047086142
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,1,0.0228721207611772
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0221297153578434
+'Glatteis',de,Hazard,#4287f5,#3b4a73,1,0.021403679002322068
 'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.0206884346771289
 'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.0204674119108077
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.0185741208258988
