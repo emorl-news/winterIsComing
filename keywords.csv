@@ -12,8 +12,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.0181852294755595
 'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,1,0.0178716355692695
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.0172443943346644
-'Schnee Wetterlage',de,Causes,#679e2c,#7db344,1,0.0171223359930483
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0162662470960417
+'Schnee Wetterlage',de,Causes,#679e2c,#7db344,1,0.014704000594091054
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.0137505668579625
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.0136467864445954
 'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.0129298039850159
