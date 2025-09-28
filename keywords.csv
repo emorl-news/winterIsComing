@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.008241436085468
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.003635486045906
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.0004162158916652
-'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.00022653614897689002
+'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.0002265361489768
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0002091829003707
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,8.93947416970512e-06
-'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,6.47108240740572e-06
+'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,5.500420046294862e-06
