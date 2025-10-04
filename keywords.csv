@@ -15,9 +15,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.0143989542960916
 'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.0129298039850159
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.0128866306549624
-'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.0124590749067949
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.011599768477906
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,1,0.0107485414898758
+'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.010590213670775665
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.0099347845548778
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.008241436085468
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.006865591507946
