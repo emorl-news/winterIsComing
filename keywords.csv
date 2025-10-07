@@ -7,8 +7,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.0318204138871484
 'Glatteis',de,Hazard,#4287f5,#3b4a73,2,0.0302820465231296
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,2,0.0209333833682166
+'Schneefall',de,Hazard,#4287f5,#638ed4,2,0.02092946093241005
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,1,0.0201104370517307
-'Schneefall',de,Hazard,#4287f5,#638ed4,1,0.020034201096953
 'Glätte',de,Hazard,#4287f5,#4b4a63,1,0.0189906542154307
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0162662470960417
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.0145288124589001
