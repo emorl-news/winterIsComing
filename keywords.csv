@@ -18,12 +18,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.011599768477906
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,1,0.0107485414898758
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.0099347845548778
-'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.00900168162015926
+'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.0090016816201592
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.008241436085468
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.0058357527817541
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.0030901631390201
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.001965882481728
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.0001636723676356
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0001511346455177
-'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,6.458770087611949e-06
+'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,5.489954574470156e-06
 'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,3.974053483448038e-06
