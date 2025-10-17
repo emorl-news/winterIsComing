@@ -25,5 +25,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.0025710901094687
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0001091947813865
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,8.5437998857985e-05
-'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,2.865790600089512e-06
 'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,2.440565595522527e-06
+'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,2.435922010076085e-06
