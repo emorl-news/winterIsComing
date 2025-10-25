@@ -1,15 +1,15 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,2,0.1356915298009787
-'Frost',de,Hazard,#4287f5,#315fa8,3,0.11286088269877512
+'Frost',de,Hazard,#4287f5,#315fa8,3,0.1128608826987751
 'Schneefall',de,Hazard,#4287f5,#638ed4,3,0.058815941203508
 'Glätte',de,Hazard,#4287f5,#4b4a63,1,0.058392281083116
 'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,1,0.0506990426879215
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,2,0.0463401818012803
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,1,0.0378454382210265
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.0365375164814954
-'Schnee Ski',de,Impacts,#a89216,#bfba22,2,0.0359777708774491
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.0348281670186365
 'Eis Unfälle',de,Impacts,#a89216,#87830f,1,0.0309218971656063
+'Schnee Ski',de,Impacts,#a89216,#bfba22,1,0.030581570245831736
 'Glatteis',de,Hazard,#4287f5,#3b4a73,1,0.0257401295446601
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,1,0.0177938108629841
 'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.0129298039850159
