@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.148487200781207
 'Frost',de,Hazard,#4287f5,#315fa8,3,0.1128608826987751
-'Glätte',de,Hazard,#4287f5,#4b4a63,1,0.06288974316588464
+'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,2,0.06622699446655145
+'Glätte',de,Hazard,#4287f5,#4b4a63,1,0.0628897431658846
 'Schneefall',de,Hazard,#4287f5,#638ed4,3,0.0595516078801246
-'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,1,0.0506990426879215
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,2,0.0463401818012803
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,1,0.0378454382210265
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.0365375164814954
