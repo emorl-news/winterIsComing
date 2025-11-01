@@ -15,8 +15,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,1,0.0177938108629841
 'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.0129298039850159
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.01202989127689
-'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.01060987820622
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,1,0.0100363502663944
+'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.009768471475287
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.0090016816201592
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.0084445668716461
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.0070052206726478
