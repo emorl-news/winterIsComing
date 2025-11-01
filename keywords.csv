@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.1266641656640259
-'Frost',de,Hazard,#4287f5,#315fa8,3,0.10543084983941339
+'Frost',de,Hazard,#4287f5,#315fa8,3,0.09456986736350129
 'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,3,0.0860995560929924
 'Schneefall',de,Hazard,#4287f5,#638ed4,3,0.064660855789015
 'Glätte',de,Hazard,#4287f5,#4b4a63,1,0.0642013035331071
