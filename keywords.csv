@@ -20,8 +20,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.0090016816201592
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.0084445668716461
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.0070052206726478
-'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.003522779104091
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.0030144076724456
+'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.00299436223847735
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.0018977464377506
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.000664095528332
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,1.978888839203427e-05
