@@ -13,8 +13,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eis Unfälle',de,Impacts,#a89216,#87830f,1,0.0309218971656063
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,1,0.0304112678699001
 'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.0274218929373391
-'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.0129298039850159
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.01202989127689
+'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.011740408387263514
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,1,0.0100363502663944
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.009768471475287
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.0090016816201592
