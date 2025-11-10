@@ -4,9 +4,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,3,0.080659018301518
 'Glätte',de,Hazard,#4287f5,#4b4a63,1,0.0729490008977033
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.0660132916124258
-'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.06009601542728962
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,2,0.0585557485633463
 'Schnee Ski',de,Impacts,#a89216,#bfba22,2,0.0533783201064368
+'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.05213171811319616
 'Glatteis',de,Hazard,#4287f5,#3b4a73,1,0.0358287648817311
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.0348281670186365
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,1,0.0344188474878725
