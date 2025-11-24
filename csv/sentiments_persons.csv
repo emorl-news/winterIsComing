@@ -22,7 +22,7 @@ mal Nebel,mal Nebel,PER,0.0,0.0,de,2
 Djuro Macut,Djuro Macut,PER,0.0,0.0,de,2
 Martin Gerstenberg,Martin Gerstenberg,PER,-0.35,0.5,de,2
 Winterbilanz von Meteorologen,Winterbilanz von Meteorologen,PER,0.0,0.0,de,2
-Usha Vance,Usha Vance,PER,1.0,0.0,de,2
+Amy Waldman,Amy Waldman,PER,0.0,0.0,de,2
 Frost Giant,Frost Giant,PER,0.5,0.0,de,2
 Boris Palmer,Boris Palmer,PER,0.0,0.5,de,2
 Vergangenes Jahr,Vergangenes Jahr,PER,-0.35,0.0,de,2
@@ -41,24 +41,26 @@ Jörg Pilawa,Jörg Pilawa,PER,0.0,0.0,de,2
 Bundestagspräsidentin Julia Klöckner,Bundestagspräsidentin Julia Klöckner,PER,0.0,0.0,de,2
 Stephanie Venier,Stephanie Venier,PER,0.0,0.5,de,2
 Celine Marti,Celine Marti,PER,0.0,0.4,de,2
-Amy Waldman,Amy Waldman,PER,0.0,0.0,de,2
+Usha Vance,Usha Vance,PER,1.0,0.0,de,2
 Mal Sonne,Mal Sonne,PER,0.0,0.0,de,2
 Donald Trump,Donald Trump,PER,0.0,0.0,de,2
-Frostige Temperaturen,Frostige Temperaturen,PER,0.0,0.0,de,2
 Marian Grunden,Marian Grunden,PER,0.0,0.0,de,2
-Nico Bauer,Nico Bauer,PER,0.5,0.0,de,2
 Kaltes Winterwetter,Kaltes Winterwetter,PER,0.0,0.0,de,2
 Winfried Kretschmann,Winfried Kretschmann,PER,-0.35,0.0,de,2
+Frostige Temperaturen,Frostige Temperaturen,PER,0.0,0.0,de,2
 Unionskanzlerkandidat Merz,Unionskanzlerkandidat Merz,PER,-0.35,0.0,de,2
-Fabio Schwarz,Fabio Schwarz,PER,0.7,0.0,de,1
-Matej Svancer,Matej Svancer,PER,0.0,0.0,de,1
+Nico Bauer,Nico Bauer,PER,0.5,0.0,de,2
+Atle Lie McGrath,Atle Lie McGrath,PER,0.0,0.0,de,1
+Jeremy Irons,Jeremy Irons,PER,0.0,0.0,de,1
+Kevin Frost,Kevin Frost,PER,0.0,0.0,de,1
+Feinstaub-Wolke Beate,Feinstaub-Wolke Beate,PER,0.0,0.0,de,1
 Patrick Solberg,Patrick Solberg,PER,0.5666666666666667,0.3333333333333333,de,1
 Sean Beans,Sean Beans,PER,1.0,0.0,de,1
 Clément Noël,Clément Noël,PER,0.0,0.0,de,1
-Atle Lie McGrath,Atle Lie McGrath,PER,0.0,0.0,de,1
+Fabio Schwarz,Fabio Schwarz,PER,0.7,0.0,de,1
+Matej Svancer,Matej Svancer,PER,0.0,0.0,de,1
+Ute Lemper,Ute Lemper,PER,0.0,0.0,de,1
 Franz Heher,Franz Heher,PER,-0.175,0.0,de,1
-mal herein,mal herein,PER,0.35,0.5,de,1
-Kevin Frost,Kevin Frost,PER,0.0,0.0,de,1
 Timon Ha,Timon Ha,PER,0.0,0.0,de,1
 Dyson Airstrait,Dyson Airstrait,PER,0.7,0.0,de,1
 "Harry Potter""-Fans","Harry Potter""-Fans",PER,-1.0,0.0,de,1
@@ -66,11 +68,13 @@ Harry Potter-Serie,Harry Potter-Serie,PER,0.0,0.0,de,1
 Footballstar Josh Allen,Footballstar Josh Allen,PER,-0.7,0.0,de,1
 Heikle Rettung,Heikle Rettung,PER,1.0,0.0,de,1
 VISIONS-Autor Carsten Sandkämper,VISIONS-Autor Carsten Sandkämper,PER,0.0,0.0,de,1
-Ben Frost,Ben Frost,PER,0.7,0.0,de,1
-Feinstaub-Wolke Beate,Feinstaub-Wolke Beate,PER,0.0,0.0,de,1
-Ute Lemper,Ute Lemper,PER,0.0,0.0,de,1
-Jeremy Irons,Jeremy Irons,PER,0.0,0.0,de,1
-Mark Frost,Mark Frost,PER,0.0,0.0,de,1
+mal herein,mal herein,PER,0.35,0.5,de,1
+Vanessa Williams,Vanessa Williams,PER,0.0,0.0,de,1
+Rufus Wainwright,Rufus Wainwright,PER,0.0,0.0,de,1
+Michael Lengauer,Michael Lengauer,PER,-0.7,0.0,de,1
+Martha Stewart,Martha Stewart,PER,-0.7,0.0,de,1
+Ungewohnte Kälte,Ungewohnte Kälte,PER,-1.0,0.0,de,1
+Christophe Jacrot,Christophe Jacrot,PER,0.7,0.0,de,1
 stelleniDer Kino-Zeit-Filmwecker,stelleniDer Kino-Zeit-Filmwecker,PER,0.35,0.0,de,1
 Heidi Klu,Heidi Klu,PER,1.0,0.0,de,1
 Jörg Silbergasser,Jörg Silbergasser,PER,0.5,0.5,de,1
@@ -78,8 +82,8 @@ Gefährliches Winter-Wetter,Gefährliches Winter-Wetter,PER,-1.0,0.0,de,1
 Thorsten Kremers,Thorsten Kremers,PER,0.0,0.0,de,1
 Anfänglicher Nebel Kopiere,Anfänglicher Nebel Kopiere,PER,0.0,0.0,de,1
 Gestrichene Flü,Gestrichene Flü,PER,0.0,0.0,de,1
-Michael Lengauer,Michael Lengauer,PER,-0.7,0.0,de,1
 Kai-Uwe Nerding,Kai-Uwe Nerding,PER,-0.7,0.0,de,1
+Laura Palmer,Laura Palmer,PER,0.0,0.0,de,1
 Kathrin Hondl,Kathrin Hondl,PER,0.0,0.0,de,1
 Günther Jauch,Günther Jauch,PER,0.0,0.0,de,1
 Kühles Wetter,Kühles Wetter,PER,-0.7,0.0,de,1
@@ -90,20 +94,18 @@ Michael Engelberg,Michael Engelberg,PER,0.0,0.0,de,1
 Cozy Winterabenteuer,Cozy Winterabenteuer,PER,0.0,0.0,de,1
 Frostiges Wochenend-Wetter,Frostiges Wochenend-Wetter,PER,0.0,0.0,de,1
 Sophie Hromatka,Sophie Hromatka,PER,1.0,0.0,de,1
-Vanessa Williams,Vanessa Williams,PER,0.0,0.0,de,1
-Rufus Wainwright,Rufus Wainwright,PER,0.0,0.0,de,1
-Laura Palmer,Laura Palmer,PER,0.0,0.0,de,1
-Matthew Rankins,Matthew Rankins,PER,0.0,0.0,de,1
+Ben Frost,Ben Frost,PER,0.7,0.0,de,1
 Lamar Jackson,Lamar Jackson,PER,-0.7,0.0,de,1
-Armin Schwarz,Armin Schwarz,PER,0.7,0.0,de,1
+Mark Frost,Mark Frost,PER,0.0,0.0,de,1
+Richtiges Bremsen,Richtiges Bremsen,PER,0.85,0.0,de,1
 Grad Celsius,Grad Celsius,PER,0.0,0.0,de,1
 Jonas Vingegaard,Jonas Vingegaard,PER,0.0,0.0,de,1
 Jeremy Jones,Jeremy Jones,PER,0.0,0.0,de,1
 Snowboarder Jeremy Jones,Snowboarder Jeremy Jones,PER,1.0,0.0,de,1
 Andreas Januskovecz,Andreas Januskovecz,PER,0.0,0.0,de,1
-Sportchefin Kristin Mürer,Sportchefin Kristin Mürer,PER,0.0,0.0,de,1
-Tilda Swinton,Tilda Swinton,PER,0.0,0.0,de,1
 Kristin Mürer,Kristin Mürer,PER,0.0,0.0,de,1
+Tilda Swinton,Tilda Swinton,PER,0.0,0.0,de,1
+Sportchefin Kristin Mürer,Sportchefin Kristin Mürer,PER,0.0,0.0,de,1
 Harald Östberg Amundsen,Harald Östberg Amundsen,PER,0.0,0.0,de,1
 Erik Valnes,Erik Valnes,PER,0.7,0.0,de,1
 Mika Vermeulen,Mika Vermeulen,PER,0.0,0.0,de,1
@@ -118,9 +120,10 @@ Ingo Hartmeyer,Ingo Hartmeyer,PER,0.7,0.0,de,1
 Hundert Glätteopfer,Hundert Glätteopfer,PER,0.0,1.0,de,1
 Peter Radacher junior,Peter Radacher junior,PER,0.0,0.0,de,1
 Florian Reiter,Florian Reiter,PER,-0.5,0.5,de,1
-Richtiges Bremsen,Richtiges Bremsen,PER,0.85,0.0,de,1
 Rüdiger Eichhorn,Rüdiger Eichhorn,PER,0.0,0.0,de,1
-Jens Blum,Jens Blum,PER,0.7,0.0,de,1
+Armin Schwarz,Armin Schwarz,PER,0.7,0.0,de,1
+Lindsey Vonns,Lindsey Vonns,PER,-0.7,0.0,de,1
+Matthew Rankins,Matthew Rankins,PER,0.0,0.0,de,1
 Wiktor Remisows,Wiktor Remisows,PER,0.0,0.0,de,1
 Wiktor Remisow,Wiktor Remisow,PER,0.0,0.0,de,1
 Stephan Ueberbach,Stephan Ueberbach,PER,0.0,0.0,de,1
@@ -130,15 +133,15 @@ Jürgen Schmidt,Jürgen Schmidt,PER,0.0,1.0,de,1
 Guy Maddin,Guy Maddin,PER,0.0,0.0,de,1
 Alpen-Ort von Außenwelt,Alpen-Ort von Außenwelt,PER,0.0,0.0,de,1
 Hansi Hinterseer,Hansi Hinterseer,PER,0.0,0.0,de,1
+Jens Blum,Jens Blum,PER,0.7,0.0,de,1
 Stefan Lindicke,Stefan Lindicke,PER,0.0,0.0,de,1
-Lindsey Vonns,Lindsey Vonns,PER,-0.7,0.0,de,1
 Siegfried Quendler,Siegfried Quendler,PER,-1.0,0.0,de,1
 Franz Reisingers Marillengarten,Franz Reisingers Marillengarten,PER,0.0,0.0,de,1
 Matthias Kernstock,Matthias Kernstock,PER,0.0,0.0,de,1
 Unionskanzlerkandidat Friedrich Merz,Unionskanzlerkandidat Friedrich Merz,PER,0.0,0.0,de,1
 John Lithgow,John Lithgow,PER,0.0,0.0,de,1
 Adrian Schmucker,Adrian Schmucker,PER,0.0,0.0,de,1
-mal Wolken,mal Wolken,PER,0.0,0.0,de,1
 André Roch,André Roch,PER,0.0,0.0,de,1
+mal Wolken,mal Wolken,PER,0.0,0.0,de,1
 Johannes Høsflot Klæbo,Johannes Høsflot Klæbo,PER,0.0,0.0,de,1
-Christophe Jacrot,Christophe Jacrot,PER,0.7,0.0,de,1
+Helge Tuschy,Helge Tuschy,PER,-0.7,0.0,de,1
