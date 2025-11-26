@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,2,0.0790099472766384
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,1,0.078099802689415
 'Schnee Ski',de,Impacts,#a89216,#bfba22,2,0.0533783201064368
-'Eis Unfälle',de,Impacts,#a89216,#87830f,2,0.05142158367942323
+'Eis Unfälle',de,Impacts,#a89216,#87830f,2,0.0514215836794232
 'glatte Straßen',de,Impacts,#a89216,#87830f,2,0.0473630854625073
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.0456778200862664
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0424756325853565
@@ -26,4 +26,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0005471758157612
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,1.2152851083758046e-05
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,6.637656674798407e-07
-'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,4.084121631920147e-07
+'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,3.471503387132125e-07
