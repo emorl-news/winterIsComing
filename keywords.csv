@@ -25,5 +25,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.0030089638743405
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0005471758157612
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,1.2152851083758046e-05
-'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,6.637656674798407e-07
+'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,5.642008173578646e-07
 'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,3.471503387132125e-07
