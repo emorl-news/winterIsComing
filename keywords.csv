@@ -11,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Ski',de,Impacts,#a89216,#bfba22,2,0.0685044402722894
 'Eis Unfälle',de,Impacts,#a89216,#87830f,2,0.0514215836794232
 'glatte Straßen',de,Impacts,#a89216,#87830f,2,0.0473630854625073
-'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.0456778200862664
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0424756325853565
+'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.04122638707332644
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,2,0.0388619809202471
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.0369868516616104
 'Glatteis',de,Hazard,#4287f5,#3b4a73,1,0.0358287648817311
