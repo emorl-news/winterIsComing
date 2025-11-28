@@ -14,10 +14,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.0456778200862664
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0424756325853565
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,2,0.0388619809202471
-'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.036986851661610476
+'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.0369868516616104
 'Glatteis',de,Hazard,#4287f5,#3b4a73,1,0.0358287648817311
-'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.0348062778012748
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,2,0.0316633309082534
+'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.030635441131083577
 'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.0274218929373391
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.02312414658282
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.0090016816201592
