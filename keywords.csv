@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.15714025463789466
+'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.1571402546378946
 'Frost',de,Hazard,#4287f5,#315fa8,3,0.1361528164999483
 'Glätte',de,Hazard,#4287f5,#4b4a63,3,0.1248040880487018
 'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,3,0.1122181735042427
@@ -24,6 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.0080370163197605
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.005616327435988
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.000615114443397
-'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,1.2152851083758046e-05
+'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,1.0329923421194338e-05
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,4.795706947541848e-07
 'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,2.50816119720296e-07
