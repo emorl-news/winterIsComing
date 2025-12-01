@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.1571402546378946
 'Frost',de,Hazard,#4287f5,#315fa8,3,0.1361528164999483
-'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,3,0.12761334975133357
+'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,3,0.1276133497513335
 'Glätte',de,Hazard,#4287f5,#4b4a63,3,0.1248040880487018
+'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.10118506265251229
 'Schneefall',de,Hazard,#4287f5,#638ed4,3,0.0996746295735142
-'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.0971712517837043
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.0893300712320857
 'Schnee Ski',de,Impacts,#a89216,#bfba22,3,0.0825176779603654
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,2,0.0790099472766384
