@@ -19,8 +19,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.038204497697553
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.0369868516616104
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,2,0.0316633309082534
-'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.0306354411310835
 'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.0274218929373391
+'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.027090229961420974
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.0080370163197605
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.005616327435988
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.000615114443397
