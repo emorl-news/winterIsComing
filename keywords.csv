@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,3,0.1300090155322087
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.1275223433649872
 'Schneefall',de,Hazard,#4287f5,#638ed4,3,0.1270890355259548
-'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.104596831890999
+'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.11658795483462188
 'Glatteis',de,Hazard,#4287f5,#3b4a73,3,0.1043678361952324
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.0997463094651818
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,2,0.0851592501851426
