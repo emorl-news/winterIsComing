@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.2017983330709963
-'Frost',de,Hazard,#4287f5,#315fa8,3,0.14797117716108746
-'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,3,0.1462383889735183
+'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,3,0.16107633244567238
+'Frost',de,Hazard,#4287f5,#315fa8,3,0.1479711771610874
 'Glätte',de,Hazard,#4287f5,#4b4a63,3,0.1457311646454518
 'Schneefall',de,Hazard,#4287f5,#638ed4,3,0.1220710142879706
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.1176893202457921
