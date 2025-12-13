@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,3,0.1610763324456723
 'Frost',de,Hazard,#4287f5,#315fa8,3,0.1479711771610874
 'Glätte',de,Hazard,#4287f5,#4b4a63,3,0.1457311646454518
-'Schneefall',de,Hazard,#4287f5,#638ed4,3,0.1220710142879706
+'Schneefall',de,Hazard,#4287f5,#638ed4,3,0.13144216487204774
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.1176893202457921
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,2,0.1058681179492934
 'Glatteis',de,Hazard,#4287f5,#3b4a73,3,0.1043678361952324
