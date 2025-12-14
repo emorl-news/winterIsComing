@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eis Unfälle',de,Impacts,#a89216,#87830f,2,0.0726317334002369
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,3,0.0698536201609042
 'glatte Straßen',de,Impacts,#a89216,#87830f,3,0.0679373503704039
-'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.0605111964607178
+'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.05173454699161013
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,2,0.049155974595397
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.0448749806491363
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.0412263870733264
