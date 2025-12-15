@@ -18,11 +18,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,2,0.049155974595397
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.0412263870733264
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.0390438235517658
-'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.038204497697553
+'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.03382395804292005
 'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.0274218929373391
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.0239267854672077
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.0080370163197605
-'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.00405779657250133
+'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.0040577965725013
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.000763670745051
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,6.343864221040972e-06
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,3.4648982695989853e-07
