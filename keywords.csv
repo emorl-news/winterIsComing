@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.0274218929373391
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.0239267854672077
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.0040577965725013
-'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.000763670745051
+'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.00079913513329335
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,5.392284587884826e-06
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,2.9451635291591374e-07
 'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,2.131937017622516e-07
