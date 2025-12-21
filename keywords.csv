@@ -17,8 +17,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,2,0.049155974595397
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.0441243799428685
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.0412263870733264
-'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.0390438235517658
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.03382395804292
+'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.03363729501900093
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.0318585819487195
 'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.0274218929373391
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.0212378576471265
