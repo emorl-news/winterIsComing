@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.0318585819487195
 'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.0274218929373391
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.0212378576471265
-'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.0040577965725013
+'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.0034491270866261045
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0008292798632993
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,4.583441899702102e-06
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,2.503388999785267e-07
