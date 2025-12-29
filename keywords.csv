@@ -24,6 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.0318585819487195
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.0212378576471265
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.0034491270866261
-'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,4.583441899702102e-06
+'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,3.895925614746787e-06
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,1.8086985523448562e-07
 'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,1.3092758209474276e-07
