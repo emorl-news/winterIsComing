@@ -3,8 +3,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneefall',de,Hazard,#4287f5,#638ed4,3,0.1815146884471725
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,2,0.1744529606512281
 'Frost',de,Hazard,#4287f5,#315fa8,3,0.1632509091043555
+'Glätte',de,Hazard,#4287f5,#4b4a63,3,0.15616648803050748
 'Glatteis',de,Hazard,#4287f5,#3b4a73,3,0.1542446589499879
-'Glätte',de,Hazard,#4287f5,#4b4a63,3,0.1511550297685115
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.1425136787756007
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,2,0.127656315669914
 'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,3,0.1261051988380427
