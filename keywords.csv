@@ -5,8 +5,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Hazard,#4287f5,#315fa8,3,0.1632509091043555
 'Glätte',de,Hazard,#4287f5,#4b4a63,3,0.1561664880305074
 'Glatteis',de,Hazard,#4287f5,#3b4a73,3,0.1542446589499879
-'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.15336290923198787
-'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,2,0.127656315669914
+'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.1533629092319878
+'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,2,0.1466079283194269
 'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,3,0.1261051988380427
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.104589229144928
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,2,0.1042645715025414
