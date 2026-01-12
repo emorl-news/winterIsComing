@@ -6,9 +6,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Hazard,#4287f5,#315fa8,3,0.1775783195324422
 'Glatteis',de,Hazard,#4287f5,#3b4a73,3,0.1587882628347624
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,2,0.1466079283194269
-'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.1261922918205122
 'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,3,0.1261051988380427
 'Eis Unfälle',de,Impacts,#a89216,#87830f,3,0.1173181673134892
+'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.10741346304743536
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.104589229144928
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,2,0.1042645715025414
 'Schnee Ski',de,Impacts,#a89216,#bfba22,3,0.0978185889935833
