@@ -9,10 +9,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eis Unfälle',de,Impacts,#a89216,#87830f,3,0.1455818281255567
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,2,0.1324005781838426
 'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,3,0.1261051988380427
+'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.12279530281790751
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,2,0.1115291223465269
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.104589229144928
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,2,0.1042645715025414
-'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.1020725876289108
 'Schnee Ski',de,Impacts,#a89216,#bfba22,3,0.0978185889935833
 'glatte Straßen',de,Impacts,#a89216,#87830f,3,0.096929612898497
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,2,0.0920500183724019
