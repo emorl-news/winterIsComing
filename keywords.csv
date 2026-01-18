@@ -6,10 +6,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneefall',de,Hazard,#4287f5,#638ed4,3,0.1997045867710288
 'Frost',de,Hazard,#4287f5,#315fa8,3,0.1877237334207577
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,2,0.1712851361303363
+'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,3,0.15760912946688174
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,3,0.1536413464562662
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.1470484391192714
 'Eis Unfälle',de,Impacts,#a89216,#87830f,3,0.1455818281255567
-'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,3,0.1261051988380427
 'Schnee Ski',de,Impacts,#a89216,#bfba22,3,0.1244619570081821
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,2,0.1208481380498874
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,2,0.1115291223465269
