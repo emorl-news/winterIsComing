@@ -17,9 +17,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,2,0.1059227608496601
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.104589229144928
 'glatte Straßen',de,Impacts,#a89216,#87830f,3,0.096929612898497
-'Schnee Langlauf',de,Impacts,#a89216,#bfba22,2,0.0924240160084548
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,2,0.0920500183724019
 'Eis Frost',de,Hazard,#4287f5,#022f78,3,0.0806668145247934
+'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.07856084860718658
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.077883754801772
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0768544054903281
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,2,0.0740060706788147
