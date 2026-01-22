@@ -11,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Ski',de,Impacts,#a89216,#bfba22,3,0.1561997289115002
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.1470484391192714
 'Eis Unfälle',de,Impacts,#a89216,#87830f,3,0.1455818281255567
+'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,2,0.1376279965093956
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,2,0.1305959994878262
-'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,2,0.1240035520431392
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,2,0.1115291223465269
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,2,0.1059227608496601
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.104589229144928
