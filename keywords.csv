@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Hazard,#4287f5,#315fa8,3,0.2407137887506591
 'Schneefall',de,Hazard,#4287f5,#638ed4,3,0.231827398311378
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,3,0.2306061060359316
-'Glatteis Stau',de,Impacts,#a89216,#a89216,2,0.2003654436795545
+'Glatteis Stau',de,Impacts,#a89216,#a89216,2,0.2088320598695568
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,3,0.1855430167898442
 'Schnee Ski',de,Impacts,#a89216,#bfba22,3,0.178631260483866
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,3,0.1780214423424043
