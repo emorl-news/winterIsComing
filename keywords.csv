@@ -2,14 +2,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,3,0.3382362049930811
 'Glätte',de,Hazard,#4287f5,#4b4a63,3,0.305935194516113
 'Frost',de,Hazard,#4287f5,#315fa8,3,0.2886322593892257
-'Glatteis',de,Hazard,#4287f5,#3b4a73,3,0.26402382562415483
+'Glatteis',de,Hazard,#4287f5,#3b4a73,3,0.2640238256241548
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.254149306729028
 'Schneefall',de,Hazard,#4287f5,#638ed4,3,0.231827398311378
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,3,0.2306061060359316
-'Glatteis Stau',de,Impacts,#a89216,#a89216,2,0.2088320598695568
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,3,0.1855430167898442
 'Schnee Ski',de,Impacts,#a89216,#bfba22,3,0.178631260483866
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,3,0.1780214423424043
+'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.17750773088912328
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,3,0.1610890939208467
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,2,0.1586281053585747
 'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,3,0.1576091294668817
