@@ -11,9 +11,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Ski',de,Impacts,#a89216,#bfba22,3,0.178631260483866
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,3,0.1780214423424043
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.1775077308891232
+'Schnee Wetterlage',de,Causes,#679e2c,#7db344,3,0.17615559591842483
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,3,0.1693294331376967
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,3,0.1588421964862747
-'Schnee Wetterlage',de,Causes,#679e2c,#7db344,2,0.1586281053585747
 'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,3,0.1576091294668817
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.1559023069168674
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,2,0.153754318851168
