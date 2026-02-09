@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.2464533002480863
 'Schneefall',de,Hazard,#4287f5,#638ed4,3,0.2429333644737622
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,3,0.2306146367525688
-'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.20053376254600394
+'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.20513716649743666
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,3,0.1918778148327196
 'Schnee Ski',de,Impacts,#a89216,#bfba22,3,0.178631260483866
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,3,0.1780214423424043
