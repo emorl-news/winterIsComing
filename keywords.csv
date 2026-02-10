@@ -18,8 +18,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,3,0.1576091294668817
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,2,0.153754318851168
 'Eis Unfälle',de,Impacts,#a89216,#87830f,3,0.1455818281255567
+'glatte Straßen',de,Impacts,#a89216,#87830f,3,0.1380624019328004
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,2,0.1306885536193594
-'glatte Straßen',de,Impacts,#a89216,#87830f,3,0.1191639177819042
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,3,0.1155659667269988
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,2,0.0903272163161085
 'Eis Frost',de,Hazard,#4287f5,#022f78,3,0.0806668145247934
