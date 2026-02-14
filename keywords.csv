@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glätte',de,Hazard,#4287f5,#4b4a63,3,0.3306251287909413
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,3,0.3213810824453271
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,3,0.3016992824878052
-'Glatteis',de,Hazard,#4287f5,#3b4a73,3,0.2924007078354574
+'Glatteis',de,Hazard,#4287f5,#3b4a73,3,0.28986904302377514
 'Frost',de,Hazard,#4287f5,#315fa8,3,0.2854558161359882
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.2464533002480863
 'Schneefall',de,Hazard,#4287f5,#638ed4,3,0.2429333644737622
@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,2,0.1306885536193594
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,3,0.1155659667269988
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,2,0.0956412638686922
-'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,3,0.08705634486404129
+'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,3,0.0870563448640412
 'Eis Frost',de,Hazard,#4287f5,#022f78,3,0.0806668145247934
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.054659881338305
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0419185377933701
