@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,3,0.3213810824453271
 'Frost',de,Hazard,#4287f5,#315fa8,3,0.3202037989309786
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,3,0.3016992824878052
-'Glatteis',de,Hazard,#4287f5,#3b4a73,3,0.2898690430237751
+'Glatteis',de,Hazard,#4287f5,#3b4a73,3,0.28771538793384516
 'Schneefall',de,Hazard,#4287f5,#638ed4,3,0.2569104002572433
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,3,0.2418823421487743
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.2326317033926915
