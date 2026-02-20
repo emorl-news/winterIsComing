@@ -24,6 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,2,0.0982318367179489
 'Eis Frost',de,Hazard,#4287f5,#022f78,3,0.0962476950733471
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,2,0.0956412638686922
-'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0737308171243645
+'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.06342126955570983
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.0467609291375592
-'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.029192349880271095
+'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.029192349880271
