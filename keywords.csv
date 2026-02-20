@@ -20,10 +20,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eis Unfälle',de,Impacts,#a89216,#87830f,3,0.1455818281255567
 'glatte Straßen',de,Impacts,#a89216,#87830f,3,0.1380624019328004
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.1110857505764554
-'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,3,0.10167848086170775
+'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,3,0.1016784808617077
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,2,0.0982318367179489
 'Eis Frost',de,Hazard,#4287f5,#022f78,3,0.0962476950733471
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,2,0.0956412638686922
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0737308171243645
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.0467609291375592
-'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.032755546917966
+'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.029192349880271095
