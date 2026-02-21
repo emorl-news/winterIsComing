@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Ski',de,Impacts,#a89216,#bfba22,3,0.178631260483866
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,3,0.1761555959184248
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,3,0.1693294331376967
+'Eis Unfälle',de,Impacts,#a89216,#87830f,3,0.160515015724905
 'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,3,0.1576091294668817
-'Eis Unfälle',de,Impacts,#a89216,#87830f,3,0.1455818281255567
 'glatte Straßen',de,Impacts,#a89216,#87830f,3,0.1380624019328004
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.1110857505764554
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,3,0.1016784808617077
