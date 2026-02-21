@@ -7,8 +7,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,2,0.246822140234536
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,3,0.2418823421487743
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.2326317033926915
-'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.2120197663294048
 'Glatteis Stau',de,Impacts,#a89216,#a89216,2,0.2058324412557547
+'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.2037455828085655
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,3,0.2027916613249698
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,3,0.1918778148327196
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,2,0.1861562552790597
