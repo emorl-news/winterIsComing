@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Hazard,#4287f5,#315fa8,3,0.3407000878306573
-'Glätte',de,Hazard,#4287f5,#4b4a63,3,0.2901202083469096
+'Glätte',de,Hazard,#4287f5,#4b4a63,3,0.283393308913055
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,2,0.2675988868037953
 'Glatteis',de,Hazard,#4287f5,#3b4a73,3,0.2527253556995166
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,3,0.2418823421487743
