@@ -25,5 +25,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,3,0.099882637924752
 'Eis Frost',de,Hazard,#4287f5,#022f78,3,0.0962476950733471
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0546581541223533
-'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.0343398268018865
+'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.029488882781603522
 'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.0195409630340631
