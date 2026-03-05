@@ -18,8 +18,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,3,0.1693294331376967
 'Eis Unfälle',de,Impacts,#a89216,#87830f,3,0.160515015724905
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.1525942483031272
-'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,3,0.1387624340589474
 'glatte Straßen',de,Impacts,#a89216,#87830f,3,0.1380624019328004
+'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,3,0.13199052304101436
 'Eis Frost',de,Hazard,#4287f5,#022f78,3,0.1231264871759814
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.1110857505764554
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,2,0.1046477962102565
