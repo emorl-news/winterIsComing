@@ -9,12 +9,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Ski',de,Impacts,#a89216,#bfba22,3,0.1812612770558981
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.1786551403340343
 'Schneefall',de,Hazard,#4287f5,#638ed4,3,0.178004909005387
-'Schnee Wetterlage',de,Causes,#679e2c,#7db344,3,0.1732515303692437
 'Eis Unfälle',de,Impacts,#a89216,#87830f,3,0.1670108206388965
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,2,0.1576355853156057
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.1576014401893462
 'glatte Straßen',de,Impacts,#a89216,#87830f,2,0.1541861961237209
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.1476044955941448
+'Schnee Wetterlage',de,Causes,#679e2c,#7db344,2,0.14726444581385714
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.1428499287202695
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,2,0.1381399152828949
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.1366045129065657
