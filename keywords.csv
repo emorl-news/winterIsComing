@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Hazard,#4287f5,#315fa8,3,0.2466527069937733
 'Glätte',de,Hazard,#4287f5,#4b4a63,3,0.2243771261189493
-'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,2,0.22255490588329155
-'Glatteis',de,Hazard,#4287f5,#3b4a73,2,0.2093804018491142
+'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,2,0.2225549058832915
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,3,0.1822297574678759
+'Glatteis',de,Hazard,#4287f5,#3b4a73,1,0.17797371657174704
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,3,0.1749591931858309
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.1657469249881733
 'Schnee Ski',de,Impacts,#a89216,#bfba22,3,0.1635692500429679
