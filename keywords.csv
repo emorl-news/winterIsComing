@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glätte',de,Hazard,#4287f5,#4b4a63,3,0.2609553240607542
 'Frost',de,Hazard,#4287f5,#315fa8,3,0.2191576954901618
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,2,0.1894717000007977
-'Schnee Klimawandel',de,Causes,#679e2c,#477515,3,0.1705477312498396
+'Schnee Klimawandel',de,Causes,#679e2c,#477515,3,0.17150056208867945
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.1650489861903188
 'Schnee Ski',de,Impacts,#a89216,#bfba22,3,0.1635692500429679
 'Glatteis',de,Hazard,#4287f5,#3b4a73,2,0.1610280340859849
@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eis Unfälle',de,Impacts,#a89216,#87830f,1,0.1220155931616027
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.121872484412229
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.1161138359705808
-'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.11414456828680257
+'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.1141445682868025
 'Eis Frost',de,Hazard,#4287f5,#022f78,2,0.1046579490995841
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.0982234353569462
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,2,0.0916684161932201
