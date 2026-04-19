@@ -18,9 +18,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.125613836255023
 'Eis Unfälle',de,Impacts,#a89216,#87830f,1,0.1220155931616027
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.121872484412229
-'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.1161138359705808
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.1141445682868025
 'Eis Frost',de,Hazard,#4287f5,#022f78,2,0.1046579490995841
+'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.09869676057499367
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.0982234353569462
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,2,0.0916684161932201
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,3,0.0900604819019018
