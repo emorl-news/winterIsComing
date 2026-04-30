@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Glätte',de,Hazard,#4287f5,#4b4a63,3,0.2344259249275433
+'Glätte',de,Hazard,#4287f5,#4b4a63,3,0.20301290618841178
 'Frost',de,Hazard,#4287f5,#315fa8,3,0.2018217353427679
 'Schnee Ski',de,Impacts,#a89216,#bfba22,2,0.1530295639060443
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.1395714168861416
@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,1,0.1235004244854349
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.121872484412229
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,2,0.1213468801122608
-'Schneefall',de,Hazard,#4287f5,#638ed4,3,0.12047850007687148
+'Schneefall',de,Hazard,#4287f5,#638ed4,3,0.1204785000768714
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,1,0.1186395991929653
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,2,0.1169816144802101
 'Glatteis',de,Hazard,#4287f5,#3b4a73,1,0.1125771925330554
