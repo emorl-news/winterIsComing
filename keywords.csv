@@ -6,7 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,2,0.1085203938888639
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,1,0.1064755108126196
 'Eis Unfälle',de,Impacts,#a89216,#87830f,1,0.1044633291873622
-'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.1038916417503946
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.1031448480954216
 'Schnee Ski',de,Impacts,#a89216,#bfba22,1,0.0973904269962993
 'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.0973103104769215
@@ -15,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,1,0.0902625649169174
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,3,0.0900604819019018
 'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.0889594217346464
+'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.08845791048783541
 'Glatteis',de,Hazard,#4287f5,#3b4a73,2,0.0871651043551324
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.0827469783372147
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,2,0.0819224953480938
