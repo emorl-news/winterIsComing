@@ -21,9 +21,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,1,0.0735474648697015
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.0719656924187929
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.0712664620453935
-'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.0703349315866325
+'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.05978469184863762
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0565734155196611
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0404723191469389
-'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.037223435444615253
+'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.0372234354446152
 'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.0051732774712399
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.0022157904647787
