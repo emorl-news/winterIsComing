@@ -13,9 +13,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,1,0.0902625649169174
 'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.0889594217346464
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.0884579104878354
-'Glatteis',de,Hazard,#4287f5,#3b4a73,2,0.0871651043551324
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,2,0.0765514096166165
-'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.07479968049894205
+'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.074799680498942
+'Glatteis',de,Hazard,#4287f5,#3b4a73,1,0.07409059370186255
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,1,0.0735474648697015
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,2,0.0730844810458797
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.0712664620453935
