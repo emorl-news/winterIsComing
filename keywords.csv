@@ -8,10 +8,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneefall',de,Hazard,#4287f5,#638ed4,2,0.0951179319191759
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.0932590998489929
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,1,0.0902625649169174
-'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.0889594217346464
 'Schnee Ski',de,Impacts,#a89216,#bfba22,1,0.0845820429468544
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,1,0.0794263063121176
-'Eis Unfälle',de,Impacts,#a89216,#87830f,1,0.07602981083786914
+'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.07651559847444944
+'Eis Unfälle',de,Impacts,#a89216,#87830f,1,0.0760298108378691
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.07518922391466
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.074799680498942
 'Glatteis',de,Hazard,#4287f5,#3b4a73,1,0.0740905937018625
