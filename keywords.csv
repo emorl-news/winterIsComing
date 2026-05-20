@@ -3,9 +3,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Hazard,#4287f5,#315fa8,3,0.1399989875295574
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.111575845604443
 'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.0973103104769215
-'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.0960458517708215
+'Kälteeinbruch',de,Causes,#679e2c,#61b00c,2,0.09568042309610736
 'Schneefall',de,Hazard,#4287f5,#638ed4,2,0.0951179319191759
-'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,3,0.09503344538879717
+'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,3,0.0950334453887971
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.0932590998489929
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,1,0.0902625649169174
 'Schnee Ski',de,Impacts,#a89216,#bfba22,1,0.0845820429468544
