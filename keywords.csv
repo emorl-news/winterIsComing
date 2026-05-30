@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Hazard,#4287f5,#315fa8,3,0.1225683093292033
 'Glätte',de,Hazard,#4287f5,#4b4a63,1,0.1169320475941487
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.08466520069921
+'Kälteeinbruch',de,Causes,#679e2c,#61b00c,2,0.0845892172033654
 'Schnee Ski',de,Impacts,#a89216,#bfba22,1,0.0845820429468544
-'Kälteeinbruch',de,Causes,#679e2c,#61b00c,2,0.0829973742499486
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,1,0.0794263063121176
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.0792702348716439
 'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.0785262728263611
@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.0557355264698586
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.0508169880713419
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.0458460989411271
-'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.04087429271295511
+'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0408742927129551
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.034551486274898
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.0335118730936866
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.0319315600439592
