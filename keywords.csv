@@ -12,12 +12,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Ski',de,Impacts,#a89216,#bfba22,1,0.0733948865048262
 'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.0713943080695757
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,1,0.0700626153652999
-'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.06824748190240694
+'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.0682474819024069
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.0673796996408973
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,2,0.0661722288889977
 'Glatteis',de,Hazard,#4287f5,#3b4a73,1,0.0653772446465831
-'Schnee Langlauf',de,Impacts,#a89216,#bfba22,2,0.065218713174124
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.0557355264698586
+'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.0554359211980054
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.0508169880713419
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.0458460989411271
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0408742927129551
