@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,1,0.0700626153652999
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,2,0.0694878170430678
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.0673796996408973
-'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.06708366133567366
+'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.0670836613356736
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,1,0.0668798696524728
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,2,0.0661722288889977
 'Schneefall',de,Hazard,#4287f5,#638ed4,2,0.0658474032279614
@@ -17,8 +17,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.0593604946170458
 'Schnee Ski',de,Impacts,#a89216,#bfba22,1,0.0563581384997368
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.0557355264698586
-'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.0554359211980054
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.0508169880713419
+'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.047270548018304596
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.039869274099958
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0347431488060118
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.034551486274898
