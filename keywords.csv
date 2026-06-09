@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Frost',de,Hazard,#4287f5,#315fa8,3,0.0880147771042969
+'Frost',de,Hazard,#4287f5,#315fa8,3,0.07976532053865237
 'Glätte',de,Hazard,#4287f5,#4b4a63,2,0.0743427079547401
 'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,3,0.0723783770028709
 'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.0713943080695757
@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Ski',de,Impacts,#a89216,#bfba22,1,0.0563581384997368
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.0508169880713419
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.0473751974993798
-'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.04032998081555882
+'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.0403299808155588
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.039869274099958
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0347431488060118
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.0335118730936866
