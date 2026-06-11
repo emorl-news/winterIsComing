@@ -17,11 +17,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,1,0.056246589555648
 'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.0518065554244889
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.0403299808155588
-'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.04026891787447283
+'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.0402689178744728
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.039869274099958
-'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.0367152738815445
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0347431488060118
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.0335118730936866
+'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.031207982799312823
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0295187783336632
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.0228598422924242
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.0120429724037297
