@@ -24,6 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.02953167648511
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0295187783336632
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.0228598422924242
-'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.010236526543170244
+'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.0102365265431702
 'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.0041346078210963
-'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.0006037819071238
+'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.0005132146210552299
