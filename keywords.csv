@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,1,0.056246589555648
 'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.0518065554244889
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.0403299808155588
-'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.039869274099958
+'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.0344889429849643
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.0342285801933018
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.0335118730936866
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.0312079827993128
