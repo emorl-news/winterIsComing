@@ -18,11 +18,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.0518065554244889
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.0403299808155588
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.0342285801933018
-'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.0335118730936866
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.0312079827993128
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.0299156615372196
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.02953167648511
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0295187783336632
+'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.028635107129633606
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.0228598422924242
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.0087010475616946
 'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.0041346078210963
