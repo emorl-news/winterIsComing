@@ -21,8 +21,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.0299156615372196
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.0286351071296336
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.0265267853794158
-'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.026141066583613717
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0251019250123435
+'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.023270011596071644
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.0140388006478349
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.0073958904274404
 'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.0035144166479318
