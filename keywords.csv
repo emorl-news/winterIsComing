@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Schneefall',de,Hazard,#4287f5,#638ed4,2,0.0971413493004795
+'Schneefall',de,Hazard,#4287f5,#638ed4,1,0.08257052190540758
 'Frost',de,Hazard,#4287f5,#315fa8,3,0.0700617424044297
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,2,0.0598429642267888
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.0541702819104856
@@ -24,6 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0251019250123435
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0208296148566608
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.0086215784478515
-'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.005343530833825655
+'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.0053435308338256
 'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.0035144166479318
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,0.0002277160538147
