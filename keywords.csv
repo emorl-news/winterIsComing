@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneefall',de,Hazard,#4287f5,#638ed4,2,0.0810912751975313
-'Schnee Eis',de,Hazard,#4287f5,#638ed4,2,0.06610453377867875
+'Schnee Eis',de,Hazard,#4287f5,#638ed4,2,0.0661045337786787
+'Schnee Klimawandel',de,Causes,#679e2c,#477515,1,0.06333031553169566
 'Frost',de,Hazard,#4287f5,#315fa8,3,0.0557654211541203
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.0541702819104856
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,1,0.0539256221183592
-'Schnee Klimawandel',de,Causes,#679e2c,#477515,1,0.053329430037289
 'Glatteis',de,Hazard,#4287f5,#3b4a73,2,0.0511485747451269
 'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,1,0.0507627199254241
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.0504459551631361
