@@ -24,6 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.0151874028711001
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0094023064221015
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.0032516241355299
-'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.00201531006570443
-'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.0015593653370256
+'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.0020153100657044
+'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.00132546053647176
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,6.205046706365696e-05
