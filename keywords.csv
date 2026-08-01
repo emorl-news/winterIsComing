@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.0825905332395608
+'Schnee Ski',de,Impacts,#a89216,#bfba22,2,0.06883321062301218
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,2,0.0564290477796174
 'Frost',de,Hazard,#4287f5,#315fa8,3,0.0495601929315094
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,1,0.0371641272817275
-'Schnee Ski',de,Impacts,#a89216,#bfba22,1,0.0369905547436507
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,1,0.0364795577002133
 'Schneefall',de,Hazard,#4287f5,#638ed4,1,0.0358378927706856
 'Glätte',de,Hazard,#4287f5,#4b4a63,1,0.0351632353762135
-'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,1,0.03436069703343732
+'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,1,0.0343606970334373
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.0342804836932249
 'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.0335188518986384
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,1,0.0334201763864533
