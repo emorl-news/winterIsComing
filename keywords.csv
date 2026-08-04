@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,1,0.0708896881894683
-'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.0706519982536266
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,2,0.0667468898389553
+'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.06050424351558261
 'Schnee Ski',de,Impacts,#a89216,#bfba22,1,0.0585085590295602
 'Frost',de,Hazard,#4287f5,#315fa8,3,0.0470777839917829
 'Schneefall',de,Hazard,#4287f5,#638ed4,1,0.0358378927706856
