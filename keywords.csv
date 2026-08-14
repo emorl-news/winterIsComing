@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.0332673243782768
 'Glatteis',de,Hazard,#4287f5,#3b4a73,1,0.0308116975797159
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.0298967306853203
-'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.02939111411384264
+'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.0293911141138426
 'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,1,0.0291470975827379
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.0291384111392411
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,1,0.0253806591066584
@@ -19,11 +19,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.0243398410601885
 'Eis Unfälle',de,Impacts,#a89216,#87830f,1,0.0218921288581012
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0216366662604919
-'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.0151874028711001
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.0149009048264082
+'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.012909292440435084
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.009590275669609
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0079919604587862
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.0023492984379203
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.0012376522941006
 'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.0006918986841664
-'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,1.9891958057758757e-05
+'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,1.989195805775876e-05
