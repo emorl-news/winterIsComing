@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.0670766842939075
 'Schneefall',de,Hazard,#4287f5,#638ed4,2,0.0655502702788657
 'Schnee Ski',de,Impacts,#a89216,#bfba22,2,0.0614144059054057
-'Frost',de,Hazard,#4287f5,#315fa8,3,0.044167997341734495
+'Frost',de,Hazard,#4287f5,#315fa8,3,0.0441679973417344
 'Glätte',de,Hazard,#4287f5,#4b4a63,1,0.0351632353762135
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,1,0.0334201763864533
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,2,0.0332948684384041
@@ -25,5 +25,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0079919604587862
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.0023492984379203
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.0012376522941006
-'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.0006918986841664
+'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.00058811388154144
 'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,1.989195805775876e-05
