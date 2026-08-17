@@ -3,13 +3,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,2,0.0758915101724955
 'Schneefall',de,Hazard,#4287f5,#638ed4,2,0.0655502702788657
 'Schnee Ski',de,Impacts,#a89216,#bfba22,2,0.0614144059054057
-'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.05776525664982137
+'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.0577652566498213
 'Frost',de,Hazard,#4287f5,#315fa8,3,0.0441679973417344
+'Glatteis',de,Hazard,#4287f5,#3b4a73,1,0.03967859948122005
 'Glätte',de,Hazard,#4287f5,#4b4a63,1,0.0351632353762135
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,1,0.0334201763864533
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,2,0.0332948684384041
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.0332673243782768
-'Glatteis',de,Hazard,#4287f5,#3b4a73,1,0.0308116975797159
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.0298967306853203
 'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.0293911141138426
 'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,1,0.0291470975827379
