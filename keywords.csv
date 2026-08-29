@@ -18,7 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.0230502614472512
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0183911663214181
 'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.0170544052889097
-'Eis Unfälle',de,Impacts,#a89216,#87830f,1,0.0148606452349813
+'Eis Unfälle',de,Impacts,#a89216,#87830f,1,0.013231608449734105
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.0126657691024469
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.0096044915382142
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.009590275669609
