@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.0297810146757952
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,1,0.0295874113882855
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,1,0.0294572549284853
-'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.028657074617694463
-'Glätte',de,Hazard,#4287f5,#4b4a63,1,0.0285674976822386
+'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.0286570746176944
+'Glätte',de,Hazard,#4287f5,#4b4a63,1,0.026082553029902807
 'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,1,0.0257542475035281
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.0216003879201438
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,1,0.0215735602406596
