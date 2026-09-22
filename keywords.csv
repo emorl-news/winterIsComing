@@ -19,9 +19,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.0177189203956389
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.0175855351659861
 'Eis Unfälle',de,Impacts,#a89216,#87830f,1,0.0132316084497341
-'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.0080558932000401
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.0072167728863597
-'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.007056486921292459
+'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.0070564869212924
+'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.006997524220034085
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0047747016281625
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.001042396197553
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.0002071127494544
