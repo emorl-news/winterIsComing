@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Schnee Ski',de,Impacts,#a89216,#bfba22,1,0.0836725610819802
+'Schnee Ski',de,Impacts,#a89216,#bfba22,1,0.09048861358634984
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.0782377068383613
 'Frost',de,Hazard,#4287f5,#315fa8,3,0.060353238809236
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.044179699353262
@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,1,0.0294572549284853
 'Glätte',de,Hazard,#4287f5,#4b4a63,1,0.0260825530299028
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,1,0.0257493596800426
-'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,1,0.022341155377998884
+'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,1,0.0223411553779988
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,1,0.0215735602406596
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.0208162091713091
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.0183603297321222
