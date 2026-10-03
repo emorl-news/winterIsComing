@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.0062980438830985
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.0053332389989745
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.0052141184103948
-'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.004508541383938125
+'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.004282305176347385
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.000753131252732
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,0.0001760458370362
 'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,0.0001157845701127
