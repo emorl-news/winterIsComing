@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Ski',de,Impacts,#a89216,#bfba22,1,0.0752938856133599
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.0652238440645059
-'Frost',de,Hazard,#4287f5,#315fa8,3,0.0605127407154302
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.0598426605122883
+'Frost',de,Hazard,#4287f5,#315fa8,3,0.05608870960811566
 'Glatteis',de,Hazard,#4287f5,#3b4a73,1,0.0382963596483232
 'Schneefall',de,Hazard,#4287f5,#638ed4,2,0.0348939245680229
-'Schnee Klimawandel',de,Causes,#679e2c,#477515,2,0.034361296369829056
+'Schnee Klimawandel',de,Causes,#679e2c,#477515,2,0.034361296369829
 'Eis Frost',de,Hazard,#4287f5,#022f78,1,0.0339690004037581
 'Schnee Verkehr',de,Impacts,#a89216,#87830f,1,0.0294572549284853
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,1,0.0257493596800426
