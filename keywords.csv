@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Frost',de,Hazard,#4287f5,#315fa8,3,0.08595799490334757
+'Frost',de,Hazard,#4287f5,#315fa8,3,0.0859579949033475
 'Schnee Ski',de,Impacts,#a89216,#bfba22,2,0.0679001927713559
-'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.0616112832775503
+'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.054919845785917756
 'Schnee Eis',de,Hazard,#4287f5,#638ed4,3,0.0521621764394473
 'Schnee Klimawandel',de,Causes,#679e2c,#477515,2,0.0416671486751666
 'Schneefall',de,Hazard,#4287f5,#638ed4,2,0.0348939245680229
