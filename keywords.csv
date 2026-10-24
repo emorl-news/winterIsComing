@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.0158104927297533
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.0156062802723038
 'Eis Unfälle',de,Impacts,#a89216,#87830f,1,0.0132316084497341
-'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.0092362625954209
+'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.007850823206107764
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0077700975368702
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.0053829199555386
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.0052141184103948
