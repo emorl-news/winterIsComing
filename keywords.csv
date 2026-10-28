@@ -11,14 +11,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,1,0.0241371807280362
 'Glätte',de,Hazard,#4287f5,#4b4a63,1,0.0239703500754173
 'Schnee Wetterdienst',de,Mitigation,#9e3215,#802d16,1,0.0223411553779988
-'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.0177189203956389
 'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.0175855351659861
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,1,0.0169970382738765
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.0158104927297533
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.0156062802723038
+'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.015211097336293064
 'Eis Unfälle',de,Impacts,#a89216,#87830f,1,0.0113968821822739
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0067545979063396
-'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.006673199725191545
+'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.0066731997251915
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.0052141184103948
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.0048755119622078
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.0046832681491283
