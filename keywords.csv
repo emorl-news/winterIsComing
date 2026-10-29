@@ -17,8 +17,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.0156062802723038
 'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.015211097336293
 'Eis Unfälle',de,Impacts,#a89216,#87830f,1,0.0113968821822739
-'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0067545979063396
 'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.0066731997251915
+'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.005891423220388659
 'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.0052141184103948
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.0048755119622078
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.0046832681491283
