@@ -17,11 +17,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.0156062802723038
 'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.015211097336293
 'Eis Unfälle',de,Impacts,#a89216,#87830f,1,0.0113968821822739
-'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.0066731997251915
 'Schnee Rodeln',de,Impacts,#a89216,#bfba22,1,0.0058914232203886
+'Schnee streuen',de,Mitigation,#9e3215,#9e3215,1,0.005672219766412775
 'Schnee Sperrung',de,Mitigation,#9e3215,#802d16,1,0.0048755119622078
 'Glatteis Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.0046832681491283
-'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.00458201564883558
+'Glatteis Stau',de,Impacts,#a89216,#a89216,1,0.0045820156488355
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0011668875858801
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.0003341683378468
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,9.1897027219245e-05
