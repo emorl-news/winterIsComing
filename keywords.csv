@@ -25,5 +25,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost Verspätung',de,Impacts,#a89216,#a89216,1,0.0007166148386784
 'Schnee Luftmassengrenze',de,Causes,#679e2c,#7db344,1,0.0003341683378468
 'Schnee Räumfahrzeug',de,Mitigation,#9e3215,#b55035,1,7.811247313635824e-05
-'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,5.137422886453371e-05
-'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,3.4209811226543006e-07
+'Schnee Umleitung',de,Mitigation,#9e3215,#802d16,1,4.366809453485365e-05
+'Schnee Tiefdruck',de,Causes,#679e2c,#679e2c,1,3.420981122654301e-07
