@@ -10,10 +10,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Ski',de,Impacts,#a89216,#bfba22,2,0.0511420788941483
 'Schnee Wetterlage',de,Causes,#679e2c,#7db344,1,0.0386020293260061
 'Kälteeinbruch',de,Causes,#679e2c,#61b00c,1,0.0305496537571787
-'Schnee Verkehr',de,Impacts,#a89216,#87830f,1,0.021184251860512603
-'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.0175855351659861
+'Schnee Verkehr',de,Impacts,#a89216,#87830f,1,0.0211842518605126
 'Schnee Winterdienst',de,Mitigation,#9e3215,#9e3215,1,0.0169970382738765
 'glatte Straßen',de,Impacts,#a89216,#87830f,1,0.015211097336293
+'Frost Flughafen',de,Impacts,#a89216,#bfba22,1,0.014947704891088183
 'Schnee Langlauf',de,Impacts,#a89216,#bfba22,1,0.0140389788202903
 'Eis Unfälle',de,Impacts,#a89216,#87830f,1,0.0113968821822739
 'Schnee Schulausfälle',de,Mitigation,#9e3215,#802d16,1,0.0112755374967394
